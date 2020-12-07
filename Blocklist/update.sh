@@ -18,6 +18,8 @@ wget -qO - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.p2p'
 ## Let's combine and sort the list to our own
 cat 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' 'Bluetack_level3.p2p' | sort -u > ${ROOT_DIR}/docs/torrent.p2p
 
+gzip -vc ${ROOT_DIR}/docs/torrent.p2p > ${ROOT_DIR}/docs/torrent.gz
+
 ## Cleanup
 rm Bluetack_level*.p2p
 
