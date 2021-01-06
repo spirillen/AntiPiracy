@@ -16,15 +16,19 @@ wget -qO- 'http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&fileformat=p2p&
 wget -qO - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.p2p'
 
 ## Let's combine and sort the list to our own
-cat 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' 'Bluetack_level3.p2p' | sort -u > ${ROOT_DIR}/docs/torrent.p2p
+cat 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' 'Bluetack_level3.p2p' | sort -u > "${ROOT_DIR}/docs/torrent.p2p"
 
-gzip -vc ${ROOT_DIR}/docs/torrent.p2p > ${ROOT_DIR}/docs/torrent.gz
+## Copy to public
+cd "${ROOT_DIR}/docs/"
+
+gzip -k -9 -f torrent.p2p
 
 ## Cleanup
-rm Bluetack_level*.p2p
+
+
+rm "${ROOT_DIR}/Blocklist/Bluetack_level1.p2p" \
+  "${ROOT_DIR}/Blocklist/Bluetack_level2.p2p" \
+  "${ROOT_DIR}/Blocklist/Bluetack_level3.p2p" \
+  "${ROOT_DIR}/Blocklist/antip2p.p2p"
 
 cd "${ROOT_DIR}"
-
-git add -A . 
-git commit -m "AntiPiracy list updated: `date '+%d. %B %Y %H:%M %Z'`"
-#git push -u origin master
