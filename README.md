@@ -2,17 +2,6 @@
 
 To keep track of current torrent and what have been done
 
-## File structure
-
-- Downloaded/ - Files that's only downloaded, yet not processed, worker by folder
-
-- Published/ - Files that have been processed and published
-
-- ToDo/ - Files that is being downloaded, WAITING. worker by folder
-
-- Done/ - Files Done downloding, awaiting publishing. Worker by folder
-
-
 
 https://silo.glasz.org/antip2p.list.gz
 
