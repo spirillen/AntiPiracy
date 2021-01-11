@@ -5,7 +5,6 @@
 ROOT_DIR="$(git rev-parse --show-toplevel)"
 
 mkdir -p "${ROOT_DIR}/docs"
-mkdir -p "${ROOT_DIR}/public"
 
 cd "${ROOT_DIR}/Blocklist/"
 
@@ -27,7 +26,7 @@ wget -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/
 
 cat 'antip2p.p2p' 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' \
     'Bluetack_level3.p2p' 'WindowsSpyBlocker.txt' | \
-    sort -u > "${ROOT_DIR}/public/torrent.p2p"
+    sort -u > "${ROOT_DIR}/docs/torrent.p2p"
 
 ## Copy to public
 cd "${ROOT_DIR}/docs/"
