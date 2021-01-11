@@ -5,6 +5,8 @@
 ROOT_DIR="$(git rev-parse --show-toplevel)"
 
 mkdir -p "${ROOT_DIR}/docs"
+mkdir -p "${ROOT_DIR}/public"
+
 cd "${ROOT_DIR}/Blocklist/"
 
 wget -qO- 'http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=gz' | gunzip - > 'Bluetack_level1.p2p'
@@ -22,9 +24,10 @@ wget -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/
 wget -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/p2p/update.txt' | grep -vE '^(#|$)' >> WindowsSpyBlocker.txt
 
 ## Let's combine and sort the list to our own
+
 cat 'antip2p.p2p' 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' \
     'Bluetack_level3.p2p' 'WindowsSpyBlocker.txt' | \
-    sort -u > ${ROOT_DIR}/public/torrent.p2p
+    sort -u > "${ROOT_DIR}/public/torrent.p2p"
 
 ## Copy to public
 cd "${ROOT_DIR}/docs/"
