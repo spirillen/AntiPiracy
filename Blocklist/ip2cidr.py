@@ -23,13 +23,19 @@ Example of ip layouts in read-in
 Also support the same for IPv6
 """
 
-with open ('lorem.txt', 'rt') as myfile:  # Open lorem.txt for reading text
-    contents = myfile.read()              # Read the entire file to a string
-print(contents)                           # Print the string
+import os
+import gzip
+from urllib.request import urlopen
+
+#with gzip.open('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz', 'rb') as input:  # Open lorem.txt for reading text
+#    for contents in input:
+#        #contents = myfile.read()              # Read the entire file to a string
+#        print(contents)                           # Print the string
 
 
-
-
+data = urlopen('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz').read()
+with gzip.open(data) as input:
+    print(input)
 
 
 
@@ -49,6 +55,7 @@ Sources for learning this script
 
 open file and read as variable:
 https://www.computerhope.com/issues/ch001721.htm
+https://docs.python.org/3/library/functions.html#open
 
 ipaddress: https://docs.python.org/3/library/ipaddress.html
 """
