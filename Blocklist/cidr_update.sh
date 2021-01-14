@@ -13,8 +13,10 @@ wget -qO- 'http://list.iblocklist.com/?list=gyisgnzbhppbvsphucsw&fileformat=cidr
 
 wget -qO- 'http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&fileformat=cidr&archiveformat=gz' | gunzip - > 'Bluetack_level3.cidr'
 
-cat 'Bluetack_level*.cidr' 'torrent.cidr' | sort -u > 'torrent.cidr.tmp' \
-  && mv 'torrent.cidr.tmp' 'torrent.cidr'
+#cat 'Bluetack_level*.cidr' 'torrent.cidr' | sort -u > 'torrent.cidr.tmp' \
+#  && mv 'torrent.cidr.tmp' 'torrent.cidr'
+
+$(command python3.9 ${ROOT_DIR}/Blocklist/ip2cidr.py)
 
 wget -qO - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.cidr.tmp'
 
