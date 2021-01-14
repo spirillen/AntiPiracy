@@ -1,4 +1,4 @@
-#!/usr/bin/python3.9
+#!/usr/bin/env python3.9
 # -*- coding: utf-8 -*-
 
 """
@@ -61,9 +61,13 @@ with gzip.open('level3.gz', 'rb') as ip4:
             cidr.append(content3.rstrip('\n'))
 
 res = list(OrderedDict.fromkeys(cidr))
-for element in res:
-    print(str(element))
+#for element in res:
+#    print(str(element))
 
+pattern = '?^(#|$)'
+with open('torrent.cidr', 'w') as new_file:
+    for element in re.findall(pattern, new_file):
+        new_file.write(str(element))
 
 
 """
