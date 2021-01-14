@@ -40,10 +40,7 @@ with gzip.open('cidr.gz', 'rb') as ip:
         with io.TextIOWrapper(ip, encoding='utf-8') as decoder:
             # Let's read the content using read()
             content = decoder.read()
-            ipaddress.with_prefixlen
-            ipaddress.is_global
-            if ipaddress.IPv4Network('content', strict=True):
-                cidr.append(content.rstrip('\n'))
+            cidr.append(content.rstrip('\n'))
 
 with gzip.open('level1.gz', 'rb') as ip2:
         with io.TextIOWrapper(ip2, encoding='utf-8') as decoder2:
