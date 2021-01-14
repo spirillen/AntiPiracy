@@ -16,7 +16,7 @@ wget -qO level3.gz 'http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&filefo
 #cat 'Bluetack_level*.cidr' 'torrent.cidr' | sort -u > 'torrent.cidr.tmp' \
 #  && mv 'torrent.cidr.tmp' 'torrent.cidr'
 
-$(which python3.9) "Blocklist/ip2cidr.py"
+$(which python3.9) "${ROOT_DIR}/Blocklist/ip2cidr.py"
 
 wget -qO - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.cidr.tmp'
 
