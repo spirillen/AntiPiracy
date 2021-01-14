@@ -23,21 +23,49 @@ Example of ip layouts in read-in
 Also support the same for IPv6
 """
 
-import os
+import re
+import urllib.request
 import gzip
-from urllib.request import urlopen
+import os
+import io
+from collections import OrderedDict
+import ipaddress
 
-#with gzip.open('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz', 'rb') as input:  # Open lorem.txt for reading text
-#    for contents in input:
-#        #contents = myfile.read()              # Read the entire file to a string
-#        print(contents)                           # Print the string
+target_url = 'http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz'
 
-
-data = urlopen('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz').read().gzip.open()
-for input in data:
-    print(input)
+cidr = [ ]
 
 
+with gzip.open('cidr.gz', 'rb') as ip:
+        with io.TextIOWrapper(ip, encoding='utf-8') as decoder:
+            # Let's read the content using read()
+            content = decoder.read()
+            ipaddress.with_prefixlen
+            ipaddress.is_global
+            if ipaddress.IPv4Network('content', strict=True):
+                cidr.append(content.rstrip('\n'))
+
+with gzip.open('level1.gz', 'rb') as ip2:
+        with io.TextIOWrapper(ip2, encoding='utf-8') as decoder2:
+            # Let's read the content using read()
+            content1 = decoder2.read()
+            cidr.append(content1.rstrip('\n'))
+
+with gzip.open('level2.gz', 'rb') as ip3:
+        with io.TextIOWrapper(ip3, encoding='utf-8') as decoder3:
+            # Let's read the content using read()
+            content2 = decoder3.read()
+            cidr.append(content2.rstrip('\n'))
+
+with gzip.open('level3.gz', 'rb') as ip4:
+        with io.TextIOWrapper(ip4, encoding='utf-8') as decoder4:
+            # Let's read the content using read()
+            content3 = decoder4.read()
+            cidr.append(content3.rstrip('\n'))
+
+res = list(OrderedDict.fromkeys(cidr))
+for element in res:
+    print(str(element))
 
 
 
