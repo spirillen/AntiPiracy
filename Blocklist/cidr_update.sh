@@ -13,6 +13,9 @@ wget -O- 'http://list.iblocklist.com/?list=gyisgnzbhppbvsphucsw&fileformat=cidr&
 
 wget -O- 'http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&fileformat=cidr&archiveformat=gz' | gunzip - > 'Bluetack_level3.cidr'
 
+cat 'Bluetack_level*.cidr' 'torrent.cidr' | sort -u > 'torrent.cidr.tmp' \
+  && mv 'torrent.cidr.tmp' 'torrent.cidr'
+
 wget -O - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.cidr.tmp'
 
 cut -d ':' -f 2 'antip2p.cidr.tmp' > 'antip2p.txt'
