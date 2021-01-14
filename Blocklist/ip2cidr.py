@@ -33,8 +33,8 @@ from urllib.request import urlopen
 #        print(contents)                           # Print the string
 
 
-data = urlopen('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz').read()
-with gzip.open(data) as input:
+data = urlopen('http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz').read().gzip.open()
+for input in data:
     print(input)
 
 
