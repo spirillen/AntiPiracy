@@ -28,9 +28,9 @@ $(which python3.9) "Blocklist/ip2cidr.py"
 
 
 ## Cleanup
-rm "${ROOT_DIR}/Blocklist/Bluetack_level1.gzip" \
-  "${ROOT_DIR}/Blocklist/Bluetack_level2.gzip" \
-  "${ROOT_DIR}/Blocklist/Bluetack_level3.gzip" \
+rm "${ROOT_DIR}/Blocklist/level1.gz" \
+  "${ROOT_DIR}/Blocklist/level2.gz" \
+  "${ROOT_DIR}/Blocklist/level3.gz" \
   "${ROOT_DIR}/Blocklist/antip2p.cidr.tmp" \
   "${ROOT_DIR}/Blocklist/antip2p.txt"
 
