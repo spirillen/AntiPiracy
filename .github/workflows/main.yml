@@ -35,16 +35,20 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Update the lists
+      - name: Update the CIDR lists
         run: |
-          bash "${{ github.workspace }}/deploy.sh"
+          bash "${{ github.workspace }}/Blocklist/cidr_update.sh"
+
+      - name: Update the IP-Range lists
+        run: |
+          bash "${{ github.workspace }}/Blocklist/update.sh"
 
       - name: Commit changes
         run: |
           tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config --local user.name "${GIT_NAME}"
           git config --local user.email "${GIT_EMAIL}"
-          git commit -m "Committed new lists $(tag)" -a
+          git commit -m "AntiPiracy list updated: `date '+%d. %B %Y %H:%M %Z'`" -a
           git pull --rebase
 
       - name: Push changes
