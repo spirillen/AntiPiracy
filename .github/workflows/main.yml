@@ -48,6 +48,7 @@ jobs:
           tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config --local user.name "${GIT_NAME}"
           git config --local user.email "${GIT_EMAIL}"
+          git add .
           git commit -m "AntiPiracy list updated: `date '+%d. %B %Y %H:%M %Z'`" -a
           git pull --rebase
 
