@@ -12,4 +12,4 @@ Other hot places could be https://www.qbittorrent.org/
 [Bluetack_level1.p2p](Blocklist/Bluetack_level1.p2p)  
 [Bluetack_level2.p2p](Blocklist/Bluetack_level2.p2p)  
 [Bluetack_level3.p2p](Blocklist/Bluetack_level3.p2p)  
-[torrent.p2p](Blocklist/torrent.p2p)
+[torrent.p2p](docs/torrent.p2p)
