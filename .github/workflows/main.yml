@@ -37,14 +37,14 @@ jobs:
 
       - name: Update the lists
         run: |
-        sudo bash "${{ github.workspace }}/deploy.sh"
+          bash "${{ github.workspace }}/deploy.sh"
 
       - name: Commit changes
         run: |
           tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config --local user.email github-actions@github.com
           git config --local user.name github-actions
-          git commit -m "Committed new lists $tag" -a
+          git commit -m "Committed new lists $(tag)" -a
           git pull --rebase
 
       - name: Push changes
