@@ -1,0 +1,54 @@
+name: Update external sources
+
+# Controls when the action will run. 
+on:
+  push:
+    branches:
+      - "master"
+  schedule:
+    - cron: "54 * * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+env:
+  GIT_NAME: "${{ secrets.GIT_NAME }}"
+  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
+  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+jobs:
+  scheduler:
+    name: Trigger action
+    runs-on: "${{ matrix.os }}"
+
+    strategy:
+      fail-fast: false
+      matrix:
+        python_version:
+          - "3.9.1"
+        os:
+          - ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@main #Obviously yet another american...
+        name: Clone repository
+        with:
+          token: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Update the lists
+        run: |
+        sudo bash "${{ github.workspace }}/deploy.sh"
+
+      - name: Commit changes
+        run: |
+          tag=$(date +'day: %j of year %Y %H:%M:%S')
+          git config --local user.email github-actions@github.com
+          git config --local user.name github-actions
+          git commit -m "Committed new lists $tag" -a
+          git pull --rebase
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
