@@ -114,6 +114,7 @@ CWIE, LLC:8.3.15.0-8.3.16.255
 CWIE, LLC:8.3.22.0-8.3.23.255
 Peak Web Hosting:8.4.34.0-8.4.35.255
 CWIE, LLC:8.4.225.0-8.4.225.255
+Akamai Customer Care:8.5.245.0-8.5.245.255
 CWIE, LLC:8.6.4.0-8.6.5.255
 CWIE, LLC:8.6.90.0-8.6.90.255
 Desync Corporation:8.6.220.0-8.6.223.255
@@ -191,6 +192,7 @@ SAC CAPITAL ADVISORS, LLC:12.15.170.104-12.15.170.111
 THE SALVATION ARMY SOC. SER:12.15.175.104-12.15.175.111
 AT&T Corp:12.15.194.0-12.15.194.255
 Prime Hospitality:12.15.219.0-12.15.219.15
+Prime Hospitality:12.15.219.80-12.15.219.95
 CNET:12.17.38.136-12.17.38.143
 AMAZON.COM:12.17.165.32-12.17.165.39
 Gei Consultants, Inc:12.17.207.0-12.17.207.15
@@ -452,6 +454,7 @@ AKAMAI TECHNOLOGIES, INC:12.182.252.0-12.182.253.255
 AMAZON.COM:12.183.78.48-12.183.78.63
 TELE-MEDIA CORPORATION:12.183.79.0-12.183.79.255
 AKAMAI TECHNOLOGIES, INC:12.183.124.0-12.183.125.255
+JUCHAU CONSULTING:12.183.160.0-12.183.160.255
 AMAZON.COM:12.183.163.32-12.183.163.47
 PUBLIC CONSULTING GROUP:12.183.174.160-12.183.174.191
 AMAZON.COM:12.184.134.208-12.184.134.215
@@ -2079,7 +2082,6 @@ AMAZON.COM:63.83.9.128-63.83.9.159
 Akamai Technologies:63.83.62.128-63.83.62.255
 The Church of the MSIA:63.83.198.176-63.83.198.191
 AMAZON.COM:63.84.16.56-63.84.16.63
-Logical Consulting Group:63.85.252.0-63.85.252.255
 Hotjobs.com:63.86.3.64-63.86.3.127
 MLAW Consultants and:63.88.123.80-63.88.123.95
 HotJobs.com:63.88.150.0-63.88.150.127
@@ -2134,6 +2136,7 @@ AKAMAI TECHNOLOGIES INC:63.147.82.64-63.147.82.127
 Owensboro Municipal Utilities:63.147.92.0-63.147.95.255
 Akamai:63.147.175.0-63.147.175.255
 Hughes Network Systems:63.148.74.160-63.148.74.191
+Hughes Network Systems:63.148.83.128-63.148.83.159
 Frankfort Electric and Water Plant Board:63.148.157.0-63.148.157.255
 Cky Murray Electric:63.149.19.0-63.149.19.255
 AKAMAI TECHNOLOGIES INC:63.149.190.112-63.149.190.119
@@ -2520,7 +2523,6 @@ Private Customer - SBC Internet Services:63.204.127.240-63.204.127.255
 Summit Real Estate Advisors:63.204.141.56-63.204.141.63
 Private Customer - SBC Internet Services:63.204.145.128-63.204.145.255
 Private Customer - SBC Internet Services:63.204.150.88-63.204.150.95
-Private Customer - SBC Internet Services:63.204.159.128-63.204.159.255
 Orange Covenant Church:63.204.167.240-63.204.167.247
 Private Customer - SBC Internet Services:63.204.168.64-63.204.168.71
 emmanuel reformed church:63.204.173.56-63.204.173.63
@@ -3785,7 +3787,6 @@ Private Customer - SBC Internet Services:65.64.40.104-65.64.40.111
 Private Customer - SBC Internet Services:65.64.40.192-65.64.40.199
 FIRST BAPTIST CHURCH:65.64.41.8-65.64.41.15
 Private Customer - SBC Internet Services:65.64.43.8-65.64.43.15
-Private Customer - SBC Internet Services:65.64.43.24-65.64.43.31
 Calvary Baptist Ch:65.64.43.72-65.64.43.79
 Personnel Consultants:65.64.46.48-65.64.46.63
 Private Customer - SBC Internet Services:65.64.52.16-65.64.52.23
@@ -4447,7 +4448,6 @@ Church Of The Nazerine:66.123.139.0-66.123.139.7
 Private Customer - SBC Internet Services:66.123.148.56-66.123.148.63
 WolfConsultingGr:66.123.167.176-66.123.167.183
 Private Customer - SBC Internet Services:66.123.214.96-66.123.214.103
-CatapultConsultingAssocLlc:66.123.217.8-66.123.217.15
 IntegratedConsultingInc:66.123.223.72-66.123.223.79
 Salvation Army12462538:66.123.229.136-66.123.229.143
 1st Presbyterian Church:66.123.237.56-66.123.237.63
@@ -5375,7 +5375,6 @@ Private Customer - SBC Internet Services:68.75.193.32-68.75.193.39
 Private Customer - SBC Internet Services:68.75.193.80-68.75.193.87
 Private Customer - SBC Internet Services:68.75.196.0-68.75.196.15
 Private Customer - SBC Internet Services:68.75.214.192-68.75.214.199
-Private Customer - SBC Internet Services:68.75.215.104-68.75.215.111
 Private Customer - SBC Internet Services:68.75.222.64-68.75.222.71
 Private Customer - SBC Internet Services:68.75.222.120-68.75.222.127
 Private Customer - SBC Internet Services:68.75.223.72-68.75.223.79
@@ -5608,6 +5607,7 @@ AKAMAI TECHNOLOGIES INC:68.177.187.128-68.177.187.255
 DOUBLE CLICK INTERNET CAFE:68.179.53.160-68.179.53.167
 Stratum on Highland apartments:68.180.22.0-68.180.23.255
 DSL Extreme:68.183.128.0-68.183.191.255
+Charter Communications:68.190.16.0-68.190.17.255
 Charter Communications:68.190.28.0-68.190.31.255
 Road Runner:68.205.60.0-68.205.63.255
 Road Runner:68.205.230.0-68.205.231.255
@@ -6225,7 +6225,6 @@ Private Customer - SBC Internet Services:69.111.137.208-69.111.137.215
 Private Customer - SBC Internet Services:69.111.138.0-69.111.138.15
 Private Customer - SBC Internet Services:69.111.140.192-69.111.140.223
 Private Customer - SBC Internet Services:69.111.145.80-69.111.145.87
-Private Customer - SBC Internet Services:69.111.147.88-69.111.147.95
 Private Customer - SBC Internet Services:69.111.147.152-69.111.147.159
 Private Customer - SBC Internet Services:69.111.150.32-69.111.150.39
 Private Customer - SBC Internet Services:69.111.150.104-69.111.150.111
@@ -6812,7 +6811,6 @@ PREMIER CONSULT-050108011529:70.248.111.48-70.248.111.55
 G B CONSULTANTS COMPANY-050111004017:70.248.164.208-70.248.164.215
 Commodity Advisory Corporation of Texas:70.248.166.0-70.248.166.127
 Advisor Co-050112031803:70.248.204.112-70.248.204.119
-Private Customer - SBC Internet Services:70.248.204.120-70.248.204.127
 BRYAN SCHIEFFER-050926224722:70.252.29.72-70.252.29.79
 DON BERTELSMANN-051008021003:70.253.186.232-70.253.186.239
 MEGAPATH-051029044636:70.253.207.120-70.253.207.127
@@ -7238,6 +7236,7 @@ ARMELLINI CONSULTING & CO SRL:80.18.111.136-80.18.111.143
 G.P. CONSULTING SRL:80.18.146.72-80.18.146.79
 PRIME CONSULT SIM SPA:80.18.159.0-80.18.159.7
 SELLA CONSULT SIMPA:80.18.162.88-80.18.162.103
+SELLA CONSULT SIMPA:80.18.163.16-80.18.163.23
 REINER WERT CONSULTING SAS DI GUELFI SILVANO & C:80.18.167.64-80.18.167.71
 ABV CONSULT SRL:80.18.174.128-80.18.174.135
 INTERNETCONSULTINGGMBH:80.18.240.160-80.18.240.167
@@ -7267,7 +7266,6 @@ INTERTEC CONSULTING SRL:80.19.189.64-80.19.189.127
 SERVICE & CONSULTING SAS:80.19.190.192-80.19.190.207
 PRIME CONSULT SIM SPA:80.19.204.176-80.19.204.183
 EUROCONSULT S.R.L:80.19.221.168-80.19.221.175
-EUROCONSULT S.R.L:80.19.221.192-80.19.221.199
 md consult srl:80.19.221.208-80.19.221.215
 INETCONSULTINGSRL:80.19.223.32-80.19.223.39
 FC CONSULTING DI FABRIZIO CELEBRINI:80.19.238.16-80.19.238.23
@@ -7492,6 +7490,7 @@ Akamai International B.V:80.154.117.0-80.154.118.255
 DE1810.00 - Autohaus Meyer & Ziegler GmbH:80.156.7.152-80.156.7.159
 Akamai International B.V:80.157.149.0-80.157.151.127
 Akamai International B.V:80.157.169.0-80.157.170.255
+Havnecon Consulting A-S:80.161.200.128-80.161.200.135
 TDC Bredbaand Professional users:80.163.77.32-80.163.77.103
 Jep-It Consulting:80.163.105.96-80.163.105.103
 Interprise Consulting A-S:80.163.230.192-80.163.230.207
@@ -8878,6 +8877,7 @@ Mr Oguz Solok:88.96.89.216-88.96.89.223
 Mr Andrew Langley:88.96.96.176-88.96.96.183
 Mr Simon Mortenson:88.96.111.48-88.96.111.55
 Byethost Internet Ltd:88.96.125.240-88.96.125.247
+Mr Alan Jones:88.96.149.48-88.96.149.55
 (W) Mr Paul Bryan:88.97.185.208-88.97.185.215
 Mr Robin Breathe:88.97.208.72-88.97.208.79
 Tiscali UK Ltd:88.108.0.0-88.111.255.255
@@ -9526,6 +9526,7 @@ AMAZON DEVELOPMENT CENTRE (INDIA) PVT LTD:124.30.139.12-124.30.139.23
 UCOM Corporation:124.32.0.0-124.39.255.255
 Akamai International BV:124.40.41.0-124.40.42.255
 Akamai International BV:124.40.51.0-124.40.51.255
+Akamai International BV:124.40.52.128-124.40.52.255
 Akamai International BV:124.40.53.0-124.40.53.255
 Internet Initiative Japan Inc:124.41.0.0-124.41.191.255
 Huarui Xintong Network Technology Co Ltd:124.42.0.0-124.42.127.255
@@ -11142,7 +11143,6 @@ Eero Lehimijoki Consulting Oy:195.197.215.168-195.197.215.171
 Foxwise consulting Oy:195.197.215.176-195.197.215.183
 TEC TransEnergy Consulting OY:195.197.229.160-195.197.229.167
 SetCon Consulting Oy:195.197.230.152-195.197.230.159
-Doberman Consulting Oy:195.197.239.160-195.197.239.191
 Doberman Consulting Oy:195.197.239.240-195.197.239.247
 DBase Consulting Oy:195.197.250.72-195.197.250.79
 Helgstrand Consulting AB:195.198.174.248-195.198.174.255
@@ -14176,6 +14176,7 @@ Virtual Radiologic Consultants:210.0.81.176-210.0.81.179
 J & G Network Consulting Pty Ltd:210.0.83.148-210.0.83.151
 Oriium Consulting - Sydney:210.0.84.24-210.0.84.31
 Combined Training & Consulting (CTC):210.0.86.4-210.0.86.7
+Tokui Consulting:210.0.88.0-210.0.88.3
 Qest Consulting  - Flinders Lane INT:210.0.91.84-210.0.91.87
 Australian Union Conference SDA Church:210.0.93.100-210.0.93.103
 Lane Consulting:210.0.93.180-210.0.93.183
@@ -14720,6 +14721,7 @@ AKAMAI  - Streaming Media:212.23.33.0-212.23.33.63
 AKAMAI  - Streaming Media:212.23.37.0-212.23.37.63
 AKAMAI  - Streaming Media:212.23.59.0-212.23.59.63
 fb-Consulting:212.23.138.208-212.23.138.223
+Silent Consulting:212.24.86.128-212.24.86.143
 Jan Ebert - CIC Consulting:212.24.143.76-212.24.143.79
 Michael PolÃ¡k - Arachne Labs:212.24.158.200-212.24.158.207
 Neuapostolische Kirche International:212.25.17.72-212.25.17.79
@@ -14799,7 +14801,6 @@ IdecNet - Akamai subnet:212.64.165.32-212.64.165.63
 Bischoefliches Hilfswerk MISEREOR e.V:212.66.137.208-212.66.137.223
 upstreamNet Communications GmbH:212.69.160.0-212.69.191.255
 Net of Notes Consulting GmbH:212.69.163.0-212.69.163.255
-Amazon.com:212.72.48.92-212.72.48.95
 SKYPE-NL:212.72.48.144-212.72.48.159
 SPEEDERA-NL:212.72.49.0-212.72.49.31
 SKYPE-NL:212.72.49.128-212.72.49.159
@@ -16286,7 +16287,6 @@ Private Customer - SBC Internet Services:216.62.151.40-216.62.151.47
 Private Customer - SBC Internet Services:216.62.151.80-216.62.151.87
 1st Baptist Church of Pasadena:216.62.151.104-216.62.151.111
 Process Consulting Services Inc:216.62.176.152-216.62.176.159
-Oncology Consultants:216.62.180.176-216.62.180.183
 Palladian Analysis & Consulting-050126113402:216.62.181.88-216.62.181.95
 Private Customer - SBC Internet Services:216.62.181.168-216.62.181.175
 Private Customer - SBC Internet Services:216.62.183.56-216.62.183.63
@@ -17289,7 +17289,6 @@ Akamai Web Caching:216.253.153.0-216.253.153.255
 Destiny Metropolitan Worship Church:216.253.173.128-216.253.173.135
 Roe Minor Realty Consultants:216.253.173.200-216.253.173.207
 Our Lady Queen Martyrs Church:216.253.175.48-216.253.175.55
-classen computer consulting:216.253.195.184-216.253.195.191
 Strategic Advisors, Inc:216.253.196.136-216.253.196.143
 Behavorial Health Consultants:216.253.206.192-216.253.206.223
 Accounting and Consulting Group, LLP:216.253.207.40-216.253.207.47
