@@ -36,10 +36,10 @@ gzip -k -9 -f torrent.p2p
 ## Cleanup
 
 
-rm "${ROOT_DIR}/Blocklist/Bluetack_level1.p2p" \
-  "${ROOT_DIR}/Blocklist/Bluetack_level2.p2p" \
-  "${ROOT_DIR}/Blocklist/Bluetack_level3.p2p" \
-  "${ROOT_DIR}/Blocklist/antip2p.p2p" \
-  "${ROOT_DIR}/Blocklist/WindowsSpyBlocker.txt"
+#rm "${ROOT_DIR}/Blocklist/Bluetack_level1.p2p" \
+#  "${ROOT_DIR}/Blocklist/Bluetack_level2.p2p" \
+#  "${ROOT_DIR}/Blocklist/Bluetack_level3.p2p" \
+#  "${ROOT_DIR}/Blocklist/antip2p.p2p" \
+rm "${ROOT_DIR}/Blocklist/WindowsSpyBlocker.txt"
 
 cd "${ROOT_DIR}"
