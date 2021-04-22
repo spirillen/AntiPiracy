@@ -6,6 +6,13 @@ ROOT_DIR="$(git rev-parse --show-toplevel)"
 
 mkdir -p "${ROOT_DIR}/docs"
 
+## Cleanup before import
+rm "${ROOT_DIR}/Blocklist/Bluetack_level1.p2p" \
+  "${ROOT_DIR}/Blocklist/Bluetack_level2.p2p" \
+  "${ROOT_DIR}/Blocklist/Bluetack_level3.p2p" \
+  "${ROOT_DIR}/Blocklist/antip2p.p2p" \
+  "${ROOT_DIR}/Blocklist/WindowsSpyBlocker.txt"
+
 cd "${ROOT_DIR}/Blocklist/"
 
 wget -qO- 'http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=gz' | gunzip - > 'Bluetack_level1.p2p'
@@ -32,14 +39,5 @@ cat 'antip2p.p2p' 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' \
 cd "${ROOT_DIR}/docs/"
 
 gzip -k -9 -f torrent.p2p
-
-## Cleanup
-
-
-#rm "${ROOT_DIR}/Blocklist/Bluetack_level1.p2p" \
-#  "${ROOT_DIR}/Blocklist/Bluetack_level2.p2p" \
-#  "${ROOT_DIR}/Blocklist/Bluetack_level3.p2p" \
-#  "${ROOT_DIR}/Blocklist/antip2p.p2p" \
-rm "${ROOT_DIR}/Blocklist/WindowsSpyBlocker.txt"
 
 cd "${ROOT_DIR}"
