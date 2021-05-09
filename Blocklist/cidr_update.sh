@@ -18,7 +18,7 @@ wget -qO level3.gz 'http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&filefo
 
 wget -qO - 'https://silo.glasz.org/antip2p.list.gz' | gunzip - > 'antip2p.cidr.tmp'
 
-sed -i '/192\.168\.0\.0-192\.168\.255\.255/d;/RFC5735/d;/FNLC/d' 'antip2p.cidr.tmp'
+sed -i '/192\.168\.0\.0-192\.168\.255\.255/d;/RFC5735/d;/FNLC/d;/RFC1918/d' 'antip2p.cidr.tmp'
 
 cut -d ':' -f 2 'antip2p.cidr.tmp' > 'antip2p.txt'
 

@@ -35,7 +35,7 @@ cat 'antip2p.p2p' 'Bluetack_level1.p2p' 'Bluetack_level2.p2p' \
     'Bluetack_level3.p2p' 'WindowsSpyBlocker.txt' | \
     sort -u > "${ROOT_DIR}/docs/torrent.p2p"
 
-sed -i '/192\.168\.0\.0-192\.168\.255\.255/d;/RFC5735/d;/FNLC/d' "${ROOT_DIR}/docs/torrent.p2p"
+sed -i '/192\.168\.0\.0-192\.168\.255\.255/d;/RFC5735/d;/FNLC/d;/RFC1918/d' "${ROOT_DIR}/docs/torrent.p2p"
 
 ## Copy to public
 cd "${ROOT_DIR}/docs/"
