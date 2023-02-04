@@ -212,6 +212,7 @@ Acer Engineers &amp; Consultants:12.20.248.192-12.20.248.207
 AKAMAI TECHNOLOGIES, INC:12.21.72.0-12.21.73.255
 THE SALVATION ARMY SOC. SER:12.21.247.136-12.21.247.143
 ISWEST:12.22.54.0-12.22.54.255
+AMAZON.COM:12.22.55.0-12.22.55.7
 PARADIGM GLOBAL ADVISORS, LLC:12.23.1.240-12.23.1.255
 Computer Consultants, Corp:12.23.76.0-12.23.76.255
 AKAMAI TECHNOLOGIES, INC:12.23.120.0-12.23.121.255
@@ -542,7 +543,6 @@ YMCA-CUYAHOGA-FALLS:24.123.245.96-24.123.245.103
 CROSSTOWN-COMMUNITY-CHURCH:24.129.131.144-24.129.131.151
 DAVIS-ISLAND-BAPTIST-CHURCH:24.129.177.64-24.129.177.71
 San Bruno Municipal Cable TV:24.142.5.0-24.142.5.255
-San Bruno Municipal Cable TV:24.142.75.0-24.142.75.255
 Intelligent Communications, Inc:24.142.128.0-24.142.255.255
 San Bruno Municipal Cable TV:24.142.152.0-24.142.154.255
 San Bruno Municipal Cable TV:24.142.170.0-24.142.170.255
@@ -902,7 +902,6 @@ KGEx.com:61.61.0.0-61.61.191.255
 Sony Network Taiwan Ltd - static:61.62.0.0-61.62.3.255
 Sony Network Taiwan Ltd - static:61.62.12.0-61.62.27.255
 Sony Network Taiwan Ltd - static:61.62.30.0-61.62.35.255
-Sony Network Taiwan Ltd - static:61.62.38.0-61.62.43.255
 Sony Network Taiwan Ltd - static:61.62.46.0-61.62.46.255
 Sony Network Taiwan Ltd - static:61.62.48.0-61.62.55.255
 Sony Network Taiwan Ltd - static:61.62.58.0-61.62.65.255
@@ -1073,6 +1072,7 @@ catholic sansulpice monasterial:61.211.254.56-61.211.254.63
 Akamai International BV:61.213.147.0-61.213.147.127
 Akamai International BV:61.213.168.0-61.213.168.255
 Akamai International BV:61.213.179.0-61.213.179.255
+Akamai International:61.213.187.0-61.213.187.127
 Akamai International BV:61.213.191.192-61.213.191.255
 Energia Communications, Inc:61.213.240.0-61.213.255.255
 KDDI Corporation:61.215.0.0-61.215.127.255
@@ -2615,7 +2615,6 @@ Akamai Customer Care:63.208.157.32-63.208.157.63
 Akamai Customer Care:63.208.157.160-63.208.157.191
 Digital Realm, Inc:63.208.160.0-63.208.163.255
 CWIE, LLC:63.208.168.0-63.208.169.255
-Akamai Customer Care:63.208.170.192-63.208.170.255
 Akamai Customer Care:63.208.194.0-63.208.194.127
 Akamai 8CC Route:63.208.195.0-63.208.195.255
 CWIE, LLC:63.208.198.0-63.208.199.255
@@ -2950,6 +2949,7 @@ STATE STREET GLOBAL ADVISORS - GRUBER:64.55.115.208-64.55.115.215
 STATE STREET GLOBAL ADVISORS - LEBLANC:64.55.122.192-64.55.122.199
 STATE STREET GLOBAL ADVISORS - SCOTTI:64.55.122.200-64.55.122.207
 STATE STREET GLOBAL ADVISORS - MARTIN:64.55.123.176-64.55.123.183
+STATE STREET GLOBAL ADVISORS - COFFEY:64.55.126.200-64.55.126.207
 STATE STREET GLOBAL ADVISORS - BRENNER:64.55.139.192-64.55.139.199
 WICKBERG CONSULTING:64.55.143.176-64.55.143.191
 STRATFORD LAMB ADVISORS:64.55.144.216-64.55.144.223
@@ -3416,7 +3416,6 @@ Benchmark Consult Srv:64.168.37.192-64.168.37.199
 Private Customer - SBC Internet Services:64.168.46.56-64.168.46.63
 CygnusConsulting:64.168.72.80-64.168.72.87
 DoorHardwardConsultants2226474:64.168.78.64-64.168.78.71
-Metro Comm Church Of Sf:64.168.79.136-64.168.79.143
 Enoksen Consulting INC11278590:64.168.81.168-64.168.81.175
 Private Customer - SBC Internet Services:64.168.88.192-64.168.88.207
 Allin Consulting:64.168.92.64-64.168.92.79
@@ -3747,7 +3746,6 @@ DAN KNOX CONSULTING (ALGX):65.45.110.192-65.45.110.195
 DAN KNOX CONSULTING(NEW INTERFCE) (630694-P):65.45.240.0-65.45.240.255
 METROPOLITAN BROADBAND SYSTEMS (250048-1):65.46.172.100-65.46.172.103
 RAMAPO LEASING, LLC (257501-1):65.46.172.160-65.46.172.163
-Hurricane Electric, Inc:65.49.0.0-65.49.127.255
 Akamai Technologies Inc:65.49.29.0-65.49.29.255
 CWIE, LLC:65.57.72.32-65.57.72.63
 CWIE, LLC:65.57.174.32-65.57.174.63
@@ -4389,7 +4387,6 @@ Ananda Church Of:66.121.128.72-66.121.128.79
 Hly Nme Of Jesus Church:66.121.128.232-66.121.128.239
 Private Customer - SBC Internet Services:66.121.143.160-66.121.143.175
 Dimensions Consulting:66.121.144.96-66.121.144.127
-ZELOS CONSULTING-041028024422:66.121.151.24-66.121.151.31
 Bayview Consulting:66.121.155.136-66.121.155.143
 Private Customer - SBC Internet Services:66.121.158.160-66.121.158.167
 Private Customer - SBC Internet Services:66.121.158.168-66.121.158.175
@@ -4635,6 +4632,7 @@ NJ Tech Solutions, Inc:66.165.103.0-66.165.103.127
 NJ Tech Solutions, Inc:66.165.106.96-66.165.106.127
 NJ Tech Solutions, Inc:66.165.118.0-66.165.118.255
 NJ Tech Solutions, Inc:66.165.123.0-66.165.123.255
+NJ Tech Solutions, Inc:66.165.125.0-66.165.125.255
 *Europlay Capital Advisor:66.166.24.120-66.166.24.127
 Cyberonic Link:66.166.62.48-66.166.62.55
 Perlow, Jeremy:66.166.174.200-66.166.174.207
@@ -5365,7 +5363,6 @@ Private Customer - SBC Internet Services:68.74.250.160-68.74.250.167
 Private Customer - SBC Internet Services:68.75.84.80-68.75.84.87
 Private Customer - SBC Internet Services:68.75.86.144-68.75.86.151
 Private Customer - SBC Internet Services:68.75.87.40-68.75.87.47
-Private Customer - SBC Internet Services:68.75.87.128-68.75.87.135
 Private Customer - SBC Internet Services:68.75.96.48-68.75.96.55
 Private Customer - SBC Internet Services:68.75.98.72-68.75.98.79
 Private Customer - SBC Internet Services:68.75.98.152-68.75.98.159
@@ -5395,6 +5392,7 @@ Private Customer - SBC Internet Services:68.76.32.184-68.76.32.191
 Private Customer - SBC Internet Services:68.76.32.248-68.76.32.255
 Private Customer - SBC Internet Services:68.76.33.72-68.76.33.79
 Private Customer - SBC Internet Services:68.76.34.112-68.76.34.119
+Private Customer - SBC Internet Services:68.76.34.200-68.76.34.207
 Private Customer - SBC Internet Services:68.76.34.224-68.76.34.231
 Private Customer - SBC Internet Services:68.76.35.208-68.76.35.215
 Private Customer - SBC Internet Services:68.76.68.48-68.76.68.55
@@ -5929,6 +5927,7 @@ Private Customer - SBC Internet Services:69.108.53.16-69.108.53.23
 Private Customer - SBC Internet Services:69.108.53.72-69.108.53.79
 Private Customer - SBC Internet Services:69.108.53.160-69.108.53.183
 Private Customer - SBC Internet Services:69.108.54.192-69.108.54.199
+Private Customer - SBC Internet Services:69.108.61.32-69.108.61.39
 Private Customer - SBC Internet Services:69.108.62.224-69.108.62.231
 Private Customer - SBC Internet Services:69.108.63.16-69.108.63.23
 IRVNCA internal:69.108.64.0-69.108.127.255
@@ -6235,7 +6234,6 @@ Private Customer - SBC Internet Services:69.111.157.128-69.111.157.135
 Private Customer - SBC Internet Services:69.111.157.176-69.111.157.183
 Private Customer - SBC Internet Services:69.111.157.232-69.111.157.239
 Private Customer - SBC Internet Services:69.111.158.64-69.111.158.79
-Private Customer - SBC Internet Services:69.111.158.88-69.111.158.95
 Private Customer - SBC Internet Services:69.111.158.104-69.111.158.135
 Private Customer - SBC Internet Services:69.111.158.152-69.111.158.159
 Private Customer - SBC Internet Services:69.111.158.216-69.111.158.223
@@ -6597,7 +6595,6 @@ AOL-060113030129:70.142.234.128-70.142.234.143
 AOL-060114011833:70.142.235.48-70.142.235.63
 AOL-060114012022:70.142.235.64-70.142.235.79
 AOL-060114012238:70.142.235.80-70.142.235.95
-City of Elberton:70.150.9.0-70.150.9.255
 Cox Communications|Akamai:70.167.150.0-70.167.151.255
 WorldWide Merchant:70.167.221.2-70.167.221.9
 Myriad Network:70.169.195.0-70.169.195.255
@@ -8891,7 +8888,6 @@ Thomas Schnegg:88.116.199.188-88.116.199.191
 Thomas MAHLKNECHT:88.116.205.64-88.116.205.67
 Martin Bluethl:88.117.138.232-88.117.138.239
 Josef Hauer:88.117.140.132-88.117.140.135
-Robert Mahlknecht:88.117.180.8-88.117.180.11
 Network of Saratov branch of OJSC Volgatelecom:88.147.128.0-88.147.128.255
 NGI Spa:88.149.171.0-88.149.171.255
 NGI Spa:88.149.176.0-88.149.183.255
@@ -8928,7 +8924,6 @@ SC Xplor Network SRL:89.38.200.0-89.38.207.255
 PF Muhammad Ali:89.40.32.0-89.40.35.255
 SC COMMUNICATION DATA SYSTEM SRL:89.41.8.0-89.41.8.255
 SC Quantum Link SRL:89.42.68.0-89.42.69.255
-SC Softex SRL:89.43.28.0-89.43.28.255
 SC PI NET SRL:89.43.99.0-89.43.99.255
 SC Bluelink SRL:89.43.221.0-89.43.221.255
 PFA BOSTAN TUDOR-TEODOR:89.46.32.0-89.46.39.255
@@ -9295,6 +9290,7 @@ VIETEL GPRS:115.76.0.0-115.76.255.255
 Shengding Internet Club:115.85.192.224-115.85.192.231
 Zhanlvxianfeng Internet Club:115.85.192.232-115.85.192.239
 Feiche Internet Club:115.85.192.240-115.85.192.247
+Hongyan Internet Club:115.85.192.248-115.85.192.255
 Beijing Yiliyou Data Technology Ltd:115.100.0.0-115.103.255.255
 Beijing Time-vision Telecommunication Technical Ltd:115.105.0.0-115.107.255.255
 TATA Communications Ltd:115.108.0.0-115.119.255.255
@@ -9667,6 +9663,7 @@ Vodafone D2 GmbH:139.7.0.0-139.7.255.255
 Duke Energy Corporation:139.46.0.0-139.46.255.255
 Christ The King School:139.55.71.72-139.55.71.79
 Ameritech:139.76.0.0-139.76.255.255
+Hughes Network Systems, Inc:139.85.0.0-139.85.255.255
 KINX - Korea Internet Neutral eXchange:139.150.0.0-139.150.255.255
 Capitalonline Data Service Co Ltd:139.159.0.0-139.159.127.255
 KSC Commercial Internet Co. Ltd:140.149.0.0-140.149.255.255
@@ -9906,7 +9903,6 @@ Central Vermont Public Service (CVPS):170.46.0.0-170.46.255.255
 America Online:172.128.0.0-172.216.255.255
 PayPal, Inc:173.0.80.0-173.0.95.255
 Saaki.net:173.44.171.208-173.44.171.215
-Comcast Business Communications, LLC:173.160.0.0-173.167.255.255
 SoftLayer Technologies Inc:173.192.0.0-173.193.255.255
 Disqus, Inc (Big Head Labs, Inc):173.192.61.224-173.192.61.231
 Choopa, LLC:173.199.64.0-173.199.127.255
@@ -12133,7 +12129,6 @@ Catholic Church Insurances Limited:203.103.237.128-203.103.237.191
 Akamai International BV:203.105.65.0-203.105.65.127
 H T CONSULTING ASIA:203.106.24.0-203.106.24.63
 D&G Consulting:203.107.185.224-203.107.185.239
-Pahuma Consulting (Thailand) Co.,Ltd:203.107.188.144-203.107.188.151
 THE CATHOLIC ARCHDIOCESE OF SYDNEY:203.108.59.64-203.108.59.71
 Coolong Consulting:203.108.88.64-203.108.88.71
 SERVICE INDUSTRY ADVISORY GROUP PTY LTD:203.108.93.0-203.108.93.7
@@ -12809,7 +12804,6 @@ ECI CONSULTING:206.130.59.0-206.130.59.255
 The Salvation Army Grace Hospital -:206.130.186.0-206.130.186.255
 HawkNet Communications:206.130.227.0-206.130.227.255
 RealSelect, Inc:206.131.160.0-206.131.191.255
-1932.AKITE:206.132.96.0-206.132.96.255
 1932.AKITE:206.132.100.96-206.132.100.111
 1932.AKITE:206.132.211.0-206.132.211.255
 Make-A-Wish Foundation:206.135.6.0-206.135.6.255
@@ -13075,7 +13069,6 @@ Millenia Consulting and Systems INC:208.0.187.0-208.0.187.255
 Suburban Consulting Engineers,:208.1.89.160-208.1.89.223
 STS Consultants, LTD:208.1.211.128-208.1.211.255
 London Pacific Advisors:208.1.234.0-208.1.234.255
-VMC Consulting:208.2.148.16-208.2.148.31
 JEO CONSULTING GROUP INC:208.2.205.16-208.2.205.23
 Akamai Technologies:208.3.209.160-208.3.209.191
 Suburban Consulting Engineers,:208.4.69.192-208.4.69.255
@@ -13561,6 +13554,7 @@ Akamai Technologies Inc:209.51.174.96-209.51.174.127
 Maughns Computer Consulting, Ltd:209.51.179.0-209.51.179.255
 Kelch Consulting:209.51.202.0-209.51.202.63
 Spring Garden Corporate Advisors:209.51.230.136-209.51.230.143
+Worldwide Church of God:209.53.152.208-209.53.152.223
 The Roman Catholic Church Diocese of Phoenix:209.54.48.0-209.54.48.255
 The Roman Catholic Church Diocese of Phoenix:209.54.159.0-209.54.159.255
 CNC Global Consulting:209.54.223.88-209.54.223.95
@@ -13622,7 +13616,6 @@ International Church of the Foursquare Gospel:209.77.168.0-209.77.171.255
 Cadacus Consulting, Inc:209.77.179.32-209.77.179.63
 Private Customer - SBC Internet Services:209.77.206.0-209.77.206.255
 VERITY WEALTH ADVISORS-050427011622:209.77.232.240-209.77.232.255
-Private Customer - SBC Internet Services:209.77.242.136-209.77.242.143
 Second Baptist Church:209.78.24.24-209.78.24.31
 Cadacus Consulting, Inc:209.78.103.128-209.78.103.159
 Private Customer - SBC Internet Services:209.78.108.64-209.78.108.71
@@ -15280,6 +15273,7 @@ Circon Circle Consulting AG:212.254.110.128-212.254.110.191
 INS ENGINEERING CONSULTING AG:212.254.182.8-212.254.182.15
 NL CONSULTING:212.254.182.200-212.254.182.207
 ISABELLE KELLER:212.254.223.64-212.254.223.95
+nacamar GmbH:212.255.0.0-212.255.255.255
 Georg Seil Consulting GSC GmbH, Wiesbaden, NX-116:212.255.72.92-212.255.72.95
 AltusHost:213.5.64.0-213.5.71.255
 Engineering and IT Consulting:213.5.194.240-213.5.194.243
@@ -15553,7 +15547,6 @@ New Bits Media Consulting:213.131.234.136-213.131.234.143
 RGV Telecom Consultants FZ-LLC:213.132.42.72-213.132.42.79
 BBS Consultants and Actuaries, 4SEE:213.133.64.96-213.133.64.103
 IT Consultancy Limited, Jersey:213.133.203.24-213.133.203.38
-Keystone Internet Services Kft:213.134.11.0-213.134.11.255
 Assigned to Technet Consulting AB:213.134.97.0-213.134.97.31
 EDE:213.136.9.176-213.136.9.191
 PSconsult ICT Services BV colocated network, EDE,:213.136.11.144-213.136.11.151
@@ -16079,6 +16072,7 @@ AIS Consulting:216.30.53.128-216.30.53.191
 Diocese of Austin:216.30.55.64-216.30.55.127
 Gibson Consulting Group, Inc:216.30.56.32-216.30.56.47
 Ascott Business Advisors:216.30.78.40-216.30.78.47
+Allied Consultants:216.30.98.64-216.30.98.95
 Blue Fish Consulting:216.30.103.32-216.30.103.63
 Angelou Economic Advisors:216.30.103.208-216.30.103.223
 ISS Consultants Inc:216.30.120.192-216.30.120.223
@@ -16770,7 +16764,6 @@ Poliakoff Consulting:216.167.104.196-216.167.104.199
 Random Consulting Group:216.167.105.2-216.167.105.2
 Menlo Park Presbyterian Church:216.167.106.4-216.167.106.7
 Random Consulting Group:216.167.106.180-216.167.106.183
-The Aguila Consulting Group, INC:216.167.107.117-216.167.107.117
 ChurchHistory.com:216.167.107.122-216.167.107.122
 Poliakoff Consulting:216.167.107.165-216.167.107.165
 Akamai Technologies Inc:216.168.105.80-216.168.105.95
@@ -16787,7 +16780,6 @@ Valeo Consulting Group, Inc:216.171.56.120-216.171.56.127
 TransEdge:216.171.129.0-216.171.129.255
 Private Customer net:216.171.132.0-216.171.132.15
 Private Customer net:216.171.132.20-216.171.132.27
-Private Customer net:216.171.135.32-216.171.135.63
 Private Customer networks:216.171.135.80-216.171.135.87
 Private Customer net:216.171.135.112-216.171.135.127
 Private Customer networks:216.171.137.8-216.171.137.15
@@ -17356,6 +17348,7 @@ ICR Consulting Zimmerer:217.7.150.24-217.7.150.31
 WNI Meteo Consult GmbH:217.7.151.240-217.7.151.255
 Deutsches Rotes Kreuz:217.7.154.240-217.7.154.247
 Syncro Consult GmbH:217.7.160.80-217.7.160.87
+Jaakko Poeyry Consulting GmbH:217.7.161.208-217.7.161.215
 Baur Consult:217.7.165.8-217.7.165.15
 Turtle Consulting:217.8.3.64-217.8.3.71
 Retail Consulting & Systems:217.8.176.120-217.8.176.127
@@ -17451,6 +17444,7 @@ SJ Consulting Ltd:217.65.166.0-217.65.166.255
 GRB Consulting:217.67.100.204-217.67.100.207
 Mail.Ru:217.69.128.0-217.69.135.255
 Sectoor Consulting Services:217.69.166.0-217.69.166.255
+Information Agency M&K - Marketing and Consulting:217.69.206.92-217.69.206.95
 Seventh-Day Adventist Church:217.69.206.100-217.69.206.103
 Inforex Consulting Corp:217.69.210.128-217.69.210.143
 Information Agency M&K - Marketing and Consulting:217.69.220.0-217.69.220.7
@@ -17756,7 +17750,6 @@ Private:217.204.218.160-217.204.218.175
 Broad Quay Consulting:217.204.218.248-217.204.218.255
 Roderick Williams Consulting ltd:217.204.220.24-217.204.220.31
 Evolution Consultancy Group Plc:217.204.221.64-217.204.221.79
-The Environmental Project Consulting Group:217.204.222.144-217.204.222.151
 Ninthwave Consulting Ltd:217.204.230.0-217.204.230.15
 Clareville Consultancy:217.204.247.112-217.204.247.127
 Catalyst Marketing Consultants:217.204.251.104-217.204.251.111
