@@ -6,9 +6,9 @@
 This program should be able to open a number of files with ip-address
 in any notations and output them in a valid ip-addr/CIDR.
 
-The finished results, should be a uniq ip/cidr list
+The finished results, should be an uniq ip/cidr list
 
-By default print only non private address (ipaddress.is_global), RFC:1918
+By default, print only non-private address (ipaddress.is_global), RFC:1918
 RFC:5735
 
 https://docs.python.org/3/library/ipaddress.html#ipaddress.IPv4Address.is_global
@@ -23,52 +23,50 @@ Example of ip layouts in read-in
 Also support the same for IPv6
 """
 
-import re
-import urllib.request
+# import re
+# import urllib.request
 import gzip
-import os
+# import os
 import io
 from collections import OrderedDict
-import ipaddress
+
+# import ipaddress
 
 target_url = 'http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=cidr&archiveformat=gz'
 
-cidr = [ ]
-
+cidr = []
 
 with gzip.open('Blocklist/cidr.gz', 'rb') as ip:
-        with io.TextIOWrapper(ip, encoding='utf-8') as decoder:
-            # Let's read the content using read()
-            content = decoder.read()
-            cidr.append(content.rstrip('\n'))
+    with io.TextIOWrapper(ip, encoding='utf-8') as decoder:
+        # Let's read the content using read()
+        content = decoder.read()
+        cidr.append(content.rstrip('\n'))
 
 with gzip.open('Blocklist/level1.gz', 'rb') as ip2:
-        with io.TextIOWrapper(ip2, encoding='utf-8') as decoder2:
-            # Let's read the content using read()
-            content1 = decoder2.read()
-            cidr.append(content1.rstrip('\n'))
+    with io.TextIOWrapper(ip2, encoding='utf-8') as decoder2:
+        # Let's read the content using read()
+        content1 = decoder2.read()
+        cidr.append(content1.rstrip('\n'))
 
 with gzip.open('Blocklist/level2.gz', 'rb') as ip3:
-        with io.TextIOWrapper(ip3, encoding='utf-8') as decoder3:
-            # Let's read the content using read()
-            content2 = decoder3.read()
-            cidr.append(content2.rstrip('\n'))
+    with io.TextIOWrapper(ip3, encoding='utf-8') as decoder3:
+        # Let's read the content using read()
+        content2 = decoder3.read()
+        cidr.append(content2.rstrip('\n'))
 
 with gzip.open('Blocklist/level3.gz', 'rb') as ip4:
-        with io.TextIOWrapper(ip4, encoding='utf-8') as decoder4:
-            # Let's read the content using read()
-            content3 = decoder4.read()
-            cidr.append(content3.rstrip('\n'))
+    with io.TextIOWrapper(ip4, encoding='utf-8') as decoder4:
+        # Let's read the content using read()
+        content3 = decoder4.read()
+        cidr.append(content3.rstrip('\n'))
 
 res = list(OrderedDict.fromkeys(cidr))
-#for element in res:
+# for element in res:
 #    print(str(element))
 
 with open('docs/torrent.cidr', 'w') as new_file:
-        for element in res:
-            new_file.write(str(element))
-
-
+    for element in res:
+        new_file.write(str(element))
 
 """
 TODO:
