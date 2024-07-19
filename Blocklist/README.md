@@ -9,7 +9,7 @@ Author's website: bluetack.co.uk
 
 Author's description:
 
-Companies or organizations who are clearly involved with trying to stop filesharing.
+Companies or organizations who are clearly involved with trying to stop file sharing.
 
 Companies which anti-p2p activity has been seen from.
 
