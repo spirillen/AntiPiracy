@@ -284,6 +284,7 @@ CNET:12.38.196.224-12.38.196.239
 EAST WEST MINISTRIES INTERNATION:12.39.100.64-12.39.100.79
 AMAZON.COM:12.40.178.224-12.40.178.239
 AMAZON.COM:12.42.1.200-12.42.1.207
+NETWOLVES:12.42.39.160-12.42.39.191
 THE A CONSULTING TEAM INC:12.42.53.0-12.42.53.255
 THE A CONSULTING TEAM INC:12.42.250.0-12.42.250.255
 GLASGOW ELECTRIC PLANT:12.43.22.0-12.43.22.255
@@ -726,6 +727,7 @@ Silicon Valley Web Hosting:38.113.216.0-38.113.219.255
 Akamai Technologies:38.114.23.0-38.114.23.127
 PSINet, Inc:38.114.71.0-38.255.255.255
 GRYPHON ADVISORS LLC:38.114.147.192-38.114.147.223
+Stratford Advisory Group:38.115.133.176-38.115.133.191
 Akamai Technologies:38.115.175.0-38.115.175.127
 Akamai Technologies:38.115.177.128-38.115.177.255
 Global Export Marketing Co., Ltd:38.117.128.128-38.117.128.159
@@ -750,7 +752,6 @@ Henan Telcom Union Technology Co Ltd:42.51.0.0-42.51.255.255
 Forest Eternal Communication Tech Co Ltd:42.62.0.0-42.62.127.255
 Vodafone Essar Limited:42.104.0.0-42.111.255.255
 Alibaba (Beijing) Technology Co Ltd:42.156.128.0-42.156.255.255
-Anhui Province Xinwei Technology Co Ltd:42.157.0.0-42.157.255.255
 21ViaNet (China) Inc:42.158.0.0-42.159.255.255
 PCCW Business Internet Access:42.200.0.0-42.200.255.255
 UCOM Corporation:43.232.0.0-43.235.255.255
@@ -877,7 +878,6 @@ Mediaring Network Services Pte Ltd:61.14.64.0-61.14.95.255
 Pacnet Services (Japan) Corp:61.14.128.0-61.14.191.255
 PACNET HKG HUB:61.14.128.0-61.14.128.79
 DIME & NICKLE Consultants (M) Sdn.Bhd:61.14.136.208-61.14.136.223
-Akamai International BV:61.14.146.0-61.14.147.255
 Akamai International BV HKG #1:61.14.175.0-61.14.175.255
 Mosaic Communications Inc:61.14.192.0-61.14.255.255
 Mediaring Network Services Pte Ltd:61.16.0.0-61.16.127.255
@@ -1299,6 +1299,7 @@ AKAMAI:62.41.58.0-62.41.58.255
 Akamai Technologies - Streaming:62.41.72.0-62.41.72.63
 Akamai International b.v. (Amsterdam):62.41.78.192-62.41.78.223
 Akamai International b.v. (Paris):62.41.79.0-62.41.79.63
+AKAMAI:62.41.79.128-62.41.79.191
 Akamai International b.v. (Munchen):62.41.79.192-62.41.79.255
 Akamai International b.v. (Amsterdam):62.41.80.0-62.41.80.255
 AKAMAI:62.41.81.128-62.41.81.255
@@ -2181,6 +2182,7 @@ Bayview Baptist Church:63.193.53.96-63.193.53.127
 Berkson and Realty Advisors:63.193.57.224-63.193.57.231
 Private Customer - SBC Internet Services:63.193.62.0-63.193.62.127
 Web Light Consulting &amp; Design:63.193.65.0-63.193.65.255
+Bethany Church of Alhambra:63.193.74.80-63.193.74.87
 Private Customer - SBC Internet Services:63.193.77.232-63.193.77.239
 St Paul Lutheran Church:63.193.79.96-63.193.79.127
 Mullin Consulting:63.193.84.0-63.193.84.255
@@ -2283,7 +2285,6 @@ North Orange Christian Church:63.197.42.240-63.197.42.247
 Ford Consulting Group:63.197.43.144-63.197.43.151
 pacific consulting group:63.197.49.168-63.197.49.175
 Private Customer - SBC Internet Services:63.197.52.216-63.197.52.223
-Torsys Consulting:63.197.54.200-63.197.54.207
 David A Ziegler:63.197.64.136-63.197.64.143
 Foursqaure Church:63.197.74.64-63.197.74.95
 Phillip Drayer dba Kalydus Asset Advisors:63.197.109.0-63.197.109.31
@@ -2380,6 +2381,7 @@ Robert Hunter:63.200.193.152-63.200.193.159
 Genesis Communications International:63.200.202.8-63.200.202.15
 David Simpson:63.200.216.48-63.200.216.55
 Grhm Mem Presb Church:63.200.220.232-63.200.220.239
+Advertising Consultants Inc:63.200.225.144-63.200.225.151
 Cassidy Consulting Group:63.200.236.32-63.200.236.63
 Private Brand:63.200.245.104-63.200.245.111
 ATASCADERO BIBLE CHURCH:63.201.8.176-63.201.8.183
@@ -2723,6 +2725,7 @@ Transfiguration Catholic Church:63.225.154.24-63.225.154.31
 My Computer Consulting:63.225.167.56-63.225.167.63
 Logical By Design Consulting, Inc:63.225.218.80-63.225.218.87
 Christ Church Lutheran:63.226.10.144-63.226.10.151
+Baptist Foundation of Arizona:63.226.13.168-63.226.13.175
 Fields Consulting Group, Inc:63.226.13.248-63.226.13.255
 GAC Consulting Services:63.226.49.168-63.226.49.175
 Church For All Nations:63.226.207.176-63.226.207.183
@@ -3391,6 +3394,7 @@ Churchgirl:64.167.91.120-64.167.91.127
 ChurchillMgmtCorp1592355:64.167.91.192-64.167.91.255
 COVENANT PRESBYTERIAN CHURCH:64.167.94.216-64.167.94.223
 Calvary Lutheran Church:64.167.102.120-64.167.102.127
+Private Customer - SBC Internet Services:64.167.112.200-64.167.112.207
 Private Customer - SBC Internet Services:64.167.127.72-64.167.127.79
 Private Customer - SBC Internet Services:64.167.130.240-64.167.130.247
 Executive Advisors:64.167.162.112-64.167.162.119
@@ -3975,6 +3979,7 @@ Private Customer - SBC Internet Services:65.66.204.8-65.66.204.15
 Private Customer - SBC Internet Services:65.66.204.200-65.66.204.207
 Private Customer - SBC Internet Services:65.66.205.176-65.66.205.183
 Private Customer - SBC Internet Services:65.66.212.200-65.66.212.207
+Private Customer - SBC Internet Services:65.66.214.104-65.66.214.111
 Private Customer - SBC Internet Services:65.66.229.128-65.66.229.135
 Salvation Army The:65.66.234.192-65.66.234.199
 Private Customer - SBC Internet Services:65.66.235.136-65.66.235.143
@@ -4296,7 +4301,6 @@ J. Ivanov, Inc:66.79.162.0-66.79.162.127
 S. Furuya:66.79.163.128-66.79.163.255
 Y. Georgiev:66.79.166.0-66.79.166.127
 S. Miyanaga:66.79.185.64-66.79.185.95
-United Methodist Church Communication Center:66.84.185.128-66.84.185.143
 SECURED SERVERS LLC:66.85.128.0-66.85.191.255
 Permethius Consulting (205114-1):66.88.12.7-66.88.12.7
 Presidio Pay Advisors (205321-1):66.88.12.33-66.88.12.33
@@ -4486,7 +4490,6 @@ Private Customer - SBC Internet Services:66.125.67.48-66.125.67.55
 GeoconsultantsInc:66.125.72.144-66.125.72.151
 Church Of The:66.125.74.72-66.125.74.79
 BethelAmeChurch:66.125.85.64-66.125.85.71
-Private Customer - SBC Internet Services:66.125.86.104-66.125.86.111
 Private Customer - SBC Internet Services:66.125.97.32-66.125.97.63
 Private Customer - SBC Internet Services:66.125.99.48-66.125.99.63
 AcsConsulting:66.125.178.120-66.125.178.127
@@ -4865,6 +4868,7 @@ Private Customer - SBC Internet Services:67.113.18.64-67.113.18.71
 Private Customer - SBC Internet Services:67.113.19.80-67.113.19.87
 Private Customer - SBC Internet Services:67.113.27.232-67.113.27.239
 Church of Self Realization:67.113.44.224-67.113.44.255
+Realty Advisory Grp:67.113.64.0-67.113.64.23
 Ricahrd Nissenbaum:67.113.64.88-67.113.64.95
 First Baptist Church:67.113.64.216-67.113.64.223
 Ghz Consulting-040908024832:67.113.76.120-67.113.76.127
@@ -5616,7 +5620,6 @@ Yorkfield Presbyterian:68.248.102.120-68.248.102.127
 Christ Church of OakBrook:68.248.173.224-68.248.173.255
 Catholic Charitites:68.248.175.144-68.248.175.151
 St John Evangelist Church:68.248.179.64-68.248.179.95
-Oakdale Covenant Church:68.248.242.8-68.248.242.15
 CHRIST MEMORIAL CHURCH-041005035752:68.249.141.192-68.249.141.199
 D Wilson-040721002957:68.250.98.176-68.250.98.183
 Christ Cathedral:68.250.166.32-68.250.166.39
@@ -6491,7 +6494,6 @@ UNITED METHODIST CHURCH-050223005710:69.237.195.136-69.237.195.143
 ROMN CATH ARCHBISHOP-050211124421:69.237.212.80-69.237.212.87
 CHURCH OF DEVINE MAN-050212100207:69.237.214.48-69.237.214.55
 MONTGOMERY ADVISORS-050225015905:69.237.214.216-69.237.214.223
-Private Customer - SBC Internet Services:69.237.215.200-69.237.215.207
 Private Customer - SBC Internet Services:69.237.216.232-69.237.216.239
 CHURCH OF THE HARVEST-050212223453:69.237.233.216-69.237.233.223
 Private Customer - SBC Internet Services:69.237.242.0-69.237.242.31
@@ -6796,7 +6798,6 @@ AOL-050321232558:70.245.151.232-70.245.151.239
 MEGAPATH-050418231054:70.245.219.120-70.245.219.127
 Randy Kelso:70.247.47.24-70.247.47.31
 Private Customer - SBC Internet Services:70.248.9.8-70.248.9.15
-Bethany Church-041231024940:70.248.12.96-70.248.12.103
 Private Customer - SBC Internet Services:70.248.30.24-70.248.30.31
 Private Customer - SBC Internet Services:70.248.59.0-70.248.59.63
 Private Customer - SBC Internet Services:70.248.72.168-70.248.72.175
@@ -7368,7 +7369,6 @@ ROBINSON CONSULTING s.r.o:80.95.121.40-80.95.121.43
 SC TOTAL CONSULTING SRL:80.96.92.160-80.96.92.191
 MACFIN MANAGEMENT CONSULTING S:80.105.135.120-80.105.135.127
 B L S CONSULTING SRL:80.105.229.8-80.105.229.11
-BLS CONSULTING SRL:80.105.229.120-80.105.229.131
 VACE Consulting-Engineering G.m.b.H. & Co:80.120.1.72-80.120.1.79
 Dr. Floegl Hydro Consulting Engineers:80.120.7.192-80.120.7.199
 WK Consulting:80.120.22.108-80.120.22.111
@@ -7412,6 +7412,7 @@ Evang Oberkirchenrat:80.121.231.28-80.121.231.31
 Evangelische Oberkirchen:80.121.235.8-80.121.235.11
 Ocean Consulting GmbH:80.121.237.216-80.121.237.219
 CWS Consulting Wirtschaf:80.121.244.112-80.121.244.115
+Lintech Informationstechnologie-Consulting GmbH:80.121.247.64-80.121.247.71
 C3 Consulting GmbH:80.121.248.64-80.121.248.67
 Evangelisches Hilfswerk:80.121.250.116-80.121.250.119
 Karl Neuwirth:80.121.251.96-80.121.251.99
@@ -9107,7 +9108,6 @@ dsl.irvnca.sbcglobal.net:99.169.16.0-99.169.23.255
 dsl.lsan03.sbcglobal.net:99.169.24.0-99.169.31.255
 dsl.frs2ca.sbcglobal.net:99.169.32.0-99.169.39.255
 dsl.pltn13.sbcglobal.net:99.169.80.0-99.169.87.255
-dsl.lsan03.sbcglobal.net:99.169.104.0-99.169.111.255
 dsl.pltn13.sbcglobal.net:99.169.128.0-99.169.135.255
 dsl.scrm01.sbcglobal.net:99.169.200.0-99.169.207.255
 dsl.skt2ca.sbcglobal.net:99.169.232.0-99.169.239.255
@@ -9132,6 +9132,7 @@ Vodafone Hutchison Australia Pty Ltd:101.112.0.0-101.119.255.255
 Beijing Bitone United Networks Technology Service Co Ltd:101.126.0.0-101.126.255.255
 eAccess Ltd:101.203.0.0-101.203.127.255
 Sliced Tech Holdings Unit Trust (SlicedTech):101.234.72.0-101.234.75.255
+Beijing Time-vision Telecommunication Technical Ltd:101.244.0.0-101.247.255.255
 Beijing Flash Newsletter CAS Telecommunication Technology Co:101.254.0.0-101.254.255.255
 Azzurri Communications Pty Ltd (Australia):103.1.7.0-103.1.7.255
 Allegro Networks Pty Ltd:103.1.52.0-103.1.55.255
@@ -12416,7 +12417,6 @@ Hyder Consulting Limited:203.198.76.96-203.198.76.103
 SKH Good Shepherd Church Kindergarten:203.198.124.144-203.198.124.144
 WISDOM TECHNOLOGY CONSULTING LTD:203.198.126.241-203.198.126.241
 CHIU&ASSOCIATES CONSULTING ENGINEERS LTD:203.198.128.211-203.198.128.211
-Methodist Church:203.198.130.161-203.198.130.161
 THE CHINESE RHENISH CHURCH TAI PO:203.198.132.147-203.198.132.147
 KOWLOON INTL BAPTIST CHURCH:203.198.133.60-203.198.133.60
 GEOTECHNICAL CONSULTING GROUP (ASIA) LTD:203.198.133.63-203.198.133.63
@@ -13209,7 +13209,6 @@ Haven Internet Services:208.67.227.83-208.67.227.193
 City Of Vernon:208.68.8.0-208.68.11.255
 Net2EZ:208.68.156.0-208.68.159.255
 CITY OF SCOTTSBURG:208.69.160.0-208.69.167.255
-Global MDM:208.71.113.0-208.71.113.255
 BTGuard:208.71.113.221-208.71.113.221
 Glenwood Springs Community Broadband Network:208.72.64.0-208.72.71.255
 Haven Internet:208.73.49.228-208.73.49.239
@@ -14204,7 +14203,6 @@ Supply Chain Consulting Pty Ltd:210.8.121.140-210.8.121.143
 Vodafone Pty ltd:210.8.130.176-210.8.130.191
 nick scott:210.8.131.0-210.8.131.255
 Catholic Education Office, Archiocese of Canberra:210.8.137.216-210.8.137.223
-Petcare Information and Advisory Service:210.8.166.76-210.8.166.79
 Catholic Education - Diocese of Wollongong:210.8.166.192-210.8.166.199
 Catholic Education - Diocese of Wollongong (140502):210.8.166.192-210.8.166.199
 SACS CONSULTING GROUP:210.8.201.8-210.8.201.11
@@ -14213,7 +14211,6 @@ Huon Computer Consultants Pty Ltd:210.8.207.100-210.8.207.103
 TRL Consulting Pty Ltd:210.8.222.0-210.8.222.255
 Akamai Technologies Inc:210.8.242.0-210.8.242.127
 Eis.net:210.8.248.0-210.8.248.255
-Prescotts Consultants Limited:210.8.249.236-210.8.249.239
 Vodafone Network Pty Ltd:210.9.62.240-210.9.62.243
 Leana Street Consulting Pty Ltd:210.9.64.48-210.9.64.55
 Akamai Technologies Inc:210.9.72.160-210.9.72.191
@@ -14313,7 +14310,6 @@ Young Consulting Engineers:210.50.129.8-210.50.129.11
 Frontier IT Recruitment Consulting Pty Ltd:210.50.130.116-210.50.130.143
 Frontier IT Recruitment Consulting Pty Ltd:210.50.131.124-210.50.131.127
 Mutual Benefit Consulting:210.50.131.216-210.50.131.219
-The Collective Design Consultants:210.50.167.20-210.50.167.23
 Lidcombe Catholic Workmens Club:210.50.167.244-210.50.167.255
 Consultel IT+T Pty Ltd:210.50.174.0-210.50.174.3
 General Internet Consulting:210.50.231.8-210.50.231.11
@@ -14616,6 +14612,7 @@ BirdView Co., Ltd:211.125.209.96-211.125.209.103
 KDDI CORPORATION:211.126.0.0-211.126.255.255
 SO-Net Service:211.128.32.0-211.128.63.255
 KDDI CORPORATION:211.134.0.0-211.134.255.255
+NEC Corporation:211.135.128.0-211.135.255.255
 Science & Technology Network Communication Co Ltd:211.144.96.0-211.144.127.255
 Shanghai Data Solution Co Ltd:211.144.192.0-211.144.223.255
 Beijing Hua Si Wei Tai Ke Technology Co Ltd:211.147.0.0-211.147.31.255
@@ -15117,6 +15114,7 @@ Private Customer (via Kestel):212.226.33.96-212.226.33.103
 Private Customer (via Tikka Services Oy):212.226.48.0-212.226.48.63
 Private Customer (via Tikka Services Oy):212.226.48.72-212.226.48.79
 Private Customer (via Tikka Services Oy):212.226.48.88-212.226.48.103
+Private Customer (via Tikka Services Oy):212.226.48.112-212.226.48.159
 Private Customer (via Tikka Services Oy):212.226.48.176-212.226.48.183
 Private Customer (via Tikka Services Oy):212.226.48.208-212.226.48.223
 Private Customer (via Tikka Services Oy):212.226.48.232-212.226.49.7
@@ -15478,6 +15476,7 @@ consulting company:213.115.137.0-213.115.137.31
 consulting company:213.115.137.96-213.115.137.127
 Management consulting:213.115.143.192-213.115.143.207
 electricity consulting company:213.115.143.224-213.115.143.239
+computer store and consulting:213.115.145.112-213.115.145.127
 IT-consultants:213.115.146.64-213.115.146.79
 IT consulting:213.115.146.176-213.115.146.191
 Computer maintenance consulting company:213.115.147.96-213.115.147.111
@@ -15925,7 +15924,6 @@ STFI-La Vista Consulting:216.3.28.128-216.3.28.191
 Teknos Consulting Corp:216.3.204.0-216.3.207.255
 STFI-DFS Advisors:216.3.245.248-216.3.245.251
 Trinity Financial Advisors:216.4.29.8-216.4.29.15
-Trinity Financial Advisors:216.4.29.128-216.4.29.135
 STFI-Infinity Systems Consulting, Inc:216.4.177.192-216.4.177.223
 ICI-Legacy Financial Advisors:216.4.178.16-216.4.178.31
 STFI-Right Management Consultants:216.4.221.16-216.4.221.31
@@ -17518,6 +17516,7 @@ AKAMAI TECHNOLOGIES GMBH:217.111.51.76-217.111.51.79
 AKAMAI TECHNOLOGIES GMBH:217.111.51.104-217.111.51.107
 SouthTech Consulting, Inc:217.113.10.48-217.113.10.55
 Fernholz IT-Consulting:217.113.37.0-217.113.37.63
+iConsulting hosting:217.113.207.192-217.113.207.255
 MSM Consulting IP Network:217.114.213.96-217.114.213.127
 MSM Consulting IP Network:217.114.214.96-217.114.214.127
 MT Global Consulting Network:217.115.21.16-217.115.21.23
@@ -17564,7 +17563,6 @@ ILF Consulting Engineers Polska:217.153.25.168-217.153.25.175
 Advisor S.C:217.153.50.96-217.153.50.111
 Akamai Technologies:217.153.56.64-217.153.56.95
 Connected by GTS Poland:217.153.81.44-217.153.81.47
-Connected by GTS Poland:217.153.82.104-217.153.82.111
 Amateur Private Network - Vidmonet:217.153.83.96-217.153.83.127
 Yoxa Consulting Sp. z o.o:217.153.104.180-217.153.104.183
 Yoxa Consulting Sp. z o.o:217.153.104.192-217.153.104.255
@@ -17710,6 +17708,7 @@ MEF Consulting a.s:217.195.162.128-217.195.162.159
 Customer System Consultancy Partners BV:217.195.231.208-217.195.231.223
 Customer Beta Consultants Bv:217.195.236.128-217.195.236.159
 Totem Communications Private Network:217.196.3.0-217.196.3.15
+Trinity Mirror Group - John Churchill:217.196.228.184-217.196.228.191
 Salvation Army  - Lovate Lane:217.196.234.192-217.196.234.223
 Salvation Army - Lovate Lane:217.196.236.64-217.196.236.95
 Investment Bank, Advisory, Telecoms, Information:217.196.239.192-217.196.239.223
@@ -17829,7 +17828,6 @@ Howe Consultancy:217.207.45.124-217.207.45.127
 Martin Simmonds:217.207.45.128-217.207.45.143
 Rowe Consultancy:217.207.45.176-217.207.45.191
 Martin Simmonds:217.207.46.0-217.207.46.15
-Imrie  Consulting Ltd:217.207.46.64-217.207.46.79
 Curtin Consulting Engineers:217.207.48.80-217.207.48.95
 Kite Consultants:217.207.50.160-217.207.50.175
 Elite Management Consultants:217.207.51.208-217.207.51.223
