@@ -4391,6 +4391,7 @@ ACS-IR:12.158.9.0-12.158.9.7
 ACS-IR:12.159.33.152-12.159.33.159
 ACS-IR:12.159.47.104-12.159.47.111
 ACS-IR:12.159.47.112-12.159.47.119
+ACS-IR:12.160.97.208-12.160.97.215
 ACS-IR:12.161.228.144-12.161.228.151
 ACS-IR:12.162.22.0-12.162.22.7
 ACS-IR:12.162.56.240-12.162.56.247
@@ -10964,6 +10965,7 @@ APPLE COMPUTER:12.29.32.160-12.29.32.175
 APPLE COMPUTER:12.29.32.24-12.29.32.31
 APPLE COMPUTER:12.29.56.0-12.29.56.255
 APPLE COMPUTER:12.3.248.64-12.3.248.79
+APPLE COMPUTER:12.3.250.144-12.3.250.151
 APPLE COMPUTER:12.30.19.240-12.30.19.247
 APPLE COMPUTER:12.30.254.128-12.30.254.135
 APPLE COMPUTER:12.30.255.128-12.30.255.143
@@ -26905,7 +26907,6 @@ Ashford Borough Council:213.2.60.208-213.2.60.223
 Ashford Borough Council:62.49.133.88-62.49.133.95
 Ashford Borough Council:83.104.172.72-83.104.172.79
 Ashford Borough Council:83.104.175.104-83.104.175.111
-Ashford Borough Council:83.104.194.12-83.104.194.15
 Ashford Borough Council:83.104.244.24-83.104.244.27
 Ashford and St. Peters Hospital NHS Trust:195.107.247.0-195.107.247.255
 Ashgate Publishing Ltd:193.129.76.64-193.129.76.79
@@ -29825,7 +29826,6 @@ BAKER MCKENZIE:67.98.72.160-67.98.72.191
 BAKER MCKINZIE:68.21.24.160-68.21.24.167
 BAKER MCKINZIE:68.22.123.72-68.22.123.79
 BAKER MEDIA PRODUCTIONS INC-060222002728:64.149.72.184-64.149.72.191
-BAKER PUBLISHING DBA-040724011426:68.75.197.152-68.75.197.159
 BAKER PUBLISHING DBA-040729040537:68.75.196.200-68.75.196.207
 BAKER, BRAVERMAN, & BARBADORO:64.55.97.96-64.55.97.111
 BAKER, STERCHI, COWDEN AND RICE:65.164.160.0-65.164.160.31
@@ -57988,6 +57988,7 @@ COMUNEDIPIOLTELLO:213.26.13.144-213.26.13.151
 COMUNEDIPIOLTELLO:213.26.13.96-213.26.13.103
 COMUNEDIPIOMBINO:81.121.24.80-81.121.24.83
 COMUNEDIPIOMBINO:81.121.28.92-81.121.28.95
+COMUNEDIPIOMBINODESE:80.20.99.80-80.20.99.87
 COMUNEDIPIOVEDISACCO:82.186.209.224-82.186.209.231
 COMUNEDIPIOVEDISACCO:82.186.209.96-82.186.209.103
 COMUNEDIPIRAINO:80.21.201.232-80.21.201.247
@@ -90112,7 +90113,6 @@ Detected AP2P on PT Ciptama Pancatunggal proxy:114.134.72.182-114.134.72.182
 Detected AP2P on PT Core Mediatech:202.148.25.178-202.148.25.178
 Detected AP2P on PT Graha Sarana Data:202.43.173.3-202.43.173.3
 Detected AP2P on PT Hasjrat Abadi proxy:121.52.51.198-121.52.51.198
-Detected AP2P on PT INET GLOBAL INDO proxy:27.111.36.194-27.111.36.194
 Detected AP2P on PT Indosat proxy:114.4.44.250-114.4.44.250
 Detected AP2P on PT Indotrans Data proxy:202.47.88.46-202.47.88.46
 Detected AP2P on PT MULTI DATA PALEMBANG proxy:116.90.211.136-116.90.211.136
@@ -90221,7 +90221,6 @@ Detected AP2P on Powell Hosting (hijacked):67.211.213.2-67.211.213.2
 Detected AP2P on Powell Hosting, Inc. (hijacked):67.211.212.2-67.211.212.2
 Detected AP2P on Power VT S.A:190.11.179.117-190.11.179.117
 Detected AP2P on PowerNet proxy:41.191.27.39-41.191.27.39
-Detected AP2P on Powerhouse Management:31.6.35.190-31.6.35.190
 Detected AP2P on Powertech Comercial Ltda:189.2.65.227-189.2.65.227
 Detected AP2P on PredialNET:177.12.63.0-177.12.63.32
 Detected AP2P on Premier Innovations:208.122.226.18-208.122.226.20
@@ -96901,6 +96900,7 @@ DtecNet Software:70.85.160.168-70.85.160.175
 DtecNet Software:70.85.163.16-70.85.163.23
 DtecNet Software:70.85.163.24-70.85.163.48
 DtecNet Software:70.85.169.144-70.85.169.151
+DtecNet Software:70.85.169.240-70.85.169.247
 DtecNet Software:70.85.170.128-70.85.170.135
 DtecNet Software:70.85.170.168-70.85.170.175
 DtecNet Software:70.85.170.192-70.85.170.199
@@ -98520,6 +98520,7 @@ EDS Electronic Data Systems:194.117.120.63-194.117.120.63
 EDS Electronic Data Systems:194.117.123.126-194.117.123.126
 EDS Electronic Data systems (HK) Ltd:210.176.226.128-210.176.226.159
 EDS Employment Services:195.44.45.240-195.44.45.247
+EDS España:194.30.104.0-194.30.104.255
 EDS Export & Distribution Services AG:193.135.145.144-193.135.145.151
 EDS Export & Distribution Services AG:217.193.115.227-217.193.115.227
 EDS Ferdinand Richter GmbH:62.218.130.0-62.218.130.31
@@ -114222,6 +114223,7 @@ Federal Post Administration:212.57.132.0-212.57.132.255
 Federal Post Department of the Samara Region:62.213.15.0-62.213.15.255
 Federal Post Depatment of Belgorod region:217.107.186.80-217.107.186.95
 Federal Post Depatment of Kurgan region:213.24.182.0-213.24.182.255
+Federal Postal Credit Union Of Arkansas:65.66.65.88-65.66.65.95
 Federal Postal Service Administration of Rostov r:80.254.123.168-80.254.123.175
 Federal Postal Service Administration of Rostov r:80.254.123.200-80.254.123.231
 Federal Postal Service Administration of Rostov r:83.221.196.0-83.221.196.87
@@ -126267,6 +126269,7 @@ GI - Customer Interconnexion With RAEI Backbone:213.56.241.240-213.56.241.241
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.255-213.56.241.255
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.64-213.56.241.65
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.80-213.56.241.80
+GI - Customer Interconnexion With RAEI Backbone:213.56.242.1-213.56.242.29
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.126-213.56.242.200
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.202-213.56.242.227
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.229-213.56.242.235
@@ -133482,6 +133485,7 @@ Goldman Sachs Realty Japan Ltd:203.167.60.128-203.167.60.255
 Goldman Sachs Realty Japan Ltd:210.196.140.144-210.196.140.151
 Goldman Sachs Realty Japan Ltd:219.101.170.0-219.101.170.127
 Goldman Sachs Realty Japan Ltd:61.114.249.192-61.114.249.255
+Goldman Sachs Realty Japan Ltd:61.120.127.168-61.120.127.175
 Goldman Sachs c/o Cushman Wakefield:82.152.8.32-82.152.8.39
 Goldman Sachs:125.18.6.160-125.18.6.175
 Goldman Sachs:154.1.0.0-154.1.255.255
@@ -157392,6 +157396,7 @@ Intentia Asia Pacific PTE Ltd:203.98.188.240-203.98.188.255
 Intentia Asia Pacific PTE Ltd:220.246.4.32-220.246.4.39
 Intentia Asia Pacific:203.115.251.192-203.115.251.255
 Intentia Austria:193.81.176.0-193.81.176.255
+Intentia BP (Thailand) Co.,Ltd:203.155.206.192-203.155.206.223
 Intentia Belux:194.7.85.32-194.7.85.47
 Intentia Consulting S.S:62.81.169.0-62.81.169.255
 Intentia Danmark A/S:213.129.1.160-213.129.1.175
@@ -177715,6 +177720,7 @@ Laredo National Bank:208.189.147.16-208.189.147.23
 Laredo National Bank:64.219.207.184-64.219.207.191
 Large Animal:67.192.49.104-67.192.49.111
 Large Format Cinema:62.116.59.80-62.116.59.87
+Lariat Software:216.160.83.56-216.160.83.63
 Laribee & Hertrick:66.219.129.96-66.219.129.103
 Larimer County Government:205.169.2.0-205.169.13.255
 Larkin Hoffman Daly and Lindgr:66.179.122.240-66.179.122.255
@@ -187810,7 +187816,6 @@ MINISTERIO DEL INTERIOR-SUBSECRETARIA DE ESTADO:195.53.194.236-195.53.194.239
 MINISTERIO DEL INTERIOR-SUBSECRETARIA DE ESTADO:195.53.56.192-195.53.56.207
 MINISTERIO DEL INTERIOR:195.55.82.0-195.55.82.47
 MINISTERIO DEL INTERIOR:195.55.82.216-195.55.82.223
-MINISTERIO DEL INTERIOR:195.76.126.224-195.76.126.255
 MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO:200.198.192.0-200.198.192.127
 MINISTERIO DO TRABALHO:200.181.67.0-200.181.67.255
 MINISTERIO DO TRABALHO:200.252.31.0-200.252.31.255
@@ -203276,7 +203281,6 @@ Muzikas un makslas atbalsta fo:62.85.98.4-62.85.98.7
 Muzikus:193.85.233.56-193.85.233.59
 Muzikus:81.0.233.128-81.0.233.143
 Muzikus:82.208.56.184-82.208.56.191
-Muzyczne Centrum Dystrybucji Sp. z o.o:217.96.18.24-217.96.18.31
 Mworx Corp|Anti-p2p:66.197.158.160-66.197.158.175
 Mwr:216.170.145.72-216.170.145.79
 Mxs Music:217.166.171.184-217.166.171.191
@@ -205087,7 +205091,6 @@ NEC:62.23.8.16-62.23.8.31
 NEC:69.37.115.32-69.37.115.63
 NECFIELDING CO.,LTD:61.120.79.0-61.120.79.127
 NECTAR ENTERTAINMENT LLC-060330005411:68.127.250.160-68.127.250.167
-NECTOSHIBA Space Systems,Ltd:211.7.176.160-211.7.176.191
 NED.WORK Agentur + Verlag GmbH:87.234.250.185-87.234.250.185
 NED.WORK Agentur + Verlag GmbH:87.234.37.200-87.234.37.207
 NEDA 10 Regional Office:202.90.134.48-202.90.134.55
@@ -211091,6 +211094,7 @@ Network Access Solutions -- Chavers & Birdsong:64.7.48.64-64.7.48.127
 Network Access Solutions -- Consulate General of Chile:64.23.165.240-64.23.165.255
 Network Access Solutions -- Defense Contractor Consulting Corporation:64.23.162.64-64.23.162.79
 Network Access Solutions -- Democratic Party of Virginia:64.7.46.192-64.7.46.207
+Network Access Solutions -- Embassy of Greece:64.23.140.160-64.23.140.175
 Network Access Solutions -- Gargnigo, Goldsmith & Weiss:64.7.56.248-64.7.56.255
 Network Access Solutions -- Headquarters:64.23.195.192-64.23.195.207
 Network Access Solutions -- Headquarters:64.67.169.160-64.67.169.175
@@ -232523,6 +232527,7 @@ Possible Macrovision:71.247.73.44-71.247.73.44
 Possible Macrovision:74.12.66.239-74.12.66.239
 Possible Macrovision:74.12.66.251-74.12.66.251
 Possible Macrovision:74.12.67.92-74.12.67.92
+Possible Macrovision:75.31.162.114-75.31.162.114
 Possible Macrovision:75.31.166.17-75.31.166.17
 Possible Macrovision:75.31.167.192-75.31.167.192
 Possible Macrovision:75.31.168.7-75.31.168.7
@@ -244560,7 +244565,6 @@ Rayners Estate Offices:217.154.13.136-217.154.13.143
 Raystudio Corporation:202.216.132.176-202.216.132.191
 Raytheon .751:63.203.6.8-63.203.6.15
 Raytheon 2:74.92.61.160-74.92.61.167
-Raytheon Aerospace LLC:65.174.142.0-65.174.142.255
 Raytheon Aircraft Co:209.184.43.64-209.184.43.71
 Raytheon Aircraft Service:68.78.13.200-68.78.13.207
 Raytheon Aircraft-070828162508:76.249.217.88-76.249.217.95
@@ -285066,6 +285070,7 @@ TECOM &#8211; Dubai International Film Festival (DIFF):80.227.123.112-80.227.123
 TECONSULTING:61.250.143.128-61.250.143.255
 TECONSULTSRL:62.110.74.32-62.110.74.63
 TECT Corporation:64.39.155.131-64.39.155.132
+TED HIRTZ, LAWYER:66.64.59.232-66.64.59.239
 TEDA administration office:202.99.99.224-202.99.99.239
 TEDAS Mechanical Systems Software GmbH:193.101.50.0-193.101.50.255
 TEDDY J ABBOTT ATTORNEY-070122142352:75.50.29.152-75.50.29.159
@@ -295089,7 +295094,6 @@ The Publishing Company of North America:12.24.128.144-12.24.128.159
 The Publishing Training Centre:62.173.79.251-62.173.79.251
 The Publishing Training Centre:62.173.87.212-62.173.87.215
 The Purdue Law Firm:65.68.89.88-65.68.89.95
-The Purrington Firm:162.39.69.16-162.39.69.31
 The Purrington Firm:67.141.231.48-67.141.231.63
 The QianJiang City Government, in Qianjiang, Hube:61.136.210.80-61.136.210.95
 The Quaker Oats Company:169.225.0.0-169.225.255.255
@@ -303758,7 +303762,6 @@ US Dept of Treasury - TIGTA:4.20.105.0-4.20.105.15
 US Dept of Treasury - TIGTA:4.20.192.48-4.20.192.63
 US Dept of Treasury - TIGTA:4.21.133.0-4.21.133.255
 US Dept of Treasury - TIGTA:4.21.96.16-4.21.96.23
-US Dept of Treasury - TIGTA:4.22.139.192-4.22.139.255
 US Dept of Treasury - TIGTA:4.23.65.24-4.23.65.31
 US Dept of Treasury - TIGTA:4.42.208.24-4.42.208.31
 US Dept of Treasury - TIGTA:4.42.244.224-4.42.244.239
@@ -317357,6 +317360,7 @@ Websters Solicitors:81.171.146.122-81.171.146.122
 Websters Solicitors:81.171.251.24-81.171.251.31
 Webtomovie:211.118.111.128-211.118.111.191
 Webtrend Networx - Boeck & Partner KEG:81.3.23.128-81.3.23.191
+Webtrend Networx Boeck und Partner KEG:80.120.186.56-80.120.186.59
 Webtrends Inc:195.250.49.0-195.250.49.255
 Webtrends:195.33.97.208-195.33.97.215
 Webvein  Consulting Ltd:217.206.121.80-217.206.121.95
@@ -326810,7 +326814,6 @@ aquariusmusic.de.Schlund.NCC:212.227.226.151-212.227.226.151
 aramco-services-company.pos5-0.ar4.dal1.gblx.net:208.51.239.116-208.51.239.119
 aramolaw.com:201.225.245.19-201.225.245.19
 arcoSoft Software GmbH:62.99.170.152-62.99.170.155
-arcplan Information Services GmbH:194.25.218.0-194.25.218.127
 arcplan Information Services GmbH:195.145.138.0-195.145.138.255
 ard, gov organization:82.205.81.0-82.205.81.15
 arena medien, Aachen:194.123.122.32-194.123.122.63

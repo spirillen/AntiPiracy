@@ -538,7 +538,6 @@ Xerox Business Services:4.22.136.64-4.22.136.95
 US Dept of Treasury-TIGTA TIGTA23-136-14 (NET-4-22-136-160-1):4.22.136.160-4.22.136.167
 Synopsys Inc. SYNOPSYS20-137-08 (NET-4-22-137-32-1):4.22.137.32-4.22.137.47
 Courtroom Sciences, Inc:4.22.138.128-4.22.138.255
-US Dept of Treasury - TIGTA:4.22.139.192-4.22.139.255
 Drug Enforcement Adm:4.22.140.136-4.22.140.143
 city of highland village:4.22.140.160-4.22.140.175
 Xerox Business Services XBSDAL-141-24 (NET-4-22-141-24-1):4.22.141.24-4.22.141.31
@@ -1224,6 +1223,7 @@ Pitney Hardin Kipp and Szuch:12.3.240.128-12.3.240.255
 APPLE COMPUTER:12.3.248.64-12.3.248.79
 AFL/CIO AFTRA:12.3.250.0-12.3.250.63
 WEST GROUP THOMSON LEGAL:12.3.250.128-12.3.250.143
+APPLE COMPUTER:12.3.250.144-12.3.250.151
 AT&T MNS GCSC:12.4.12.96-12.4.12.111
 MAXIMUS INC:12.4.18.128-12.4.18.255
 AFL/CIO American Postal Workers Union:12.4.20.16-12.4.20.31
@@ -8541,6 +8541,7 @@ GENERAL ELECTRIC COMPANY:12.160.89.112-12.160.89.127
 ANTEON CORPORATION:12.160.89.128-12.160.89.255
 NEXCOM:12.160.90.128-12.160.90.159
 NEXCOM:12.160.90.240-12.160.90.255
+ACS-IR:12.160.97.208-12.160.97.215
 AVAYA:12.160.98.200-12.160.98.207
 GE INDUSTRIAL -GE MEDICAL SYSTEMS:12.160.102.240-12.160.102.247
 INTERNAL REVENUE SERVICE:12.160.103.128-12.160.103.143
@@ -12773,7 +12774,6 @@ Detected AP2P on Net Sys International:27.98.203.201-27.98.203.201
 China Network Information Center (CNNIC):27.99.128.0-27.99.255.255
 National Computing & Information Agency (NCIA):27.101.0.0-27.101.255.255
 SMSHoax FakeAV Fraud Trojan:27.111.35.155-27.111.35.155
-Detected AP2P on PT INET GLOBAL INDO proxy:27.111.36.194-27.111.36.194
 Detected kad activity on TianJin LongChina:27.112.8.174-27.112.8.174
 Detected AP2P on TianJin LongChina:27.112.9.23-27.112.9.23
 Detected AP2P on Graha Telekomunikasi:27.112.67.34-27.112.67.34
@@ -12815,7 +12815,6 @@ Kad activity on AltusHost:31.3.159.139-31.3.159.139
 Kad activity on Cesena Net:31.3.175.34-31.3.175.34
 Detected kad activity on Powerhouse Management:31.6.35.49-31.6.35.49
 Detected kad activity on Powerhouse Management:31.6.35.67-31.6.35.67
-Detected AP2P on Powerhouse Management:31.6.35.190-31.6.35.190
 Client 4989 Private Layer INC:31.7.56.128-31.7.56.135
 CLIENT1259 Private Layer INC:31.7.57.64-31.7.57.127
 CLIENT1151 Private Layer INC:31.7.57.128-31.7.57.191
@@ -18966,6 +18965,7 @@ Shimamaki Village Goverment:61.120.117.176-61.120.117.191
 Toei Kigyo:61.120.119.128-61.120.119.135
 Sunrise Publication Co.,Ltd:61.120.120.128-61.120.120.135
 Studio Neue Corp:61.120.123.0-61.120.123.15
+Goldman Sachs Realty Japan Ltd:61.120.127.168-61.120.127.175
 Suzuka-city Office:61.120.141.0-61.120.141.15
 Suzuka-city Office:61.120.141.40-61.120.141.47
 Suzuka City Office:61.120.141.64-61.120.141.71
@@ -39210,6 +39210,7 @@ Network Access Solutions -- Social and Haleth Services - Columbia:64.23.130.208-
 Network Access Solutions -- Morton Shuman Law Offices:64.23.132.112-64.23.132.127
 Network Access Solutions -- Pottish, Freyberg, Marcus and Velasques:64.23.133.224-64.23.133.255
 Network Access Solutions -- Quincy Housing Authority:64.23.140.64-64.23.140.79
+Network Access Solutions -- Embassy of Greece:64.23.140.160-64.23.140.175
 Network Access Solutions -- NCS Technologies:64.23.147.160-64.23.147.175
 Network Access Solutions -- The Legal Aid Society:64.23.153.160-64.23.153.175
 Network Access Solutions -- Defense Contractor Consulting Corporation:64.23.162.64-64.23.162.79
@@ -46617,6 +46618,7 @@ City of Osage Beach:65.66.55.0-65.66.55.15
 City of Creve Coeur2:65.66.55.64-65.66.55.95
 Blumenfeld, Kaplan and Sandweiss:65.66.55.160-65.66.55.191
 Chris Gardner Attorne:65.66.64.168-65.66.64.175
+Federal Postal Credit Union Of Arkansas:65.66.65.88-65.66.65.95
 Clearchnl Brdcst Inc:65.66.65.112-65.66.65.119
 State Of Arkansas:65.66.65.128-65.66.65.135
 Lawson Turner Iii Atty:65.66.66.216-65.66.66.223
@@ -49853,7 +49855,6 @@ DATATRAC INFORMATION SERVICES:65.174.117.176-65.174.117.183
 CGI Information Systems:65.174.117.184-65.174.117.191
 Kroll, Inc:65.174.117.200-65.174.117.215
 RAINBOW TECHNOLOGIES, INC:65.174.139.0-65.174.139.255
-Raytheon Aerospace LLC:65.174.142.0-65.174.142.255
 BK MEDIA:65.174.143.128-65.174.143.255
 BK MEDIA:65.174.147.64-65.174.147.127
 GE Employee Federal Credit Union:65.174.147.200-65.174.147.207
@@ -54275,6 +54276,7 @@ MARTIN DISIERE JEFFERSON & WISDOM:66.64.58.176-66.64.58.191
 STEPHEN E. GARNER, P. C. ATTORNEYS:66.64.58.240-66.64.58.255
 LAW OFFICE OF W. ALVIN EARLY:66.64.59.24-66.64.59.31
 THE DOWNEY LAW FIRM:66.64.59.176-66.64.59.183
+TED HIRTZ, LAWYER:66.64.59.232-66.64.59.239
 BLUE LANCE SECURITIES:66.64.60.160-66.64.60.175
 LEGAL PARTNERS, LP:66.64.61.192-66.64.61.199
 LAW OFFICE OF LAURA ARTEAGA:66.64.62.248-66.64.62.255
@@ -65545,7 +65547,6 @@ Urs Greiner:68.75.192.184-68.75.192.191
 LAURIE A MICKLEY ATTY:68.75.192.240-68.75.192.247
 BAKER PUBLISHING DBA-040729040537:68.75.196.200-68.75.196.207
 MCI TELCO AUDIT CENTER-040805172713:68.75.197.72-68.75.197.79
-BAKER PUBLISHING DBA-040724011426:68.75.197.152-68.75.197.159
 Fraternal Order Of Police:68.75.199.240-68.75.199.247
 Michael R Puterbaugh Atty:68.75.200.192-68.75.200.199
 A Russell Smith Law Ofc:68.75.206.88-68.75.206.95
@@ -74256,6 +74257,7 @@ DtecNet Software:70.85.163.24-70.85.163.48
 content holdings, llc:70.85.165.168-70.85.165.175
 clickdiario network:70.85.167.112-70.85.167.119
 DtecNet Software:70.85.169.144-70.85.169.151
+DtecNet Software:70.85.169.240-70.85.169.247
 DtecNet Software:70.85.170.128-70.85.170.135
 DtecNet Software:70.85.170.168-70.85.170.175
 DtecNet Software:70.85.170.192-70.85.170.199
@@ -83496,6 +83498,7 @@ BLACK MANN & GRAHAM INC-060726111028:75.31.152.200-75.31.152.207
 PEARLAND CITY OF-060715123047:75.31.156.32-75.31.156.39
 CITY OF GALVESTON-060817092601:75.31.157.208-75.31.157.215
 COURTROOM CONNECT-060908101922:75.31.159.40-75.31.159.47
+Possible Macrovision:75.31.162.114-75.31.162.114
 AT&T - Possible Macrovision:75.31.163.0-75.31.163.255
 AT&T - Possible Macrovision:75.31.165.0-75.31.165.255
 Possible Macrovision:75.31.166.17-75.31.166.17
@@ -92279,6 +92282,7 @@ STUDIOASSOCIATOLINEATRE:80.20.97.176-80.20.97.191
 COMUNEDIASOLO:80.20.97.216-80.20.97.223
 STUDIOP.M.S.R.L:80.20.98.160-80.20.98.167
 STUDIOPROFESIONALEASSOCIATOPAL:80.20.99.32-80.20.99.39
+COMUNEDIPIOMBINODESE:80.20.99.80-80.20.99.87
 STUDIOP.M.S.R.L:80.20.99.160-80.20.99.175
 COMUNEDIMASERA'DIPADOVA:80.20.100.0-80.20.100.7
 COMUNEDIPESCANTINA:80.20.100.56-80.20.100.63
@@ -95004,6 +95008,7 @@ Botschaft von Namibia:80.120.185.192-80.120.185.195
 Verlag Das Beste:80.120.185.232-80.120.185.235
 Computer Associates GmbH:80.120.185.240-80.120.185.243
 Comverse Network Systems Austria G.m.b.H:80.120.186.16-80.120.186.31
+Webtrend Networx Boeck und Partner KEG:80.120.186.56-80.120.186.59
 BM f Inneres:80.120.186.60-80.120.186.63
 Cerha, Hempel, Spiegelfeld, Hlawati - Rechtsanwaelte:80.120.186.104-80.120.186.111
 Botschaft von Aegypten:80.120.186.156-80.120.186.159
@@ -113340,7 +113345,6 @@ Pauline L Butler Solicitor:83.104.192.212-83.104.192.215
 Margaret Reynolds Solicitors:83.104.193.32-83.104.193.35
 Waldrons Solicitors:83.104.193.88-83.104.193.95
 Intergroove Ltd:83.104.193.168-83.104.193.175
-Ashford Borough Council:83.104.194.12-83.104.194.15
 ANDERTONS MUSIC COMPANY:83.104.194.104-83.104.194.111
 Law Absolute Ltd:83.104.195.72-83.104.195.79
 Canterbury City Council:83.104.195.80-83.104.195.87
@@ -137361,7 +137365,6 @@ UAW Legal Services:162.39.12.248-162.39.12.255
 NYS United Teachers:162.39.23.72-162.39.23.79
 Aspen Systems:162.39.43.32-162.39.43.39
 Armstrong County Jail:162.39.46.88-162.39.46.95
-The Purrington Firm:162.39.69.16-162.39.69.31
 Paul Goodson Atty:162.39.90.224-162.39.90.231
 Digiquant Inc:162.39.93.72-162.39.93.79
 Sandlin Law firm:162.39.103.16-162.39.103.31
@@ -149650,7 +149653,6 @@ PANSOFT-NET.PANSOFT.GmbH.DE, KEPNERDRUCK-NET.Kepne:194.25.215.80-194.25.215.95
 Bull GmbH:194.25.215.112-194.25.215.119
 ORO Produktions GmbH:194.25.217.0-194.25.217.7
 Stadtverwaltung Saalfeld:194.25.217.96-194.25.217.127
-arcplan Information Services GmbH:194.25.218.0-194.25.218.127
 TSI fuer Fujitsu Siemens Computers GmbH:194.25.219.144-194.25.219.151
 ACCENTURE:194.25.223.0-194.25.223.255
 BASE TEN SYSTEMS Electronics GmbH:194.25.228.0-194.25.229.15
@@ -149688,6 +149690,7 @@ Network of IBM Denmark A/S:194.29.122.0-194.29.123.255
 Kharkiv State Regional Administration:194.29.205.0-194.29.205.255
 A.P. Moller:194.29.207.0-194.29.207.255
 Panda Softwaae:194.30.100.0-194.30.100.255
+EDS España:194.30.104.0-194.30.104.255
 Reed Business Information:194.30.105.128-194.30.105.191
 Panda Software:194.30.110.56-194.30.110.63
 AS PA to ENGOMI MUNICIPALITY:194.30.145.100-194.30.145.103
@@ -159663,7 +159666,6 @@ Ayuntamiento de Madrid:195.76.84.0-195.76.84.255
 RENFE:195.76.87.0-195.76.88.255
 Fundacio Privada Cecot Innovacio:195.76.93.0-195.76.93.255
 Diputacion de Barcelona, Acceso Internet:195.76.106.0-195.76.107.255
-MINISTERIO DEL INTERIOR:195.76.126.224-195.76.126.255
 Indra Sistemas:195.76.129.0-195.76.129.255
 Radio Television Valenciana:195.76.133.0-195.76.133.255
 CONSEJO GENERAL DEL PODER JUDICIAL:195.76.135.160-195.76.135.167
@@ -178676,6 +178678,7 @@ BMG Entertainment Thailand Co.,Ltd:203.155.198.96-203.155.198.127
 Rachaburi Electricity Generating Holding PCL:203.155.200.224-203.155.200.255
 CDG Systems LTD:203.155.202.128-203.155.202.159
 PTT Exploration and Production Public Co., Ltd:203.155.203.64-203.155.203.127
+Intentia BP (Thailand) Co.,Ltd:203.155.206.192-203.155.206.223
 Ministry of Commerce:203.155.213.128-203.155.213.159
 The Post Publishing Public Co. Ltd:203.155.213.240-203.155.213.255
 New Zealand Embassy:203.155.216.192-203.155.216.207
@@ -199442,7 +199445,6 @@ Kusatsu Town Hall:211.7.148.80-211.7.148.95
 Chichibu City Hall:211.7.155.96-211.7.155.127
 Info-Communications Planning Division Info-Communications Bureau National Police Agency:211.7.166.96-211.7.166.127
 National Institute for Land and Infrastructure Management, Ministry of Land , Infrastucture and Transport:211.7.176.32-211.7.176.63
-NECTOSHIBA Space Systems,Ltd:211.7.176.160-211.7.176.191
 Tokushima Prefectural Police School:211.7.234.120-211.7.234.127
 Ministry of Land, Infrastructure and Transport Shikoku Regional Development Bureau:211.7.234.176-211.7.234.191
 Ehime Prefectural Government Public Enterprise Administration Bureau:211.7.235.80-211.7.235.95
@@ -210762,6 +210764,7 @@ GI - Customer Interconnexion With RAEI Backbone:213.56.241.128-213.56.241.128
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.176-213.56.241.188
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.240-213.56.241.241
 GI - Customer Interconnexion With RAEI Backbone:213.56.241.255-213.56.241.255
+GI - Customer Interconnexion With RAEI Backbone:213.56.242.1-213.56.242.29
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.30-213.56.242.124
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.126-213.56.242.200
 GI - Customer Interconnexion With RAEI Backbone:213.56.242.202-213.56.242.227
@@ -220406,6 +220409,7 @@ Law Office of Philip Wakefield:216.160.71.40-216.160.71.47
 LIBERTY DISTRIBUTING:216.160.76.120-216.160.76.127
 Wilson Smith Cochran  & Dickerson:216.160.80.48-216.160.80.55
 Didsoft:216.160.82.216-216.160.82.223
+Lariat Software:216.160.83.56-216.160.83.63
 Digital Island:216.160.87.56-216.160.87.63
 Offices of Vogel, Salmi, and Mason:216.160.113.232-216.160.113.239
 Wanzer/Munizza Design Studio:216.160.122.160-216.160.122.167
@@ -225865,7 +225869,6 @@ LG PHILIPS LCD Poland Sp.zo.o:217.96.4.48-217.96.4.55
 Macrosoft Lodz Sp. z o.o:217.96.5.96-217.96.5.111
 Origin sp z o.o:217.96.13.64-217.96.13.79
 TRW Polska:217.96.15.48-217.96.15.63
-Muzyczne Centrum Dystrybucji Sp. z o.o:217.96.18.24-217.96.18.31
 Polskapresse Sp. z o.o:217.96.22.128-217.96.22.255
 Polskapresse Sp. z o.o:217.96.24.0-217.96.24.63
 wn.winuel.com.pl:217.96.31.70-217.96.31.70
