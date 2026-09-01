@@ -3833,7 +3833,6 @@ INVISION.COM:12.150.192.96-12.150.192.127
 STARWOOD HOTELS:12.150.195.0-12.150.195.15
 MONTGOMERY HOMEWOOD SUITES:12.150.228.192-12.150.228.223
 REGULUS GROUP LLC:12.150.235.0-12.150.235.255
-CHUGACH ALASKA CORP:12.150.236.16-12.150.236.23
 FIRST NATIONAL BANKERS BANK:12.150.238.64-12.150.238.79
 BANKERS LIFE CASUALTY:12.150.239.184-12.150.239.191
 NATIONAL BANK OF COMMERCE:12.150.239.240-12.150.239.247
@@ -5218,6 +5217,7 @@ STARWOOD HOTELS:12.197.149.0-12.197.149.127
 TEREX CORPORATION:12.197.159.184-12.197.159.191
 FISERV INC:12.197.172.128-12.197.172.159
 CINE-MED:12.197.177.128-12.197.177.191
+STARWOOD HOTELS:12.197.189.0-12.197.189.255
 ATT BCO NSYNC SERVICES:12.197.216.216-12.197.216.223
 EASTMAN KODAK COMPANY:12.197.221.160-12.197.221.191
 CHILDREN ARE OUR FUTURE:12.198.1.48-12.198.1.55
@@ -8900,7 +8900,6 @@ Hangzhou Cigaret Factory:61.153.6.0-61.153.6.15
 Hangzhou Yuanchuan Communication Technology Co., Ltd:61.153.6.16-61.153.6.23
 Hangzhou Xingyuan Internet Bar:61.153.6.24-61.153.6.31
 Singapore Luodeli Chemical Industry & Petroleum Works:61.153.6.48-61.153.6.55
-Hangzhou Wahaha Group Co., Ltd:61.153.6.56-61.153.6.63
 Hangzhou Shangchengqu District Tianhong Internet Bar:61.153.6.80-61.153.6.87
 Zhejiang Province Leather & Plastics Co., Ltd:61.153.6.88-61.153.6.95
 Zhejiang Guangtong Network Technology Co. Ltd:61.153.6.128-61.153.6.143
@@ -11936,6 +11935,7 @@ Delius Klasing Verlag GmbH:62.145.29.232-62.145.29.239
 Minolta Europe GmbH:62.145.30.48-62.145.30.55
 Prorata Marktforschung GmbH:62.145.31.128-62.145.31.255
 Mainostoimisto Em&Vee:62.145.162.112-62.145.162.127
+webVerlag GmbH neue medien und dienstleistungen:62.146.7.200-62.146.7.207
 Proserv Medien Service GmbH:62.146.29.16-62.146.29.31
 Webverlag GmbH:62.146.41.0-62.146.41.255
 M.I.T newmedia GmbH:62.146.47.52-62.146.47.55
@@ -13260,7 +13260,6 @@ Evangelischer Krankenhausver- ein zu Aachen -Luis:62.225.185.104-62.225.185.111
 Samtec Europe GmbH:62.225.187.192-62.225.187.199
 VARIAN-MEDICAL-SYSTEMS-DARMSTADT-NET:62.225.187.248-62.225.187.255
 Meteo Service weather research GmbH:62.225.189.216-62.225.189.223
-Getraenkeverlag Max Roessler:62.225.189.232-62.225.189.239
 LogicaCMG GmbH & Co. KG:62.225.190.0-62.225.190.7
 IMI Bank (Lux) SA:62.229.114.0-62.229.114.31
 Industrial Bank of Japan:62.229.114.64-62.229.114.95
@@ -13912,7 +13911,6 @@ Verizon Business:63.84.155.64-63.84.155.95
 Research For Better Schools:63.84.167.16-63.84.167.31
 Metromedia Fiber Net:63.84.191.48-63.84.191.63
 Metromedia Fiber Net:63.84.202.208-63.84.202.215
-Metromedia Fiber Net:63.84.209.88-63.84.209.95
 Schlesinger Associates:63.84.219.224-63.84.219.239
 SCHAWK, INC:63.84.229.0-63.84.229.255
 NEXEN GROUP INC:63.84.232.112-63.84.232.127
@@ -18154,7 +18152,6 @@ Alexandria Real Estate Equities, Inc:64.164.149.160-64.164.149.175
 CHARLES SCHWAB:64.164.152.152-64.164.152.159
 PARK ASSOCIATES:64.164.153.128-64.164.153.159
 BAY MEDICAL COMPANY:64.164.156.224-64.164.156.231
-Vista Financial12546902:64.164.159.56-64.164.159.63
 Interbusiness Bank:64.164.161.0-64.164.161.31
 Riverside Mitsubishi:64.164.162.32-64.164.162.39
 South Coast Rehabilitation Center dba Griffin Medical Group:64.164.182.128-64.164.182.255
@@ -18384,7 +18381,6 @@ DERMATOLOGIST MEDICAL:64.167.189.136-64.167.189.143
 Damluji Research Center:64.167.189.240-64.167.189.247
 Tax Financial:64.167.190.40-64.167.190.47
 DowChemical2623245:64.167.195.40-64.167.195.47
-A K Financial:64.167.199.192-64.167.199.199
 Washington Mutual Inc:64.167.200.48-64.167.200.55
 Alpha Design Labs Inc:64.167.201.40-64.167.201.47
 CityvestFinancialCorp1130689:64.167.202.32-64.167.202.39
@@ -18890,7 +18886,6 @@ Turner Construction Co:64.174.123.56-64.174.123.63
 Pirotta Financial:64.174.129.40-64.174.129.47
 Wells Fargo Bank N A:64.174.130.96-64.174.130.103
 Genesys:64.174.130.208-64.174.130.215
-Calif Medical Staffing:64.174.134.104-64.174.134.111
 american express:64.174.135.8-64.174.135.15
 Priority Financial Inc:64.174.139.80-64.174.139.87
 Private Customer - SBCIS:64.174.139.96-64.174.139.103
@@ -22437,6 +22432,7 @@ Axa Rosenberg Global:66.120.175.112-66.120.175.119
 FAMILY PRACTICE MEDICAL:66.120.182.160-66.120.182.167
 ERIN ENGINEERING & RESEARCH INC:66.120.183.192-66.120.183.223
 Continental Airlines:66.120.184.96-66.120.184.103
+Pacific Bell Internet Knowledge Management:66.120.187.120-66.120.187.127
 La Clinica De La Raza:66.120.203.160-66.120.203.167
 Private Customer - SBCIS:66.120.217.224-66.120.217.231
 Turner Construction:66.120.218.96-66.120.218.103
@@ -29103,7 +29099,6 @@ Labchoice Company11041981:69.106.2.32-69.106.2.39
 Private Customer - SBC Internet Services:69.106.2.240-69.106.2.255
 Private Customer - SBC Internet Services:69.106.3.88-69.106.3.95
 Private Customer - SBC Internet Services:69.106.3.128-69.106.3.135
-Private Customer - SBC Internet Services:69.106.3.232-69.106.3.239
 Private Customer - SBC Internet Services:69.106.11.168-69.106.11.175
 Property Line Investments LLC:69.106.13.128-69.106.13.135
 Private Customer - SBC Internet Services:69.106.13.192-69.106.13.255
@@ -29918,7 +29913,6 @@ Remax Professionals West - St Charles - MLFR:69.222.83.72-69.222.83.79
 MEGAPATH NETWORKS-050615044107:69.222.92.176-69.222.92.183
 Burning Door-050611003332:69.222.222.136-69.222.222.143
 REMAX HOMESOURCE-050616012005:69.222.227.0-69.222.227.7
-FiSERV Inc:69.223.11.208-69.223.11.223
 CATERPILLAR INC-050811104720:69.223.18.16-69.223.18.23
 CATERPILLAR SYSTEMS AND PRO-050916090749:69.223.19.24-69.223.19.31
 CATERPILLAR SYSTEMS AND PRO-050916100153:69.223.19.32-69.223.19.39
@@ -35207,6 +35201,7 @@ Kci Medical Aps:80.163.225.56-80.163.225.63
 Karen Skou og Soeren Dupont:80.163.251.104-80.163.251.111
 Institut For Center-Planlaegning:80.164.201.208-80.164.201.215
 Institut For Center-Planlaegning:80.164.201.216-80.164.201.223
+Jacobil A-S (ford Motor Company A-S):80.165.238.48-80.165.238.63
 Brdr Hosbond A-S (ford Motor Company A-S):80.165.238.112-80.165.238.127
 Privathospitalet Kollund:80.166.225.120-80.166.225.127
 Italiensk Institut For Udenrigs- Handel:80.167.14.192-80.167.14.207
@@ -38059,7 +38054,6 @@ Quadriga Worldwide Ltd:82.110.163.96-82.110.163.159
 Simbec Research Limited:82.110.163.160-82.110.163.175
 Quadriga Worldwide Ltd:82.110.164.128-82.110.164.159
 Quadriga Worldwide Ltd:82.110.166.160-82.110.166.191
-Nortel co Geoff Whale:82.110.166.192-82.110.166.199
 Nortel co Barry Jones:82.110.168.24-82.110.168.27
 Nortel co Emmanuel Kalatzis:82.110.168.28-82.110.168.31
 Nortel Networks Plc:82.110.168.160-82.110.168.167
@@ -38673,7 +38667,6 @@ Getronics InformationSolutions  (Austria) Ges.m.b.H:83.64.38.232-83.64.38.239
 Quadriga AssetManagement GesmbH:83.64.41.24-83.64.41.31
 Quadriga AssetManagement GesmbH:83.64.41.40-83.64.41.47
 Columbus IT Partner:83.64.42.128-83.64.42.159
-e|motion management gmbh:83.64.45.48-83.64.45.55
 Fundgrube Verlagsges.m.b.H.& Co KG:83.64.45.120-83.64.45.127
 Quadriga AssetManagement GesmbH:83.64.49.48-83.64.49.63
 DVD-Factor:83.64.50.88-83.64.50.95
@@ -39380,6 +39373,7 @@ REGUS:84.14.123.224-84.14.123.231
 GPMF C O SUNGARD:84.14.129.96-84.14.129.103
 REGUS:84.14.137.64-84.14.137.191
 AMADEUS FRANCE SERVICES:84.14.146.88-84.14.146.95
+AMADEUS FRANCE SERVICES:84.14.146.112-84.14.146.119
 SUNGARD AVAILABILITY SERVICES:84.14.148.0-84.14.148.7
 SUNGARD AVAILABILITY SERVICES:84.14.149.0-84.14.149.255
 AMADEUS FRANCE SERVICES:84.14.205.8-84.14.205.15
@@ -39830,6 +39824,7 @@ FOXITALIASRL:85.34.229.160-85.34.229.167
 GETRONICS S.P.A. - SOCIETA\\:85.34.243.40-85.34.243.47
 FINCANTIERI - CANTIERI NAVALI:85.34.251.208-85.34.251.215
 FOX SRL:85.34.252.184-85.34.252.191
+LOGICASRL:85.35.178.0-85.35.178.7
 SAVIANOPASQUALES.R.L:85.35.182.96-85.35.182.111
 BENTLEYSPA-SOCIETAORGANISMODI:85.35.200.120-85.35.200.127
 FOXITALIAS.R.L:85.35.233.0-85.35.233.7
@@ -40276,6 +40271,7 @@ ems18.your-freedom.de:85.214.116.165-85.214.116.165
 Tor.CelltelOnion:85.214.120.75-85.214.120.75
 Tor.torsight:85.214.122.80-85.214.122.80
 Tor.h1319285:85.214.122.217-85.214.122.217
+Neterra Evo address space:85.217.128.0-85.217.191.255
 Service Multimedia:85.218.30.0-85.218.30.255
 Network for VPN Deutschland ltd. & Co. KG:85.220.134.48-85.220.134.55
 Network for VPN Deutschland ltd. & Co. KG:85.220.159.0-85.220.159.31
@@ -41170,7 +41166,6 @@ AMGEN GMBH:88.116.110.100-88.116.110.103
 AMGEN GMBH:88.116.110.112-88.116.110.115
 bonito Werbe GmbH:88.116.124.204-88.116.124.207
 Top Play - Sportwetten GmbH:88.116.127.112-88.116.127.119
-Top Play - Sportwetten GmbH:88.116.127.192-88.116.127.223
 Lehr-und Forschungsgut d.Vet.Med Universitaet Wien:88.116.131.180-88.116.131.183
 BASF OEsterreich GmbH:88.116.141.140-88.116.141.143
 Manfred Nemetschek:88.116.144.152-88.116.144.155
@@ -42453,6 +42448,7 @@ NextWeb:110.44.128.0-110.44.143.255
 XinNet Technology Corp. (XinnetIDC):110.44.144.0-110.44.159.255
 Vantage Systems Pty Ltd:110.44.160.0-110.44.167.255
 PT. Cakra Lintas Nusantara - colocation:110.44.169.0-110.44.170.255
+PT. Cakra Lintas Nusantara - VPN block:110.44.171.0-110.44.171.255
 Mixi, Inc:110.44.176.0-110.44.183.255
 KVH Co., Ltd:110.50.64.0-110.50.79.255
 PT Infokom Elektrindo:110.50.80.0-110.50.87.255
@@ -45074,6 +45070,7 @@ imported inetnum object for ODG-1:150.31.0.0-150.31.255.255
 imported inetnum object for DIL-1:150.35.0.0-150.35.255.255
 imported inetnum object for INESCO:150.39.0.0-150.39.255.255
 imported inetnum object for IAC-5:150.40.0.0-150.40.255.255
+imported inetnum object for TMC-4:150.45.0.0-150.45.255.255
 imported inetnum object for NEC-3:150.47.0.0-150.47.255.255
 imported inetnum object for TISC:150.48.0.0-150.48.255.255
 imported inetnum object for CTICL:150.49.0.0-150.49.255.255
@@ -51708,6 +51705,7 @@ Digital Intelligence:194.134.251.0-194.134.251.63
 State Public Scientific Library SB RAS:194.135.208.0-194.135.208.255
 Finnair-matkatoimistot:194.136.44.0-194.136.47.255
 BPS Consulting Finland Oy:194.137.52.248-194.137.52.255
+Oy LM Ericsson Ab:194.137.66.192-194.137.66.199
 JohnsonDiversey:194.137.66.244-194.137.66.247
 McCann Helsinki Oy:194.137.83.0-194.137.83.255
 Amgen Ab sivuliike Suomessa:194.137.84.120-194.137.84.191
@@ -53649,6 +53647,7 @@ Fuji Photo Film (Ireland) Ltd:195.112.163.128-195.112.163.131
 Deutsche Bank AG:195.112.163.244-195.112.163.247
 Arthur Andersen LLP:195.112.164.104-195.112.164.107
 Suedwestdeutsche Landesbank Girozentrale:195.112.165.16-195.112.165.19
+AOL SPAIN - PRODIGIOS INTERACTIVOS, S.A:195.112.166.224-195.112.166.227
 Hitachi Nippon Steel Semiconductor:195.112.167.52-195.112.167.55
 Hitachi Consumer Products (M) Sdn. Bhd:195.112.167.244-195.112.167.247
 Reutlinger General-Anzeiger Verlags-GmbH &amp; Co:195.112.168.48-195.112.168.51
@@ -57059,6 +57058,7 @@ Sumitomo Mitsui Card Cmpany, Limited:202.32.43.8-202.32.43.15
 MITSUBISHI HEAVY INDUSTRIES, LTD:202.32.46.0-202.32.46.255
 ASCII Corporation:202.32.48.0-202.32.48.255
 Hitachi Electronics Services Co., Ltd:202.32.54.32-202.32.54.47
+The Shinkin Banks Information System Center Co.,Ltd,:202.32.56.0-202.32.56.255
 Leading Information Technology Institute:202.32.60.16-202.32.60.23
 Serendi Corporation:202.32.60.40-202.32.60.47
 West Japan Railway WelNet Company Limited:202.32.60.96-202.32.60.103
@@ -62769,7 +62769,6 @@ ASM Research Inc:204.130.169.0-204.130.169.255
 Egleston Children's Hospital:204.130.180.0-204.130.180.255
 Willis-Knighton Medical Center:204.130.187.0-204.130.187.255
 APPLICAD Consultants:204.130.195.0-204.130.195.255
-Survival Research Laboratories:204.130.197.0-204.130.197.255
 Telecommunications Education and Research Network (TERN), Inc:204.130.222.0-204.130.222.255
 ST. JOSEPHS MEDICAL CENTER:204.130.223.0-204.130.223.255
 Holladay Park Medical Center:204.130.227.0-204.130.227.255
@@ -63929,7 +63928,6 @@ Financial Management Network:206.135.25.112-206.135.25.127
 Whitman, Requardt And Associates L L P:206.135.58.136-206.135.58.143
 Republic Bank Of Chicago:206.135.202.64-206.135.202.95
 Inland Federal Credit Union:206.135.202.224-206.135.202.255
-Michigan Research:206.135.211.192-206.135.211.207
 Federal Life Insurance:206.135.215.0-206.135.215.31
 Medical Benevolence Foundation:206.135.229.80-206.135.229.95
 Pure Research Laboratories:206.136.14.0-206.136.15.255
@@ -65322,6 +65320,7 @@ Team Rahal, Inc:208.14.110.0-208.14.110.31
 Numark Industries:208.14.110.96-208.14.110.127
 SCHULMAN, RONCA & BUCUVALAS:208.14.110.160-208.14.110.191
 Ultradent Products:208.14.130.0-208.14.130.255
+AST Research:208.14.173.128-208.14.173.159
 SBCIS VPN:208.14.210.0-208.14.210.255
 RR Donnelley & Sons:208.15.38.160-208.15.38.175
 ROCKWELL INTL SCIENCE CENTER:208.15.54.128-208.15.54.159
@@ -68977,6 +68976,7 @@ reassign to Ingram Micro(Thailand):210.1.37.0-210.1.37.3
 reassign to Kiatnakin Securities Co., Ltd:210.1.42.192-210.1.42.207
 Mitsubishi Heavy Industries-Mahajak Air Condition:210.1.42.208-210.1.42.223
 reassign to "Mitsubishi Electric Consumer Product:210.1.42.240-210.1.42.255
+Sykes Asia, Inc. - Mandaue:210.1.76.0-210.1.76.255
 Sykes Asia, Inc - Shaw:210.1.77.0-210.1.77.255
 Wharf T&T Limited:210.5.160.0-210.5.191.255
 JPI Worldwide:210.5.233.192-210.5.233.207
@@ -68991,6 +68991,7 @@ JPI Worldwide:210.5.236.80-210.5.236.103
 JPI Worldwide:210.5.236.120-210.5.236.127
 JPI Worldwide:210.5.236.152-210.5.236.159
 JPI Worldwide:210.5.236.192-210.5.236.207
+JPI Worldwide:210.5.236.224-210.5.236.239
 JPI Worldwide:210.5.236.248-210.5.236.255
 Mitsumi Electric Co Ltd - Kaiser Est PH2:210.6.26.148-210.6.26.151
 PROXYMAID:210.6.26.204-210.6.26.207
@@ -71894,6 +71895,7 @@ Elbsandsteingebirge-Verlag:212.111.226.151-212.111.226.151
 Druckerei & Verlag Christoph Hille:212.111.226.163-212.111.226.163
 Kreiskrankenhaus:212.111.235.8-212.111.235.8
 Vordruckverlag Weise GmbH:212.111.236.80-212.111.236.87
+Index Estate AB:212.112.62.0-212.112.62.255
 International Research and Exchanges Board IP Add:212.112.117.0-212.112.117.255
 Gazprom Neft Kyrgyzstan:212.112.119.0-212.112.119.255
 Ongame E-Solutions AB:212.112.174.224-212.112.174.255
@@ -72587,6 +72589,7 @@ Intelect Marktforschung GmbH F oodservice Info Group Europe:212.184.25.168-212.1
 Ev. Krankenhaus Lutherhaus GmbH:212.184.29.216-212.184.29.223
 Deutsche Telekom AG:212.184.31.0-212.184.31.255
 Kierdorf GmbH & Co:212.184.35.128-212.184.35.159
+Dussmann AG & Co. KGaA Senjore nzentrum Haus \:212.184.70.32-212.184.70.39
 Arche Netvision GmbH:212.184.70.248-212.184.70.255
 HUMAINE Vogtland-Klinikum Plauen GmbH:212.184.71.168-212.184.71.175
 Kraft Druck und Verlag GmbH:212.184.71.232-212.184.71.239
@@ -75953,6 +75956,7 @@ Ice Lab:216.7.167.0-216.7.167.255
 University Hospitals Health System:216.8.96.0-216.8.127.255
 NEXT DIMENSION INC:216.8.176.0-216.8.179.255
 CBC Enetrprises, Inc:216.9.66.48-216.9.66.55
+tor.stugs.com:216.9.84.146-216.9.84.146
 Regulus Group:216.9.112.0-216.9.127.255
 Crane Federal Credit Union:216.9.132.64-216.9.132.95
 Bedford Regional Medical Center:216.9.137.160-216.9.137.175
@@ -79139,7 +79143,6 @@ sysadvice GmbH:217.8.203.24-217.8.203.31
 Caterpillar Sarl:217.8.204.0-217.8.204.7
 Verysell SA:217.8.204.152-217.8.204.159
 LAWA AG:217.8.207.56-217.8.207.63
-Caterpillar Financial Services SARL:217.8.207.88-217.8.207.95
 FRAMEVISION MULTIMEDIA AG:217.8.207.176-217.8.207.183
 Comlab AG:217.8.208.48-217.8.208.55
 PDC Information Technology AG:217.8.209.8-217.8.209.15
@@ -81697,7 +81700,6 @@ Sunshine Net Bar:218.28.245.100-218.28.245.103
 Seven Rainbow Net Bar:218.28.245.104-218.28.245.107
 Xiping Netfastcar Netbar:218.28.245.116-218.28.245.119
 China Oil and Chemical Ltd:218.28.245.128-218.28.245.135
-Suiping Yinglianshilao Factory:218.28.245.176-218.28.245.183
 SC Qidian Netbar:218.28.245.200-218.28.245.203
 PY Miaowanxinyuan Netbar:218.28.245.204-218.28.245.207
 ZMD Xiangyu Technology Co:218.28.245.208-218.28.245.211
@@ -82167,7 +82169,6 @@ Virtela Communicatins, Inc:218.97.160.224-218.97.160.239
 Beijing Getronics Information Technology Co Ltd:218.97.164.32-218.97.164.47
 Test Research Inc:218.97.166.16-218.97.166.31
 Test Research Inc:218.97.166.160-218.97.166.175
-Beijing Getronics Information Technology Co Ltd:218.97.168.192-218.97.168.207
 Cosmos Information Technology Inc:218.97.170.176-218.97.170.176
 Netfast Systems Consultants Ltd:218.97.174.21-218.97.174.21
 dupont (suzhou):218.97.174.40-218.97.174.40
