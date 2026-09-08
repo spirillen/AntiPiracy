@@ -5085,6 +5085,7 @@ ADP DEALER:65.211.107.192-65.211.107.199
 ADP DEALER:65.211.137.144-65.211.137.151
 ADP DEALER:65.211.145.128-65.211.145.135
 ADP DEALER:65.211.152.152-65.211.152.159
+ADP DEALER:65.211.160.72-65.211.160.79
 ADP DEALER:65.211.94.152-65.211.94.159
 ADP DEALER:65.212.0.56-65.212.0.63
 ADP DEALER:65.212.133.104-65.212.133.111
@@ -14282,7 +14283,6 @@ ATT BCO PMO-NMCI VSSD:12.230.115.0-12.230.115.7
 ATT BCO PMO-NMCI VSSD:12.230.231.0-12.230.231.7
 ATT BCO PMO-NMCI VSSD:12.230.48.160-12.230.48.167
 ATT BCO PMO-NMCI VSSD:12.230.50.160-12.230.50.167
-ATT BCO PMO-NMCI VSSD:12.230.50.224-12.230.50.231
 ATT BCO PMO-NMCI VSSD:12.24.10.192-12.24.10.199
 ATT BCO PMO-NMCI VSSD:12.24.149.200-12.24.149.207
 ATT BCO PMO-NMCI VSSD:12.24.150.88-12.24.150.95
@@ -19605,7 +19605,6 @@ Agilent Technologies Deutschland:82.111.177.48-82.111.177.55
 Agilent Technologies Deutschland:82.111.203.96-82.111.203.103
 Agilent Technologies Deutschland:82.111.32.152-82.111.32.159
 Agilent Technologies Deutschland:82.111.34.200-82.111.34.207
-Agilent Technologies Europe:192.25.22.0-192.25.22.255
 Agilent Technologies Eurpoe BV:193.5.4.24-193.5.4.31
 Agilent Technologies Eurpoe BV:217.193.114.36-217.193.114.36
 Agilent Technologies GMBH - Justin Clark:82.108.28.104-82.108.28.111
@@ -20445,6 +20444,7 @@ Akamai Networks:213.157.170.128-213.157.170.191
 Akamai Paris:77.109.169.0-77.109.169.127
 Akamai Pvt Ltd:202.51.151.128-202.51.151.143
 Akamai Route:84.53.128.0-84.53.191.255
+Akamai Server Farm - IRVNCA VLAN140:69.226.92.0-69.226.92.255
 Akamai Server Farm - PLTNCA VLAN140:69.225.175.0-69.225.175.255
 Akamai Server Farm:206.230.3.192-206.230.3.207
 Akamai Server Farm:72.12.197.192-72.12.197.207
@@ -21647,6 +21647,7 @@ Aliaslab Network:213.199.25.0-213.199.25.255
 Alibaba (Beijing) Technology Co Ltd:119.42.224.0-119.42.255.255
 Alibaba (Beijing) Technology Co Ltd:42.156.128.0-42.156.255.255
 Alibaba (China) Technology Co Ltd:110.75.192.0-110.75.255.255
+Alibaba (China) Technology Co Ltd:119.38.208.0-119.38.223.255
 Alibri Verlag Gunnar Schedel:88.198.96.128-88.198.96.135
 Alice And Law Co Ltd:218.103.104.120-218.103.104.127
 Alice BBDO Reklamcilik ve iletiSim Hiz.A.S:193.192.105.72-193.192.105.79
@@ -23290,7 +23291,6 @@ American Consulate General:210.177.22.32-210.177.22.63
 American Consulate General:62.245.169.40-62.245.169.47
 American Consulting Engineers:209.43.29.16-209.43.29.23
 American Consulting Engineers:216.248.57.128-216.248.57.143
-American Consulting Engineers:216.85.84.120-216.85.84.127
 American Consulting Group:216.241.188.8-216.241.188.15
 American Council on Education:192.111.222.0-192.111.222.255
 American Court Reporting Service:72.243.77.176-72.243.77.183
@@ -25437,7 +25437,6 @@ Apps Software:207.113.112.0-207.113.127.255
 Appsco Software Ltd:193.131.170.64-193.131.170.127
 Appserv Limited:110.34.48.0-110.34.51.255
 Appulse Retails Software Solutions Pvt. Ltd:210.7.67.72-210.7.67.75
-Apr Consulting:64.174.117.152-64.174.117.159
 Apr Consulting:66.121.43.16-66.121.43.23
 April & Me Media Inc:206.72.161.0-206.72.161.255
 April Consulting Avoin yhtio:194.251.125.156-194.251.125.159
@@ -25684,7 +25683,6 @@ Arbeitsamt Zwickau:217.5.178.120-217.5.178.127
 Arbeitsamt der Deutschtaligen Gemeinschaft:212.166.19.96-212.166.19.127
 Arbeitsamt:195.243.206.96-195.243.206.103
 Arbeitsamt:62.159.71.224-62.159.71.231
-Arbeitsemeinschaft d. ev. Jugend in der Bundesrep:217.6.35.216-217.6.35.223
 Arbeitsgemeinschaft Koordinierungsausschuss:194.8.198.64-194.8.198.79
 Arbeitskammer des Saarlandes:212.88.141.16-212.88.141.31
 Arbeitsmarktservice Oesterreich:194.37.104.0-194.37.231.255
@@ -26066,6 +26064,7 @@ Arktis Software GmbH:194.25.46.192-194.25.46.207
 Arkwin Industries:167.206.62.208-167.206.62.215
 Arlekino:213.184.146.64-213.184.146.127
 Arlington Chamber of Commerce:64.218.137.64-64.218.137.71
+Arlington Christian Church:216.62.107.96-216.62.107.127
 Arlington Clinical:64.42.66.120-64.42.66.127
 Arlington Community Action Program:207.233.220.64-207.233.220.127
 Arlington Consulting GmbH:145.253.251.32-145.253.251.39
@@ -26152,6 +26151,7 @@ Armite Laboratories:66.127.7.248-66.127.7.255
 Armor Holdings, Inc:63.66.21.128-63.66.21.191
 Armor Holdings:64.31.133.192-64.31.133.255
 Armor Holdings:69.150.159.32-69.150.159.39
+Armor Mobile Security-Germany GmbH:212.184.113.176-212.184.113.183
 Armsco Financial:67.124.95.112-67.124.95.119
 Armstroff Verlag & Marketing GmbH:213.23.8.80-213.23.8.87
 Armstrong & Assoc:63.195.39.152-63.195.39.159
@@ -29528,6 +29528,7 @@ B.C. Web Publishing:206.183.254.0-206.183.255.255
 B.C. ZIEGLER & COMPANY:12.34.46.128-12.34.46.191
 B.C. ZIEGLER &amp; COMPANY:12.37.0.176-12.37.0.183
 B.C. ZIEGLER COMPANY:12.34.40.64-12.34.40.127
+B.C. ZIEGLER COMPANY:12.37.1.208-12.37.1.223
 B.C. Ziegler and Company:207.170.58.0-207.170.58.7
 B.C. Ziegler and Company:209.83.28.0-209.83.28.63
 B.C.E. SRL:94.94.68.232-94.94.68.239
@@ -33020,6 +33021,7 @@ BON STRUMENTI MUSICALI SRL:217.220.143.52-217.220.143.55
 BON STRUMENTI MUSICALI SRL:217.220.143.64-217.220.143.71
 BON STRUMENTI MUSICALI SRL:89.118.166.96-89.118.166.107
 BON-SECOUR-HOSPITAL:24.39.159.72-24.39.159.79
+BONA:63.150.155.0-63.150.155.255
 BONA:66.77.70.224-66.77.70.239
 BONAVAL MULTIMEDIA S.L:80.81.112.0-80.81.112.255
 BONAZZI E AVVOCATI:88.35.96.248-88.35.96.255
@@ -37470,7 +37472,6 @@ Beijing Primezone Technologies Inc:210.77.0.0-210.77.31.255
 Beijing Primezone Technologies Inc:211.154.0.0-211.154.31.255
 Beijing Primezone Technologies Inc:211.99.128.0-211.99.159.255
 Beijing Primezone Technologies Inc:211.99.129.0-211.99.129.255
-Beijing Primezone Technologies Inc:211.99.138.240-211.99.149.31
 Beijing Primezone Technologies Inc:211.99.149.64-211.99.149.255
 Beijing Primezone Technologies Inc:211.99.150.64-211.99.152.127
 Beijing Primezone Technologies Inc:211.99.152.144-211.99.153.31
@@ -43471,6 +43472,7 @@ Bundesanstalt fuer Arbeit Arbeitsamt Dillingen:212.185.170.72-212.185.170.79
 Bundesanstalt fuer Arbeit Arbeitsamt Dippoldiswalde:217.7.16.232-217.7.16.239
 Bundesanstalt fuer Arbeit Arbeitsamt Doebeln:62.153.140.80-62.153.140.87
 Bundesanstalt fuer Arbeit Arbeitsamt Doebeln:62.153.73.160-62.153.73.167
+Bundesanstalt fuer Arbeit Arbeitsamt Donauesching:62.156.142.208-62.156.142.215
 Bundesanstalt fuer Arbeit Arbeitsamt Donauwoerth:212.185.170.80-212.185.170.87
 Bundesanstalt fuer Arbeit Arbeitsamt Dorsten:217.5.216.240-217.5.216.247
 Bundesanstalt fuer Arbeit Arbeitsamt Dortmund:212.184.74.0-212.184.74.7
@@ -52828,6 +52830,7 @@ CNET Services:194.105.188.176-194.105.188.183
 CNET of Champion:63.70.6.224-63.70.6.239
 CNET- METRO GIGE SFO3:209.66.79.32-209.66.79.39
 CNET- METRO GIGE SFO3:64.124.44.32-64.124.44.39
+CNET-060518013313:75.11.255.168-75.11.255.175
 CNET-070118132341:75.63.221.200-75.63.221.207
 CNET-070218184248:75.60.70.40-75.60.70.47
 CNET-070315215037:76.201.32.232-76.201.32.239
@@ -62103,7 +62106,6 @@ CWIE, LLC:166.90.250.0-166.90.251.255
 CWIE, LLC:166.90.50.128-166.90.50.255
 CWIE, LLC:209.0.24.0-209.0.24.255
 CWIE, LLC:209.0.80.0-209.0.81.255
-CWIE, LLC:209.247.145.0-209.247.145.255
 CWIE, LLC:216.207.120.0-216.207.120.31
 CWIE, LLC:4.71.8.16-4.71.8.31
 CWIE, LLC:4.78.192.96-4.78.192.127
@@ -75436,6 +75438,7 @@ Computer science development joint stock company:203.113.132.184-203.113.132.191
 Computer selling and consulting company:213.250.81.104-213.250.81.111
 Computer software and services, Dublin:62.77.163.96-62.77.163.103
 Computer system Co.Ltd..of Xiamen City of Fujian:61.131.67.176-61.131.67.183
+Computer und Software Anita Rakers:62.225.141.160-62.225.141.167
 Computer-Consulting und -Technologie GmbH:213.168.210.0-213.168.210.127
 Computer-Studio:193.193.130.192-193.193.130.223
 Computer-Trade-Market of ChenZhou city, Hunan Pro:202.103.85.224-202.103.85.239
@@ -87671,6 +87674,7 @@ Department of Tourism:203.2.212.0-203.2.213.255
 Department of Tourism:222.126.28.248-222.126.28.255
 Department of Town & Country Planning:203.150.28.0-203.150.28.255
 Department of Trade & Industry (1 Victoria St):194.83.173.240-194.83.173.247
+Department of Trade & Industry:194.128.84.0-194.128.84.255
 Department of Trade & Industry:217.154.89.144-217.154.89.159
 Department of Trade & Industry:81.171.233.29-81.171.233.29
 Department of Trade & Industry:86.54.85.192-86.54.85.195
@@ -97434,7 +97438,6 @@ E Alan Tiras Atty Db:66.122.85.104-66.122.85.111
 E Bridgewater Hwy Dept:74.94.189.168-74.94.189.175
 E C O / Ont Govt-Leg:207.61.38.184-207.61.38.191
 E Choice:68.248.116.0-68.248.116.255
-E Clips Productions AS:194.248.203.40-194.248.203.47
 E County Derm Grp:66.123.247.184-66.123.247.191
 E D S:65.82.179.152-65.82.179.159
 E Direct Publishing:67.123.47.248-67.123.47.255
@@ -98034,7 +98037,6 @@ ECON ULLSTEIN LIST VERLAG:62.96.193.144-62.96.193.151
 ECONOMIC ADVANTAGE CORP:12.23.29.64-12.23.29.79
 ECONOMIC CLASS CLIENTS:62.212.208.0-62.212.223.255
 ECONOMIC CLASS CLIENTS:62.212.223.0-62.212.223.255
-ECONOMIC COMPUTER SYSTEMS INC:12.109.132.0-12.109.135.255
 ECONOMIC COMPUTER SYSTEMS INC:12.109.39.112-12.109.39.127
 ECONOMIC COMPUTER SYSTEMS INC:12.172.60.0-12.172.63.255
 ECONOMIC POLICY INSTITUTE:207.15.182.0-207.15.182.255
@@ -104679,7 +104681,6 @@ Empire Entertainment, Inc:72.1.191.96-72.1.191.111
 Empire Federal Credit Union:209.217.205.48-209.217.205.63
 Empire Financial Group:67.114.79.216-67.114.79.223
 Empire Financial:4.18.37.0-4.18.37.7
-Empire Games Studio:195.102.89.128-195.102.89.191
 Empire Interactive Media:69.15.1.0-69.15.1.7
 Empire Interactive:66.93.171.0-66.93.171.15
 Empire Interactive:82.111.187.88-82.111.187.95
@@ -121514,7 +121515,6 @@ GE Medical Systems informationTechnologies GmbH:62.157.167.32-62.157.167.39
 GE Medical Systems:194.206.245.96-194.206.245.111
 GE Medical Systems:195.126.133.200-195.126.133.207
 GE Medical Systems:195.86.241.32-195.86.241.35
-GE Medical Systems:207.67.88.0-207.67.88.255
 GE Medical Systems:212.177.15.0-212.177.15.7
 GE Medical Systems:65.100.107.24-65.100.107.31
 GE Medical Systems:66.149.26.168-66.149.26.175
@@ -123366,6 +123366,7 @@ GI - Customer Interconnexion With RAEI Backbone:194.206.107.158-194.206.107.159
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.168-194.206.107.168
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.17-194.206.107.31
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.170-194.206.107.170
+GI - Customer Interconnexion With RAEI Backbone:194.206.107.172-194.206.107.179
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.185-194.206.107.185
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.187-194.206.107.191
 GI - Customer Interconnexion With RAEI Backbone:194.206.107.196-194.206.107.197
@@ -125731,7 +125732,6 @@ GI - Customer Interconnexion With RAEI Backbone:195.6.217.172-195.6.217.172
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.174-195.6.217.174
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.189-195.6.217.191
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.212-195.6.217.214
-GI - Customer Interconnexion With RAEI Backbone:195.6.217.215-195.6.217.221
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.223-195.6.217.223
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.23-195.6.217.23
 GI - Customer Interconnexion With RAEI Backbone:195.6.217.36-195.6.217.38
@@ -132889,6 +132889,7 @@ Glencrest Investment Advisors:64.167.65.48-64.167.65.63
 Glendale Church of the Nazarene:216.161.170.48-216.161.170.55
 Glendale Disney:66.166.26.232-66.166.26.239
 Glendale Police Department:204.107.160.0-204.107.160.255
+Glendale Presbyterian Church:216.233.146.192-216.233.146.255
 Glendale Presbyterian Church:216.233.38.192-216.233.38.223
 Glendale Presbyterian Church:66.125.43.128-66.125.43.159
 Glendinning Management Consultant (Asia Pacific):203.155.11.128-203.155.11.159
@@ -140213,7 +140214,6 @@ Hale and Dorr:148.139.0.0-148.139.255.255
 Hale and Dorr:65.89.224.224-65.89.224.255
 Hales Capital Advisors, LLC:216.216.14.16-216.216.14.31
 Haley Somerset Consulting Ltd:217.206.217.64-217.206.217.79
-Haley Somerset Consulting Ltd:82.108.146.208-82.108.146.215
 Halfbaked Productions:216.173.47.8-216.173.47.15
 Haliburton:65.71.111.240-65.71.111.247
 Halifax Computer Consulting Group:209.87.229.192-209.87.229.255
@@ -141850,6 +141850,7 @@ He Gang city government office:218.7.208.48-218.7.208.55
 He Tong International Law Office:61.222.10.136-61.222.10.143
 He You farm medical corporation:61.158.27.128-61.158.27.159
 He You medical using for farming corporation:61.138.27.128-61.138.27.143
+HeDao Management Bureau Of JingZhou HuBei Provinc:61.136.142.192-61.136.142.199
 HeDongCun:221.11.4.16-221.11.4.31
 HeLiang government:61.161.112.57-61.161.112.57
 HeZe-Cao Xian Health Office:221.1.203.96-221.1.203.99
@@ -146615,6 +146616,7 @@ Hunan Public Security College:59.71.126.0-59.71.127.255
 Hunan TV station information center:202.103.111.49-202.103.111.49
 HuneX Corporation:218.44.241.232-218.44.241.239
 Hunegs Stone Koenig LeNeave & Kvas PA:216.161.20.232-216.161.20.239
+Hung Cheng Industrial Co., Ltd:211.20.102.144-211.20.102.151
 Hung Rung Film Ltd:61.219.253.40-61.219.253.47
 Hungaria Radio Broadcasting Corp:193.68.35.176-193.68.35.183
 Hungaria Radio Broadcasting Corp:193.91.75.128-193.91.75.191
@@ -148623,7 +148625,6 @@ IBM UK Limited (Banco Espirito):81.98.214.48-81.98.214.63
 IBM UK Limited (Bank of China):62.253.202.144-62.253.202.159
 IBM UK Limited (Beazley):81.98.214.96-81.98.214.111
 IBM UK Limited (Bluecrest Capital Managment):81.105.183.128-81.105.183.143
-IBM UK Limited (Bridgwell):81.98.214.64-81.98.214.79
 IBM UK Limited (Bristol Managment):80.1.64.20-80.1.64.23
 IBM UK Limited (Bristol):80.1.64.192-80.1.64.207
 IBM UK Limited (CQS):81.98.214.128-81.98.214.143
@@ -150150,6 +150151,7 @@ IM GROUP LTD:81.179.51.56-81.179.51.63
 IM Gallup hf:212.30.212.96-212.30.212.103
 IM Internationalmedia AG, D-81679 Muenchen:195.143.200.80-195.143.200.95
 IM MEDIA SRL:80.19.255.248-80.19.255.255
+IM-C Institut Management und Consulting AG:62.8.192.148-62.8.192.151
 IM-GROUP:62.233.140.192-62.233.140.199
 IM-Software Ltd:217.155.1.64-217.155.1.127
 IMAC Support Services:203.34.50.0-203.34.50.255
@@ -152523,6 +152525,7 @@ IP pools:81.159.24.0-81.159.24.255
 IP pools:81.159.27.0-81.159.27.255
 IP pools:86.132.104.0-86.132.104.255
 IP pools:86.132.107.0-86.132.107.255
+IP pools:86.132.88.0-86.132.88.255
 IP pools:86.132.90.0-86.132.91.255
 IP pools:86.132.92.0-86.132.92.255
 IP pools:86.132.95.0-86.132.95.255
@@ -162224,7 +162227,6 @@ Jiangsu Fujitsu Co., Ltd:61.132.122.240-61.132.122.247
 Jiangsu Group Co:112.83.124.0-112.83.124.255
 Jiangsu Group Co:112.84.160.0-112.84.160.255
 Jiangsu Group Co:112.85.158.0-112.85.158.255
-Jiangsu Group Co:112.85.83.0-112.85.83.255
 Jiangsu Group Co:122.192.202.0-122.192.202.255
 Jiangsu Group Co:122.96.85.0-122.96.85.255
 Jiangsu Group Co:58.240.253.0-58.240.253.255
@@ -171617,7 +171619,6 @@ Korean Embassy:211.4.221.232-211.4.221.239
 Korean Federation of Science and Technology Societ:210.218.201.0-210.218.202.15
 Korean Federation of Science and Technology Societ:210.98.26.0-210.98.26.255
 Korean Federation of Science and Technology Societ:210.98.5.0-210.98.5.255
-Korean First Baptist:65.66.247.80-65.66.247.95
 Korean Hospital Association:218.239.244.128-218.239.244.255
 Korean National Police Agency:211.34.107.224-211.34.107.255
 Korean Presbyterian Church:63.192.186.224-63.192.186.231
@@ -176142,7 +176143,6 @@ LOUDCLOUD INC:210.57.10.128-210.57.10.255
 LOUDEYE:65.222.172.0-65.222.172.255
 LOUIS & BREES LLP-060921004753:75.43.69.136-75.43.69.143
 LOUIS LIGHT ATTY-061211224709:75.52.105.144-75.52.105.151
-LOUIS LIGHT ATTY:66.136.236.176-66.136.236.183
 LOUIS-WOODRUFF-ATTY-2:69.2.75.112-69.2.75.119
 LOUISBURG-TOWN-HALL:24.172.59.24-24.172.59.31
 LOUISIANA DEPARTMENT OF ELECTIONS AND REGISTRATION:204.196.221.224-204.196.221.231
@@ -192026,7 +192026,6 @@ Mangrove Holdings, LLC:38.112.240.48-38.112.240.51
 Mangrove Medical Group:63.195.2.16-63.195.2.23
 Mangus Entertainment:207.237.27.0-207.237.27.63
 Manhard Consulting Ltd:207.152.83.0-207.152.83.255
-Manhard Consulting:216.130.98.16-216.130.98.31
 Manhard Consulting:216.130.98.176-216.130.98.191
 Manhattan Center Studio:207.188.100.16-207.188.100.31
 Manhattan Center Studios (HBO):167.206.84.64-167.206.84.127
@@ -193256,6 +193255,7 @@ Matrix Consult AG:195.252.209.208-195.252.209.215
 Matrix Consulting Group:216.243.240.0-216.243.255.255
 Matrix Consulting Services, Inc:209.136.124.168-209.136.124.175
 Matrix Consulting, LLC:66.112.192.0-66.112.207.255
+Matrix Consulting:64.81.133.160-64.81.133.175
 Matrix Display Systems Limited:135.196.19.0-135.196.19.3
 Matrix Games c/o Choopa.Com:64.237.33.0-64.237.33.63
 Matrix Games c/o Choopa.Com:66.55.131.0-66.55.131.255
@@ -195763,6 +195763,7 @@ Mentis Technology Solutions:38.97.193.240-38.97.193.255
 Mentopolis CSC GmbH:195.126.203.48-195.126.203.63
 Mentopolis CSC GmbH:213.70.191.80-213.70.191.95
 Mentor Advisory Services:210.50.235.44-210.50.235.47
+Mentor Board of Education:216.130.16.0-216.130.31.255
 Mentor Corporation:206.208.144.0-206.208.151.255
 Mentor Graphics Corporation:134.86.0.0-134.86.255.255
 Mentor Graphics Corporation:137.202.0.0-137.202.255.255
@@ -197443,7 +197444,6 @@ Mike DeCastro (55128-1):208.177.155.220-208.177.155.223
 Mike Devereux (Music) Limited T/A Nevada:62.49.81.8-62.49.81.15
 Mike Drumm:65.100.171.192-65.100.171.199
 Mike Gayer:66.232.96.33-66.232.96.63
-Mike Hammer Consulting & Development:217.24.13.192-217.24.13.207
 Mike Mathis Productions:64.60.82.24-64.60.82.31
 Mike Mathis Productns10588744:69.111.11.144-69.111.11.151
 Mike McKinzie City of Olympia:216.210.150.112-216.210.150.119
@@ -200941,6 +200941,7 @@ Monckton Chambers 120782:83.146.57.64-83.146.57.79
 Monckton Services Limited:194.129.96.0-194.129.96.63
 Moncton C 103 MUSIC STATION YORKMILLS:24.235.99.40-24.235.99.47
 Mondial Media:72.55.160.112-72.55.160.127
+Mondial Video Srl:194.243.52.224-194.243.52.255
 Mondiale Publishing Ltd:217.207.195.64-217.207.195.71
 Mondiale Publishing:82.68.54.208-82.68.54.215
 Mondo Media:194.198.148.0-194.198.148.255
@@ -203182,7 +203183,6 @@ Musikantow Consulting And Manageme-051110055020:70.137.224.144-70.137.224.151
 Musikborsen AB:62.95.15.80-62.95.15.87
 Musikbranchens Reklamebureau Aps:193.89.190.8-193.89.190.15
 Musikbörsen AB:213.88.247.88-213.88.247.95
-Musikcafe Aftereight:62.72.240.128-62.72.240.159
 Musikcafe Aftereight:62.80.148.164-62.80.148.167
 Musikcafe Aftereight:62.80.148.192-62.80.148.223
 Musikdata:217.196.65.4-217.196.65.7
@@ -203390,7 +203390,6 @@ Müller Production SA:195.144.57.72-195.144.57.79
 N & S Computer Consulting:209.74.176.224-209.74.176.255
 N 2 Consulting Llc:67.65.89.8-67.65.89.15
 N A V CONSULTING INC:68.20.82.208-68.20.82.215
-N A V CONSULTING INC:68.20.82.224-68.20.82.239
 N A V CONSULTING INC:68.20.82.248-68.20.82.255
 N A V Consulting Inc:68.20.77.200-68.20.77.207
 N B C Inc Pon 1640957:67.121.48.160-67.121.48.167
@@ -204523,7 +204522,6 @@ NCEISC-Phil Navy:222.126.19.208-222.126.19.215
 NCG Porter Novelli:64.168.127.168-64.168.127.183
 NCG Porter Novelli:66.125.97.64-66.125.97.127
 NCG Porter Novelli:66.125.98.0-66.125.98.63
-NCH Advisors - Anticoroziv:193.226.175.24-193.226.175.31
 NCH Advisors - Central Site:193.226.175.64-193.226.175.95
 NCH Advisors - Electroaparataj:193.226.175.0-193.226.175.7
 NCH Advisors - Electrotehnica:193.226.175.40-193.226.175.47
@@ -210600,6 +210598,7 @@ Net2EZ:207.7.92.0-207.7.95.255
 Net2EZ:208.48.132.0-208.48.135.255
 Net2EZ:208.68.156.0-208.68.159.255
 Net2EZ:216.207.184.0-216.207.187.255
+Net2EZ:64.210.50.0-64.210.51.255
 Net2EZ:64.93.64.0-64.93.95.255
 Net2EZ:65.126.240.0-65.126.243.255
 Net2EZ:65.97.48.0-65.97.63.255
@@ -218636,7 +218635,6 @@ OSI Consulting83747:216.103.46.192-216.103.46.223
 OSI Consulting:216.102.134.16-216.102.134.23
 OSI Consulting:216.102.134.96-216.102.134.127
 OSI Consulting:216.103.150.0-216.103.150.255
-OSI Consulting:216.103.46.160-216.103.46.191
 OSI Consulting:63.194.179.96-63.194.179.127
 OSI Consulting:64.171.91.96-64.171.91.127
 OSI Defense Systems:207.59.59.48-207.59.59.55
@@ -220859,7 +220857,6 @@ Open Systems Specialists Ltd:202.37.198.0-202.37.198.255
 Open Systems inc:194.105.242.0-194.105.242.255
 Open T.V Tokyo - GX:202.147.4.0-202.147.4.127
 Open TV Korea:210.207.84.192-210.207.84.223
-Open TV UK Limited:217.154.65.184-217.154.65.191
 Open TV:195.166.122.0-195.166.122.31
 Open TV:63.73.8.40-63.73.8.47
 Open Technology Limited:202.36.78.0-202.36.79.255
@@ -222323,6 +222320,7 @@ Oy MU-consultants Ab:193.66.205.0-193.66.205.111
 Oy MU-consultants Ab:193.66.205.128-193.66.205.255
 Oy Maritime Transport & Agencies MTA ab:193.94.5.176-193.94.5.191
 Oy Orchimedia Ltd:213.28.140.0-213.28.140.15
+Oy Systeam Consulting Ab:62.142.246.224-62.142.246.255
 Oy Unisys Ab:193.211.38.16-193.211.38.31
 Oy Unomedical Ab:62.61.89.160-62.61.89.191
 Oy Uponor Ab:195.165.86.0-195.165.86.255
@@ -235440,7 +235438,6 @@ Private Customer - SBC Internet Services:68.76.34.112-68.76.34.119
 Private Customer - SBC Internet Services:68.76.34.200-68.76.34.207
 Private Customer - SBC Internet Services:68.76.34.224-68.76.34.231
 Private Customer - SBC Internet Services:68.76.35.208-68.76.35.215
-Private Customer - SBC Internet Services:68.76.6.128-68.76.6.135
 Private Customer - SBC Internet Services:68.76.6.176-68.76.6.183
 Private Customer - SBC Internet Services:68.76.68.48-68.76.68.55
 Private Customer - SBC Internet Services:68.76.69.160-68.76.69.167
@@ -235484,6 +235481,7 @@ Private Customer - SBC Internet Services:68.77.174.232-68.77.174.239
 Private Customer - SBC Internet Services:68.77.191.184-68.77.191.191
 Private Customer - SBC Internet Services:68.77.191.24-68.77.191.31
 Private Customer - SBC Internet Services:68.77.191.72-68.77.191.79
+Private Customer - SBC Internet Services:68.77.216.8-68.77.216.15
 Private Customer - SBC Internet Services:68.77.218.80-68.77.218.95
 Private Customer - SBC Internet Services:68.77.219.64-68.77.219.79
 Private Customer - SBC Internet Services:68.77.238.80-68.77.238.95
@@ -240299,6 +240297,7 @@ Quoka Verlag GmbH:212.12.62.32-212.12.62.35
 Quorum Abogados S.L.L:213.250.143.88-213.250.143.95
 Quorum Consulting:209.253.172.64-209.253.172.71
 Quorum Litigation Services:198.140.157.0-198.140.157.255
+Quorum Software Systems, Inc:192.124.131.0-192.124.131.255
 Quorum Software Systems, Inc:192.67.129.0-192.67.129.255
 Quota Film Fernseh GmbH:80.122.96.168-80.122.96.171
 Quotron-Reuters:66.121.233.160-66.121.233.191
@@ -266324,6 +266323,7 @@ San Bernardino Supervisor:64.32.155.12-64.32.155.15
 San Bruno Municipal Cable TV:24.142.152.0-24.142.154.255
 San Bruno Municipal Cable TV:24.142.170.0-24.142.170.255
 San Bruno Municipal Cable TV:24.142.183.0-24.142.191.255
+San Bruno Municipal Cable TV:24.142.5.0-24.142.5.255
 San Bruno Municipal Cable TV:24.142.75.0-24.142.75.255
 San Carlos Cinemas Inc:69.105.181.112-69.105.181.119
 San Carlos Cinemas Inc:69.105.181.208-69.105.181.215
@@ -268154,6 +268154,7 @@ Science & Technology Publishing house of Heilongj:210.76.51.0-210.76.52.255
 Science & Technology Research Inc:65.202.210.16-65.202.210.31
 Science & Technology of Information Research inst:210.76.43.0-210.76.44.255
 Science And Technology Consultation Corporation,:218.28.20.16-218.28.20.23
+Science Applciations International:192.82.105.0-192.82.105.255
 Science Application Int:63.77.242.128-63.77.242.143
 Science Application Int:65.222.241.144-65.222.241.159
 Science Application Int:65.222.249.96-65.222.249.127
@@ -279499,6 +279500,7 @@ State Library of Victoria:203.17.215.0-203.17.215.255
 State Maritime Academy:195.201.95.144-195.201.95.159
 State Municipal Service:208.188.35.232-208.188.35.239
 State Of Alabama Board:69.130.119.188-69.130.119.195
+State Of Alabama:65.81.108.168-65.81.108.175
 State Of Alabama:65.81.75.64-65.81.75.71
 State Of Alaska:12.21.204.48-12.21.204.55
 State Of Ark:65.71.146.240-65.71.146.247
@@ -287941,7 +287943,6 @@ TOSHIBA INTERNATIONAL INC:12.49.217.176-12.49.217.191
 TOSHIBA IT-SERVICES CORPORATION:122.214.31.224-122.214.31.231
 TOSHIBA IT-SERVICES CORPORATION:122.214.31.240-122.214.31.247
 TOSHIBA IT-SERVICES CORPORATION:202.95.218.0-202.95.219.255
-TOSHIBA IT-SERVICES CORPORATION:211.130.162.192-211.130.162.255
 TOSHIBA IT-SERVICES CORPORATION:61.125.138.0-61.125.138.15
 TOSHIBA IT-SOLUTIONS CORPORATION:210.255.112.40-210.255.112.47
 TOSHIBA IT-SOLUTIONS CORPORATION:219.163.129.232-219.163.129.239
@@ -297087,6 +297088,7 @@ Time Equities, Inc:69.176.209.192-69.176.209.199
 Time Financial Plaza:210.63.232.208-210.63.232.223
 Time Inc Magazine Co Pty Ltd:203.3.130.0-203.3.130.255
 Time Inc. New Media:206.197.145.0-206.197.145.255
+Time Inc:202.42.130.0-202.42.130.3
 Time Inc:207.213.110.224-207.213.110.239
 Time Inc:208.45.106.0-208.45.106.15
 Time Inc:209.251.192.0-209.251.223.255
@@ -331012,7 +331014,6 @@ itembank:219.123.158.64-219.123.158.71
 itgroove Professional Services Ltd:24.108.1.7-24.108.1.7
 itknetwork GmbH:78.24.248.0-78.24.255.255
 itoolabs:70.85.163.128-70.85.163.143
-itshowsyouall.com Trojan.DownLoader1.24655:95.211.109.214-95.211.109.214
 itsth.de:212.227.184.223-212.227.184.223
 ivf-video.org:62.166.198.89-62.166.198.89
 ivorymaterial.com:198.23.197.106-198.23.197.110
@@ -335535,7 +335536,6 @@ vl2.xfer-sw1.chi1.gamespy.com:216.178.35.94-216.178.35.94
 vl2.xfer-sw1.lax1.gamespy.com:216.178.35.70-216.178.35.70
 vl2.xfer-sw1.sjc1.gamespy.com:216.178.35.102-216.178.35.102
 vlan 315  AS24867 Mnet:212.187.163.48-212.187.163.63
-vlan 317  AS24867 Mnet:212.187.163.176-212.187.163.191
 vm01.com:82.103.133.240-82.103.133.240
 vm01.com:82.103.137.46-82.103.137.46
 vm1.covenanteyes.com:209.97.202.236-209.97.202.237
