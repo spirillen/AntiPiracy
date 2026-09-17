@@ -11542,6 +11542,7 @@ Kad activity on Ford Motor Co:19.84.65.197-19.84.65.197
 Kad activity on Ford:19.112.120.35-19.112.120.35
 Detected kad activity on Ford Motor Company:19.123.250.114-19.123.250.114
 Detected kad activity on Ford Motor Company:19.166.255.77-19.166.255.77
+Computer Sciences Corp:20.0.0.0-20.255.255.255
 DoD Network Information Center:21.0.0.0-22.255.255.255
 Kad activity on Ubiquity Server:23.19.26.250-23.19.26.250
 Ubiquity Server Solutions Seattle:23.19.80.0-23.19.83.255
@@ -15647,10 +15648,12 @@ Detected AP2P on Comcast Business:50.250.121.190-50.250.121.190
 Detected AP2P on Comcast Business:50.250.129.169-50.250.129.169
 Detected AP2P on Comcast Business:50.251.86.0-50.251.86.16
 Detected AP2P on Comcast Business Communications:50.255.29.202-50.255.29.202
+UK Government Department for Work and Pensions:51.0.0.0-51.255.255.255
 Amazon Technologies Inc:52.0.0.0-52.31.255.255
 E.I. du Pont de Nemours and Co., Inc:52.32.0.0-52.63.255.255
 Amazon Technologies Inc:52.64.0.0-52.79.255.255
 Amazon.com, Inc:52.80.0.0-52.83.255.255
+E.I. du Pont de Nemours and Co., Inc:52.96.0.0-52.255.255.255
 Kad activity on Daimler:53.35.10.131-53.35.10.131
 Kad activity on Daimler:53.38.100.147-53.38.100.147
 Detected kad activity on Daimler AG:53.51.46.163-53.51.46.163
@@ -15665,6 +15668,7 @@ SMSHoax FakeAV Fraud Trojan:54.83.204.180-54.83.204.180
 Detected kad activity on Merck:54.98.99.113-54.98.99.113
 Detected kad activity on Merck:54.113.22.245-54.113.22.245
 Kad activity on Amazon Beijing:54.223.181.203-54.223.181.203
+Amazon Technologies Inc:54.224.0.0-54.255.255.255
 Headquarters, USAISC (Army Information Systems Center):55.0.0.0-55.255.255.255
 United States Postal Service:56.0.0.0-56.255.255.255
 Kad activity on SITA:57.5.134.147-57.5.134.147
@@ -125426,6 +125430,7 @@ OVH SAS:91.121.12.180-91.121.13.192
 OVH SAS:91.121.13.194-91.121.28.114
 Detected AP2P on OVH SAS:91.121.16.137-91.121.16.137
 wierzbowski.pl:91.121.21.97-91.121.21.97
+OVH SAS:91.121.28.116-91.121.60.41
 Detected AP2P on OVH SAS proxy:91.121.58.235-91.121.58.235
 OVH SAS:91.121.60.43-91.121.74.148
 OVH SAS:91.121.74.150-91.121.77.104

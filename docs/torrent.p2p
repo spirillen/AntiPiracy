@@ -9,7 +9,6 @@
 "BELECONOMBANK", Joint-stock social-economic bank:195.210.149.128-195.210.149.159
 "British Broadcasting Corp":81.195.91.44-81.195.91.47
 "British Broadcasting Corp":81.195.95.0-81.195.95.3
-"Business Consulting Company":217.23.132.232-217.23.132.239
 "C"CONSULTINGSRL:80.20.121.200-80.20.121.207
 "Christoph 23" BW Krankenhaus Koblenz:212.202.167.12-212.202.167.15
 "Christoph 25" Ev. Jung-Stilling Krankenhaus:212.202.128.104-212.202.128.107
@@ -1538,6 +1537,7 @@
 21ViaNet (China) Inc:211.152.64.0-211.152.127.255
 21ViaNet (China) Inc:42.158.0.0-42.159.255.255
 21ViaNet (China) Inc:59.151.0.0-59.151.127.255
+21ViaNet (China) Inc:60.28.193.0-60.28.223.255
 21ViaNet (Shanghai) Inc:119.37.0.0-119.37.191.255
 21ViaNet (Shanghai) Inc:211.152.32.0-211.152.63.255
 21st Century Networking Corp:216.70.164.0-216.70.164.255
@@ -17917,7 +17917,6 @@ Address assignmet to Ernst & Young LANKACOM-LK:203.143.24.144-203.143.24.151
 Address assignmet to Hilton Hotel by LANKACOM-LK:203.143.42.0-203.143.42.63
 Address block for VPN -Provider service:195.12.75.0-195.12.75.255
 Address pool for LTC-HOME customers:87.110.124.0-87.110.124.255
-Address pool for LTC-HOME customers:87.110.60.0-87.110.60.255
 Address space for Akamai:62.121.6.128-62.121.6.255
 Address space for Optimus Poznan Sp. z o.o:212.126.6.0-212.126.6.175
 Address space for Poznan Science and Technology Park UAM Foundation:193.142.112.0-193.142.112.255
@@ -18010,6 +18009,7 @@ Administer for Real estate of Guizhou Province ,:202.101.93.96-202.101.93.111
 Administracion Federal de Ingresos Publicos (AFIP):200.41.129.0-200.41.129.255
 Administracion Nacional de Telecomunicaciones:190.0.128.0-190.0.159.255
 Administracion Nacional de Telecomunicaciones:190.132.0.0-190.132.255.255
+Administracion Nacional de Telecomunicaciones:190.64.0.0-190.64.255.255
 Administracion Nacional de Telecomunicaciones:200.125.0.0-200.125.63.255
 Administracion Nacional de Telecomunicaciones:200.2.32.0-200.2.63.255
 Administracion Nacional de Telecomunicaciones:200.40.0.0-200.40.255.255
@@ -18563,7 +18563,6 @@ Adviserplus:82.68.212.16-82.68.212.23
 Advision Communications, Inc:207.237.166.96-207.237.166.127
 Advision_AG-ZH-149.CH:212.126.164.128-212.126.164.135
 Advisions Werbevermaktungs & Verlagsgesellschaft:80.240.238.64-80.240.238.79
-Advisor AS:213.145.174.120-213.145.174.127
 Advisor Co-050112031803:70.248.204.112-70.248.204.119
 Advisor Engineering (Hk) Ltd World-Wide Ind Ctr -:61.93.243.55-61.93.243.55
 Advisor ICT Solutions:193.172.194.48-193.172.194.63
@@ -20329,7 +20328,6 @@ Akamai Customer Care:63.214.53.0-63.214.53.255
 Akamai Customer Care:63.215.124.0-63.215.124.255
 Akamai Customer Care:63.215.136.0-63.215.136.127
 Akamai Customer Care:63.215.198.0-63.215.198.255
-Akamai Customer Care:63.215.251.160-63.215.251.191
 Akamai Customer Care:63.215.64.0-63.215.64.255
 Akamai Customer Care:64.152.216.64-64.152.216.127
 Akamai Customer Care:64.152.62.0-64.152.63.255
@@ -20560,7 +20558,6 @@ Akamai Technologies, Inc:64.192.136.224-64.192.136.255
 Akamai Technologies, Inc:64.192.137.224-64.192.137.255
 Akamai Technologies, Inc:64.192.137.96-64.192.137.127
 Akamai Technologies, Inc:64.65.176.224-64.65.176.239
-Akamai Technologies, Inc:66.119.79.0-66.119.79.191
 Akamai Technologies, Inc:66.18.168.160-66.18.168.191
 Akamai Technologies, Inc:66.77.163.0-66.77.163.127
 Akamai Technologies, Inc:66.77.165.128-66.77.165.255
@@ -22806,6 +22803,7 @@ Amazon Ldt:62.189.39.240-62.189.39.255
 Amazon Logistik GmbH:195.127.137.168-195.127.137.175
 Amazon Technologies Inc:52.0.0.0-52.31.255.255
 Amazon Technologies Inc:52.64.0.0-52.79.255.255
+Amazon Technologies Inc:54.224.0.0-54.255.255.255
 Amazon Web Services email:54.240.0.0-54.240.127.255
 Amazon Webservices EC2:107.20.0.0-107.23.255.255
 Amazon. FR SARL:212.157.172.72-212.157.172.79
@@ -23749,7 +23747,6 @@ American Public Transit Association:204.176.105.0-204.176.105.255
 American Publishers Represent:67.69.25.72-67.69.25.79
 American Quarter Horse Association:12.19.120.224-12.19.120.255
 American Quarter Horse Association:12.5.240.240-12.5.240.255
-American Quarter Horse Association:12.5.244.240-12.5.244.247
 American Radio Network 2:70.90.203.248-70.90.203.255
 American Radio Network:70.90.203.232-70.90.203.239
 American Recovery:68.248.64.0-68.248.64.7
@@ -27280,7 +27277,6 @@ Associated Medical & Clinical Services:202.73.173.200-202.73.173.203
 Associated Music Production:216.193.196.0-216.193.196.15
 Associated Music Production:72.37.166.0-72.37.166.127
 Associated Pacific Consultancy Corp:203.131.125.128-203.131.125.135
-Associated Pacific Consultants Corp:203.131.96.104-203.131.96.111
 Associated Press:165.1.0.0-165.1.255.255
 Associated Production Music LL:63.169.13.0-63.169.13.255
 Associated Production Music, LLC:66.134.172.96-66.134.172.103
@@ -33844,6 +33840,7 @@ BST SVT Lab:68.17.41.160-68.17.41.175
 BSW Branchensoftware GmbH:217.7.30.168-217.7.30.175
 BSWB Attorneys At Law:64.74.109.80-64.74.109.95
 BSZ der Landeskirche Hannover z. Hd. Herrn Peter:217.5.199.192-217.5.199.231
+BSafe Online:66.210.216.128-66.210.216.159
 BSafe Online:66.210.216.64-66.210.216.95
 BSh Bosch und Siemens Hausgeraete GmbH:212.114.241.224-212.114.241.239
 BSkyB Bogonfix project:87.84.79.16-87.84.79.23
@@ -64905,7 +64902,6 @@ Catholic Archdiocese of Sydney:49.143.224.0-49.143.227.255
 Catholic Bishops Conference of the Philippines:203.177.12.0-203.177.12.255
 Catholic Bishops Conference of the Philippines:203.177.39.0-203.177.39.255
 Catholic Blind Institute:80.176.115.16-80.176.115.19
-Catholic Cemetery Trust Necropolis:202.44.179.52-202.44.179.55
 Catholic Charities Diocese of Joliet:157.238.65.160-157.238.65.167
 Catholic Charities Inc:64.170.136.184-64.170.136.191
 Catholic Charities Of:64.168.227.152-64.168.227.159
@@ -78994,7 +78990,6 @@ Cross Media Ventures / Netholding:130.117.243.248-130.117.243.255
 Cross Media Ventures Pumps:81.173.1.192-81.173.1.255
 Cross Media Ventures:81.173.1.176-81.173.1.191
 Cross Sales & Engineering Co:205.142.240.0-205.142.243.255
-Cross of Hope Lutheran Church ELCA:216.84.177.40-216.84.177.47
 Cross-Connect Niigata Co., Ltd (Xconnect):122.99.104.0-122.99.111.255
 CrossPoint Engineering:38.112.1.52-38.112.1.55
 Crosscap Media Services Inc:199.243.201.224-199.243.201.255
@@ -79828,6 +79823,7 @@ Cyberguard:69.25.190.0-69.25.190.255
 Cyberia Cybercafe,:212.134.146.160-212.134.146.191
 Cyberia Internet Cafe New Zealand:202.37.25.0-202.37.25.255
 Cyberlink (202056-1):208.36.255.192-208.36.255.223
+Cyberlink AG:62.12.128.0-62.12.255.255
 Cyberlink ASP:206.50.7.0-206.50.7.255
 Cyberlink Corp., Ltd:202.39.43.112-202.39.43.127
 Cyberlink Corporation:209.196.92.160-209.196.92.175
@@ -83559,7 +83555,6 @@ DRAPER FISHER JURVETSON & PLANET INTL HK:203.198.182.120-203.198.182.127
 DRAPER FISHER JURVETSON & PLANET VENTURES LTD:80.177.196.120-80.177.196.127
 DRB Consulting Services:209.47.189.240-209.47.189.255
 DRB-Hicom Defence Technologies Sdn Bhd:202.157.213.160-202.157.213.175
-DRD Consulting Group:216.216.15.192-216.216.15.255
 DREAM CATCHER TECHN:96.56.10.152-96.56.10.159
 DREAM ENTERTAINMENT-050414002710:71.128.67.176-71.128.67.183
 DREAM ENTERTAINMENT-060418041202:75.10.45.248-75.10.45.255
@@ -85839,7 +85834,6 @@ Dawlish Medical Group, Devon EX7 9QH:194.189.58.0-194.189.58.127
 Dawn Enterprise Sdn. Bhd:203.115.205.72-203.115.205.79
 Dawn Netbar:218.28.12.40-218.28.12.47
 Dawood Equities Limited:125.209.94.10-125.209.94.13
-Dawson Consulting International:203.55.172.0-203.55.172.255
 Dawson Consulting:66.159.32.0-66.159.47.255
 Dawson County Sheriffs Office:98.18.247.224-98.18.247.255
 Dawson Harford & Partners:210.55.22.52-210.55.22.55
@@ -97696,6 +97690,7 @@ E.I. du Pont de Nemours and Co., Inc:150.238.0.0-150.240.255.255
 E.I. du Pont de Nemours and Co., Inc:153.115.0.0-153.117.255.255
 E.I. du Pont de Nemours and Co., Inc:192.153.57.0-192.153.76.255
 E.I. du Pont de Nemours and Co., Inc:52.32.0.0-52.63.255.255
+E.I. du Pont de Nemours and Co., Inc:52.96.0.0-52.255.255.255
 E.I. du Pont de Nemours and Company, Inc:192.103.48.0-192.103.48.255
 E.I. duPont de Nemours and Company, Inc:138.68.0.0-138.68.255.255
 E.I. duPont deNemours & Co., Inc:146.147.0.0-146.147.255.255
@@ -106877,6 +106872,7 @@ Eurochambers:212.35.115.228-212.35.115.231
 Eurocolor Photofinishing GmbH & Co. KG:62.180.82.32-62.180.82.63
 Eurocom Marketing - Israel:192.117.153.208-192.117.153.223
 Eurocom Translation Services Ges.m.b.H:212.236.83.16-212.236.83.31
+Euroconsultants S.A:194.219.32.0-194.219.32.255
 Eurocontrol Experimental Centre:147.196.0.0-147.196.255.255
 Eurocontrol Headquarters:193.221.0.0-193.221.15.255
 Eurocontrol Headquarters:193.221.160.0-193.221.191.255
@@ -156785,7 +156781,6 @@ Integrated Computer Solutions    =09:216.243.230.0-216.243.230.255
 Integrated Computer Solutions (7656-1):216.112.183.0-216.112.183.255
 Integrated Copyright Group Inc:209.12.254.192-209.12.254.207
 Integrated Copyright Group:207.152.20.128-207.152.20.143
-Integrated Data Consultants:198.160.226.0-198.160.226.255
 Integrated Data Labs:119.15.72.0-119.15.79.255
 Integrated Data Labs:203.32.82.0-203.32.82.255
 Integrated Device Technol:68.90.116.128-68.90.116.135
@@ -206358,7 +206353,6 @@ NJ Tech Solutions, Inc:72.29.28.0-72.29.28.255
 NJ Tech Solutions, Inc:72.29.8.0-72.29.8.255
 NJ Tech Solutions:66.160.130.0-66.160.130.255
 NJ Tech Solutions:66.160.140.64-66.160.140.127
-NJ Tech Solutions:66.160.161.0-66.160.161.255
 NJ Tech Solutions:66.160.162.0-66.160.162.255
 NJF FINANCE CORPORATION:203.177.215.0-203.177.215.7
 NJP Rechtsanwaelte:212.80.226.12-212.80.226.15
@@ -218818,6 +218812,7 @@ OVH SAS:91.121.147.118-91.121.159.170
 OVH SAS:91.121.159.172-91.121.160.209
 OVH SAS:91.121.160.211-91.121.173.203
 OVH SAS:91.121.173.205-91.121.199.31
+OVH SAS:91.121.28.116-91.121.60.41
 OVH SAS:91.121.5.65-91.121.6.116
 OVH SAS:91.121.6.118-91.121.7.86
 OVH SAS:91.121.60.43-91.121.74.148
@@ -227794,6 +227789,7 @@ Pang International Ltd:123.108.108.0-123.108.111.255
 Pang International Ltd:123.254.104.0-123.254.111.255
 Pang Studios AB - Internet Access:62.181.193.64-62.181.193.95
 Pangea Consulting, Inc:204.114.64.0-204.114.127.255
+Pangea Consulting, Inc:204.89.203.0-204.89.203.255
 Pangea.CA Inc:206.45.92.0-206.45.93.255
 Pangora LLC:62.208.183.0-62.208.183.31
 Panhong International Finance Consulting Co.Ltd:202.106.69.16-202.106.69.31
@@ -227903,6 +227899,7 @@ Papa Loewe Filmproduktion GmbH:213.148.154.128-213.148.154.128
 Papa Net:202.65.120.144-202.65.120.151
 Papadoe\\\'s Internet:38.104.162.0-38.104.162.3
 Papaya Studio:64.60.119.96-64.60.119.111
+Pape Dawson Consult:70.240.59.112-70.240.59.119
 Paper Coaters NZ:122.56.6.16-122.56.6.31
 Paperis Web Consulting:210.107.6.0-210.107.6.255
 Paperwork Analysis Company, Inc:209.136.59.120-209.136.59.127
@@ -233926,6 +233923,7 @@ Private Customer - CrystalTech:209.200.87.64-209.200.87.79
 Private Customer - CrystalTech:209.200.87.8-209.200.87.47
 Private Customer - CrystalTech:209.200.87.88-209.200.87.95
 Private Customer - CrystalTech:209.200.92.136-209.200.92.151
+Private Customer - CrystalTech:209.200.92.160-209.200.92.167
 Private Customer - CrystalTech:209.200.92.176-209.200.92.191
 Private Customer - CrystalTech:209.200.92.200-209.200.92.247
 Private Customer - CrystalTech:209.200.92.24-209.200.92.39
@@ -235436,6 +235434,7 @@ Private Customer - SBC Internet Services:68.76.248.248-68.76.248.255
 Private Customer - SBC Internet Services:68.76.249.208-68.76.249.215
 Private Customer - SBC Internet Services:68.76.25.232-68.76.25.239
 Private Customer - SBC Internet Services:68.76.250.120-68.76.250.127
+Private Customer - SBC Internet Services:68.76.250.160-68.76.250.167
 Private Customer - SBC Internet Services:68.76.32.184-68.76.32.191
 Private Customer - SBC Internet Services:68.76.32.248-68.76.32.255
 Private Customer - SBC Internet Services:68.76.33.72-68.76.33.79
@@ -235538,6 +235537,7 @@ Private Customer - SBC Internet Services:69.104.191.120-69.104.191.127
 Private Customer - SBC Internet Services:69.104.210.248-69.104.210.255
 Private Customer - SBC Internet Services:69.104.242.32-69.104.242.47
 Private Customer - SBC Internet Services:69.104.249.8-69.104.249.15
+Private Customer - SBC Internet Services:69.104.87.0-69.104.87.7
 Private Customer - SBC Internet Services:69.104.87.24-69.104.87.39
 Private Customer - SBC Internet Services:69.104.87.88-69.104.87.95
 Private Customer - SBC Internet Services:69.104.97.248-69.104.97.255
@@ -237022,6 +237022,7 @@ Private Non Business:82.152.10.168-82.152.10.175
 Private North Amer Ltd10921272:69.111.185.232-69.111.185.239
 Private Peering IP Addresses:81.91.97.128-81.91.97.255
 Private Peering:217.204.61.128-217.204.61.191
+Private Person:82.115.45.64-82.115.45.71
 Private Personal User:202.109.76.0-202.109.76.31
 Private Practice Session:207.233.183.128-207.233.183.159
 Private Residence in Paradise Point, QLD:203.219.14.112-203.219.14.115
@@ -240340,6 +240341,7 @@ Qwest - Minneapolis CyberCenter:66.77.191.0-66.77.191.255
 Qwest APA CC Lab:66.77.123.224-66.77.123.255
 Qwest CSS Support for QWCC:66.77.59.152-66.77.59.159
 Qwest Communications Accts Payable:208.62.191.96-208.62.191.127
+Qwest Communications Corporation:75.163.198.0-75.163.198.255
 Qwest Communications/CSS Support for QWCC:208.46.217.32-208.46.217.47
 Qwest Communications:63.236.0.0-63.239.255.255
 Qwest Communications:67.133.255.120-67.133.255.127
@@ -258052,6 +258054,7 @@ SNVACAID SFO.Pool:66.167.120.0-66.167.127.255
 SNVACAID SFO.Pool:66.167.200.0-66.167.207.255
 SNVACAID SFO.Pool:66.167.72.0-66.167.79.255
 SNVACAID SFO.Pool:68.165.104.0-68.165.111.255
+SNVACAID SFO.Pool:69.3.144.0-69.3.151.255
 SNVACAID SFO.Pool:69.3.184.0-69.3.191.255
 SNVACAID SFO.Pool:69.3.24.0-69.3.31.255
 SNYDER CHARLESDGN ATTY:68.20.94.112-68.20.94.119
@@ -285525,7 +285528,6 @@ THE A CONSULTING TEAM INC:12.42.53.0-12.42.53.255
 THE ACCIDENT ATTORNEY-050420013647:71.129.71.0-71.129.71.7
 THE ACCIDENT ATTORNEY-050825044921:71.136.214.88-71.136.214.95
 THE ACCIDENT ATTORNEYS-080117133327:99.149.42.16-99.149.42.23
-THE ADVENTUS CONSULTANTS PTE LTD:203.169.113.56-203.169.113.63
 THE AFRICA CHANNEL-050729023149:71.134.61.176-71.134.61.183
 THE ALLEN CONSULTING GROUP:203.108.249.208-203.108.249.223
 THE AMERICAN CENTER FOR LAW & JUSTICE-N E INC:66.159.166.96-66.159.166.103
@@ -291977,6 +291979,7 @@ Tellme Networks, Inc:63.241.128.192-63.241.128.207
 Tellme Networks, Inc:63.241.141.0-63.241.141.143
 Tellme Networks, Inc:63.241.168.128-63.241.168.191
 Tellme Networks:66.123.24.16-66.123.24.23
+Tellsell Consulting GmbH:212.202.227.3-212.202.227.3
 Tellsell Consulting GmbH:212.202.230.0-212.202.230.63
 Telltale Games:216.27.186.104-216.27.186.111
 Tellux Knowledge-Commerce AG:193.109.221.0-193.109.221.255
@@ -301628,7 +301631,6 @@ UCI Kinowelt Cottbus:62.157.127.152-62.157.127.159
 UCI Kinowelt Mundsburg:80.146.248.208-80.146.248.215
 UCI Medical Center:160.87.0.0-160.87.255.255
 UCI System-Software:80.152.8.96-80.152.8.103
-UCI Utility Consultants International GmbH:193.30.94.0-193.30.94.255
 UCI-System-Software GmbH, Bad Boll:193.17.16.0-193.17.16.255
 UCI-United Cinemas:212.23.137.64-212.23.137.71
 UCI.Cinemas.Inernational.DE:195.145.209.240-195.145.209.247
@@ -302225,6 +302227,7 @@ UK Extranet:193.32.3.0-193.32.3.255
 UK Extranet:193.9.13.0-193.9.13.255
 UK Extranet:193.9.151.0-193.9.151.255
 UK FILM COUNCIL:12.69.88.88-12.69.88.95
+UK Government Department for Work and Pensions:51.0.0.0-51.255.255.255
 UK HM Customs and Excise:193.240.1.0-193.240.31.255
 UK High Energy Physics Glasgow network 1:194.36.1.0-194.36.1.255
 UK High Energy Physics Manchester network 1:194.36.2.0-194.36.2.255
@@ -310853,7 +310856,6 @@ Verizon Internet Services Inc:4.5.248.0-4.5.251.255
 Verizon Internet Services Inc:71.103.0.0-71.103.255.255
 Verizon Internet Services Inc:71.106.0.0-71.107.255.255
 Verizon Internet Services Inc:71.118.0.0-71.119.255.255
-Verizon Internet Services:70.23.0.0-70.23.255.255
 Verizon Internet Services:71.160.165.0-71.160.165.255
 Verizon Internet Services:71.176.72.0-71.176.73.255
 Verizon Internet Services:71.248.98.0-71.248.127.255
@@ -315202,6 +315204,7 @@ WIN Television Tasmania:210.15.195.168-210.15.195.171
 WIN-Verlag GmbH + Co. KG:62.245.185.64-62.245.185.67
 WIN-Verlag GmbH + Co. KG:62.245.187.80-62.245.187.87
 WINAND JOHN H ATTY AT LAW-060328022300:75.5.159.32-75.5.159.39
+WINBOND MANAGEMENT & CONSULTANT SDN BHD:210.19.108.0-210.19.108.15
 WINCHESTER MUSICL PRDCT DIP-060111021759:64.149.80.112-64.149.80.119
 WINCOR NIXDORF INTL GMBH:203.126.109.0-203.126.109.127
 WINCOR NIXDORF PTE LTD:116.12.135.240-116.12.135.255
@@ -321971,7 +321974,6 @@ Wunderwerk Digitale Medien Produktion GmbH:80.245.193.0-80.245.193.31
 Wurld Media, Inc:66.109.33.0-66.109.33.7
 Wurld Media, Inc:66.109.33.48-66.109.33.63
 Wustenrot Stambena Stedionica [Wustenrot Savings Bank]:89.201.163.72-89.201.163.79
-Wusys GmbH - IT Consulting:213.160.20.48-213.160.20.55
 Wutang Productions:66.47.81.24-66.47.81.31
 Wuxi Administrator For Industry & Commerce:218.90.169.80-218.90.169.95
 Wuxi Binhu Local State Administrator For Industry:218.90.140.40-218.90.140.43
@@ -327549,7 +327551,6 @@ cadencec:63.125.255.216-63.125.255.223
 cadencec:63.125.63.160-63.125.63.175
 cadwalad:63.115.243.128-63.115.243.143
 calibra pictures:195.147.85.56-195.147.85.63
-calibrate Workflow- Consulting GmbH:213.235.230.112-213.235.230.119
 california breath clinic:63.197.179.192-63.197.179.199
 california college republicans:70.86.46.152-70.86.46.159
 callas software gmbh:213.160.8.180-213.160.8.183
