@@ -4006,6 +4006,7 @@ LONG DISTANCE BILLING SERVICES I:12.155.106.128-12.155.106.255
 MEGAPATH NETWORKS:12.155.107.160-12.155.107.167
 INVISION.COM:12.155.111.0-12.155.111.31
 MERRILL LYNCH, PIERCE FENNER:12.155.111.80-12.155.111.87
+FISERV EFT:12.155.117.240-12.155.117.247
 BLUE RIDGE MEDICAL CENTER:12.155.123.0-12.155.123.127
 FLYING J CO TON SERVICES:12.155.128.0-12.155.128.63
 SAPIENT CORPORATION:12.155.129.96-12.155.129.127
@@ -7855,6 +7856,7 @@ Deloitte & Touche:61.66.12.200-61.66.12.207
 FOXCONN INDUSTRIAL GROUP:61.66.19.176-61.66.19.191
 MICRO-STAR INTL CO., LTD:61.66.131.0-61.66.131.7
 LAW Insurance Broker Co., Ltd:61.66.140.240-61.66.140.247
+KPMG Certified Public Accountants,Co., Ltd:61.66.143.152-61.66.143.159
 A Daniel J Edelman Company:61.66.240.160-61.66.240.191
 Fuhwa Financial Holding Company Limited:61.67.48.0-61.67.63.255
 Daewoo Information System Co., Ltd:61.72.48.182-61.72.48.183
@@ -10051,7 +10053,6 @@ HCL Comnet:61.246.184.254-61.246.184.254
 Nucleus Software Exports Ltd:61.246.185.0-61.246.185.31
 Cytel Statistical Software:61.246.193.144-61.246.193.159
 J Walter Thompson:61.246.203.160-61.246.203.175
-Tata Teleservices Ltd:61.246.204.64-61.246.204.79
 iflex Solutions Ltd:61.246.207.128-61.246.207.143
 Value Labs:61.246.210.192-61.246.210.223
 PVSW Software Technologies India Pvt. Ltd.,:61.246.216.32-61.246.216.47
@@ -10576,6 +10577,7 @@ Subnet for Optimus Doctor Q SP z oo:62.32.208.160-62.32.208.191
 (MS001185) JSC Proxy-Com,:62.33.100.0-62.33.100.255
 Red de Optima Finance, S.A:62.36.225.208-62.36.225.223
 Red deL Instituto Italiano para el Comercio Exter:62.36.226.64-62.36.226.79
+Red de sistemas informaticos banco cetelem:62.36.227.16-62.36.227.23
 Red de HOSPITALBELIVITGE:62.36.228.32-62.36.228.63
 Red de Johnsondiversey:62.36.228.200-62.36.228.207
 Red XRT the secure financial flowarchitect:62.36.240.240-62.36.240.247
@@ -11470,7 +11472,6 @@ ADEVA Akademische Druck und Verlagsanstalt:62.99.243.128-62.99.243.135
 Medienconsulting &Verlags GmBH:62.99.247.8-62.99.247.15
 Postkartenverlag R.Graf GMBH:62.99.250.192-62.99.250.199
 e|motion management gmbh:62.99.251.8-62.99.251.15
-LEXIKA:62.99.253.176-62.99.253.183
 Ordination Dr.Ott / Dr. Koerner:62.99.253.184-62.99.253.191
 The Sanders Belastingadviseurs Network:62.100.53.112-62.100.53.119
 The Vision Clinics Network:62.100.56.112-62.100.56.119
@@ -16408,6 +16409,7 @@ KONECT Call Center:64.22.214.0-64.22.214.15
 Cgiware:64.23.18.64-64.23.18.95
 Blue Room Media:64.23.72.160-64.23.72.191
 Internet Dynamics:64.23.76.128-64.23.76.191
+Network Access Solutions - Council of American Survey Research:64.23.195.80-64.23.195.95
 Network Access Solutions -- Headquarters:64.23.195.192-64.23.195.207
 Network Access Solutions - HQ2:64.23.201.80-64.23.201.95
 Network Access Solutions - FORE Systems / Robert Camp:64.23.210.176-64.23.210.191
@@ -16882,6 +16884,7 @@ AMADEUS:64.46.72.80-64.46.72.87
 CMT:64.46.87.32-64.46.87.39
 Shared Medical Systems:64.46.192.0-64.46.255.255
 E*Trade Menlo Park:64.47.27.0-64.47.27.255
+E*Trade Chicago:64.47.28.0-64.47.28.255
 American Systems Corporation:64.47.34.64-64.47.34.127
 American Institutes for Research:64.47.80.96-64.47.80.127
 CB RICHARD ELLIS INVESTORS:64.47.89.0-64.47.89.255
@@ -23803,7 +23806,6 @@ THE ROOSTERTAIL, INCORPORATED (245158-1):66.238.128.72-66.238.128.79
 Utiliquote (198065-1):66.238.133.72-66.238.133.75
 Utiliquote (198065-1):66.238.134.192-66.238.134.199
 Symbiant Tech Inc (231870-1):66.238.139.128-66.238.139.159
-Deming I LLC (225335-1):66.238.151.192-66.238.151.223
 SENTRY WEST INSURANCE SERVICES (254642-1):66.239.0.0-66.239.0.127
 NorthWest Research (250478-1):66.239.2.0-66.239.2.255
 DE Networks (234597-1):66.239.16.192-66.239.16.223
@@ -27395,6 +27397,7 @@ Dick La Croix:68.248.87.248-68.248.87.255
 Kramer Triad Management Group:68.248.92.0-68.248.92.127
 Private Customer - SBC Internet Services:68.248.92.128-68.248.92.255
 TELESAT:68.248.93.0-68.248.93.15
+Setech:68.248.93.24-68.248.93.31
 Methods Machine Tools, Inc:68.248.93.32-68.248.93.47
 Federated International 1:68.248.93.48-68.248.93.55
 Federated International 2:68.248.93.56-68.248.93.63
@@ -31923,7 +31926,6 @@ Valor Corporation:72.3.211.16-72.3.211.23
 HAY GROUP:72.4.201.64-72.4.201.95
 HAY GROUP:72.4.201.112-72.4.201.119
 REMAX PREMIER SELECTION:72.4.211.240-72.4.211.255
-RE/MAX ACCLAIMED:72.4.218.176-72.4.218.183
 REMAX LEGEND:72.4.219.0-72.4.219.7
 Intercept:72.4.226.112-72.4.226.119
 Remax Affiliates N.E:72.4.230.136-72.4.230.143
@@ -40380,7 +40382,6 @@ VPN IP service on NIM (MPLS network):86.79.224.0-86.79.255.255
 AL CORNICHE INTERNET CAFE:86.98.229.80-86.98.229.87
 UPC Business:86.101.224.0-86.101.239.255
 Institute Of Marine Technologies Problems:86.102.57.176-86.102.57.191
-Institute Of Marine Technologies Problems:86.102.61.160-86.102.61.175
 SC INTERNET CAFE SRL:86.104.9.0-86.104.9.255
 SC Dalvig Corp Srl:86.107.72.0-86.107.72.255
 SC Standard Business & Services SRL:86.107.199.0-86.107.199.255
@@ -48039,7 +48040,6 @@ Gwinnett Hospital Systems:192.234.219.0-192.234.219.255
 Medical Solutions Group:192.234.222.0-192.234.222.255
 Navtech Systems Support Inc:192.234.226.0-192.234.226.255
 FactSet Research Systems, Inc:192.234.235.0-192.234.235.255
-MidMichigan Regional Medical Center:192.234.238.0-192.234.238.255
 AT&T Paradyne, NetCare Support Center:192.234.243.0-192.234.243.255
 Nemours Children's Clinic:192.234.249.0-192.234.249.255
 Marshfield Medical Research &amp; Education Founda:192.236.16.0-192.236.25.255
@@ -48533,7 +48533,6 @@ Evia Oyj:193.65.38.104-193.65.38.111
 Private Customer (via Mainostoimisto Taivas Maan Paalla Oy):193.65.55.160-193.65.55.175
 Mainostoimisto Contra Oy:193.65.67.0-193.65.67.31
 Quadriga Finland Oy:193.65.79.32-193.65.79.63
-Medix Laboratoriot Oy:193.65.82.208-193.65.82.215
 Hormos Medical Oy Ltd:193.65.97.128-193.65.97.255
 Uponor Oyj:193.65.99.144-193.65.99.159
 Mainostoimisto Taivas Maan Paalla Oy:193.65.126.0-193.65.127.255
@@ -50898,7 +50897,6 @@ TRAX Settlements:194.69.70.80-194.69.70.87
 London office of Banco Santander Central Hispano:194.69.70.100-194.69.70.103
 CRD:194.69.70.200-194.69.70.203
 CRD:194.69.73.88-194.69.73.91
-FRIESLAND-BANK-SECURITIES:194.69.73.168-194.69.73.175
 AT&T Global Network Services Europe:194.69.144.0-194.69.191.255
 Alhambra Systems:194.69.248.0-194.69.251.255
 InterConnect Communications Ltd:194.70.26.92-194.70.26.95
@@ -55651,6 +55649,7 @@ Tarrant County Hospital District:198.179.234.0-198.179.234.255
 RISO, Inc:198.179.244.0-198.179.244.255
 Deaconess Hospital:198.179.250.0-198.179.250.255
 INFONET Services Corporation:198.180.64.0-198.180.127.255
+Caterpillar, Inc:198.180.154.0-198.180.154.255
 Caprica Telecomputing Resources:198.180.167.0-198.180.167.255
 Lightning Location and Protection, Inc:198.180.201.0-198.180.201.255
 Salem Hospital:198.180.206.0-198.180.206.255
@@ -57806,7 +57805,6 @@ SUPERNET <--> HCL_LTD:202.64.149.160-202.64.149.163
 Foreton Consultants [Kwun Tong, Billion Trade Cent:202.64.156.224-202.64.156.255
 City Planning Consultants Ltd:202.64.158.216-202.64.158.223
 LLB Consultancy Ltd:202.64.158.224-202.64.158.231
-Oversea-Chinese Banking Corp. Ltd:202.64.159.16-202.64.159.23
 Au Posford Consultants Ltd:202.64.159.56-202.64.159.63
 Virtual Switching Consultancy Ltd:202.64.165.16-202.64.165.31
 Focusnet Consultancy (HK) Ltd:202.64.165.192-202.64.165.255
@@ -57976,7 +57974,6 @@ MC - Forensic Risk Management:202.83.67.35-202.83.67.35
 Mercury Connect - Man Financial Aust Ltd:202.83.91.22-202.83.91.22
 Mercury Connect - Man Financial Aust Ltd:202.83.91.224-202.83.91.239
 Xesla Research Organisation - Paul Czarkowski:202.83.94.32-202.83.94.39
-International Financial Systems:202.83.193.32-202.83.193.47
 Avery Dennison in HK:202.83.210.0-202.83.210.255
 isdeadly.com:202.83.213.11-202.83.213.14
 The nature of their business is providing radio-communication testing:202.83.244.160-202.83.244.167
@@ -58207,7 +58204,6 @@ XI'AN PEOPLE'S BANK OF CHINA:202.100.45.20-202.100.45.23
 Ji Di Wang Ba:202.100.90.0-202.100.90.15
 NongYeFaZhan-BANK,:202.100.108.224-202.100.108.255
 People bank,Ningxia:202.100.113.96-202.100.113.127
-GY-GOLD-BANK-BAR,:202.100.122.56-202.100.122.59
 XiNing City, netbar of data bureau,QingHai Provin:202.100.128.192-202.100.128.223
 Xining City, Finance Bureau ,QingHai province:202.100.136.64-202.100.136.95
 XiNing city, Atmosphere Bureau,QingHai province:202.100.138.8-202.100.138.15
@@ -58229,7 +58225,6 @@ Fujian Star Information Technology LTD:202.101.127.224-202.101.127.255
 Zhejiang Maritime Safety Administration Of People:202.101.162.224-202.101.162.239
 Zhejiang Industry & Commerical Bank Computator Ce:202.101.184.4-202.101.184.7
 Zhejiang University Yuquan School Directly Shop:202.101.184.12-202.101.184.15
-Zhejiang Industry & Commerical Bank Computator Ce:202.101.184.16-202.101.184.31
 Longyou Finance Bureau,Jinhua cith,Zhejiang Provi:202.101.186.0-202.101.186.7
 Longyou Finance Bureau,Jinhua cith,Zhejiang Provi:202.101.186.252-202.101.186.255
 Zhejiang Biaoji Investment Co.,Ltd:202.101.187.56-202.101.187.63
@@ -60837,7 +60832,6 @@ IPVPN/INTERNET SERVICE PROVIDER:203.124.16.0-203.124.23.255
 Genesys International Corporation:203.124.132.68-203.124.132.71
 Genesys International Corporation:203.124.134.192-203.124.134.207
 S. P. Jain Institute of Management & Research:203.124.135.16-203.124.135.23
-S. P. Jain Institute of Management & Research:203.124.135.48-203.124.135.55
 S. P. Jain Institute of Management & Research:203.124.135.120-203.124.135.127
 Sun Pharmaceuticals Limited:203.124.136.88-203.124.136.91
 Sun Pharmaceuticals Limited:203.124.136.128-203.124.136.143
@@ -66167,6 +66161,7 @@ Mike DeCastro (55128-1):208.177.155.220-208.177.155.223
 3453.SIMP:208.178.183.0-208.178.183.63
 3485.EMPSS:208.178.226.64-208.178.226.95
 FINTECH-INTERNET - Fintech:208.178.230.0-208.178.230.255
+M.D.I.A:208.179.3.96-208.179.3.127
 Regent Business Center - Colorado:208.179.4.0-208.179.4.255
 Apriso Corp. / CIM Vision:208.179.29.0-208.179.29.255
 Regent Business Center - 12100 Wilshire:208.179.39.0-208.179.39.127
@@ -66904,7 +66899,6 @@ allstateinsurancemarymurray:208.252.147.200-208.252.147.207
 EXTENDED STAY HOTELS, INC-4193:208.252.148.192-208.252.148.223
 EXTENDED STAY HOTELS, INC-0006:208.252.148.224-208.252.148.255
 allstateinsurancecarmenmihaila:208.252.149.160-208.252.149.167
-National Restaurant Association Educational Foundation:208.252.150.0-208.252.150.63
 allstateinsurancecarlademarco:208.252.150.224-208.252.150.231
 allstateinsurancebillrowe:208.252.150.232-208.252.150.239
 Profit Recovery Group:208.252.150.240-208.252.150.255
@@ -68555,6 +68549,7 @@ Gentle Touch Dentistry:209.204.106.224-209.204.106.231
 Real Time Publishers:209.204.184.128-209.204.184.143
 Surefire Commerce Inc:209.205.12.0-209.205.12.255
 Cirion BioPharma Research Inc:209.205.23.224-209.205.23.239
+Mark IV Industries Ltd:209.205.26.40-209.205.26.47
 Ockhams Razor Inc:209.205.26.200-209.205.26.207
 Netstart Ebusiness:209.205.32.128-209.205.32.143
 Romsoft:209.205.45.240-209.205.45.255
@@ -77172,7 +77167,6 @@ Dovatron:216.102.205.128-216.102.205.159
 Private Customer - SBC Internet Services:216.102.209.88-216.102.209.95
 Deloitte & Touche Llp:216.102.211.48-216.102.211.55
 Deloitte &amp; Touche Llp:216.102.211.48-216.102.211.55
-Technology Credit Union10715101:216.102.211.192-216.102.211.199
 Deloitte and Touche Consulting:216.102.214.96-216.102.214.127
 A C U Federal Credit Union:216.102.216.64-216.102.216.95
 Custom Financial Services:216.102.217.128-216.102.217.135
@@ -79243,7 +79237,6 @@ Raiffeisen Bausparkasse Gesellschaft m.b.H:217.13.181.32-217.13.181.47
 Raiffeisenlandesbank Niederoesterreich-Wien AG:217.13.181.96-217.13.181.103
 Securebox it-solutions GmbH:217.13.181.128-217.13.181.135
 NETdiscount:217.13.206.32-217.13.206.63
-Universitetskaya st. 1:217.13.220.0-217.13.220.7
 Sungard Availability Services (Nordic) AB - Inter:217.13.252.0-217.13.252.127
 SunGard Availability Services - Internet Access:217.13.252.128-217.13.252.255
 Gateway Business Nigeria:217.14.90.0-217.14.90.255
@@ -80258,7 +80251,6 @@ BDO Stoy Hawyard:217.155.180.16-217.155.180.23
 Hilton Consulting Ltd:217.155.184.216-217.155.184.223
 Fuji Photo Film Uk Ltd:217.155.187.168-217.155.187.175
 Wellbase Estates Ltd:217.155.187.208-217.155.187.215
-Olicana Products Ltd:217.155.187.232-217.155.187.239
 Scitec Group Ltd:217.155.215.16-217.155.215.23
 CB Richard Ellis:217.155.215.32-217.155.215.39
 Trigger Concepts Ltd:217.155.220.24-217.155.220.31
@@ -81105,7 +81097,6 @@ P.A. ADVICE SRL:217.220.217.152-217.220.217.159
 BT GLOBAL SERVICES LIMITED:217.220.227.40-217.220.227.47
 BT GLOBAL SERVICES LIMITED:217.220.230.56-217.220.230.63
 BT GLOBAL SERVICES LIMITED:217.220.231.240-217.220.231.247
-BT GLOBAL SERVICES LIMITED:217.220.232.16-217.220.232.23
 AGROMNIA CONSULTING:217.220.237.68-217.220.237.71
 STORZ MEDICAL ITALIA S.R.L:217.220.237.144-217.220.237.151
 C.D.S. SNC DI CONGEDI A. & C:217.220.239.4-217.220.239.7
@@ -81629,6 +81620,7 @@ Zhengzhou Weidi Information Technology Limited Co:218.28.44.8-218.28.44.15
 QUDXXJS Corp:218.28.45.160-218.28.45.175
 Jiajia Net Bar,:218.28.47.16-218.28.47.23
 Jiaozuo Financial Bureau,:218.28.49.128-218.28.49.135
+Justice Net Bar,:218.28.52.40-218.28.52.43
 Country Credit Bank,:218.28.56.144-218.28.56.151
 Coal Corporation,:218.28.58.64-218.28.58.71
 No 1 Hospital,:218.28.62.8-218.28.62.15
@@ -82452,6 +82444,7 @@ Tonghuayuan Office Building:218.246.9.64-218.246.9.127
 China Konka Group:218.246.37.0-218.246.37.255
 SHENYINWANGUO:218.246.39.0-218.246.39.255
 Measurement  Scientific research institute:218.246.51.0-218.246.51.255
+Electric  Scientific research institute:218.246.53.0-218.246.53.255
 Xuanwu Hospital:218.246.96.192-218.246.96.255
 Huanyuan Office Building,:218.246.98.192-218.246.98.255
 Tongheng Building,:218.246.99.0-218.246.99.63
