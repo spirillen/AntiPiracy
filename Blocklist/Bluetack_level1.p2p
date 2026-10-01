@@ -726,6 +726,7 @@ Drug Enforcement Adm:4.42.176.184-4.42.176.191
 Cisco Systems, Inc. CISCOBELLEVUE-179-06 (NET-4-42-179-0-1):4.42.179.0-4.42.179.31
 Cisco Systems, Inc. CISCOSEATTLE-179-21 (NET-4-42-179-64-1):4.42.179.64-4.42.179.95
 Courttrax, Inc:4.42.184.128-4.42.184.255
+Hulabee Entertainment Inc HULABEE-189-30 (NET-4-42-189-80-1):4.42.189.80-4.42.189.95
 Drug Enforcement Adm:4.42.192.200-4.42.192.207
 Fish & Richardson PC:4.42.192.208-4.42.192.223
 Town of Addison:4.42.202.96-4.42.202.127
@@ -850,7 +851,6 @@ Detected AP2P on OVH Dedicated Servers:5.39.76.72-5.39.76.72
 Kad activity on OVH Dedicated Servers:5.39.77.69-5.39.77.69
 Kad activity on OVH Dedicated Servers:5.39.77.171-5.39.77.171
 Kad activity on OVH Dedicated Servers:5.39.78.223-5.39.78.223
-Botnet on OVH Dedicated Servers:5.39.79.28-5.39.79.28
 Kad activity on OVH Dedicated Servers:5.39.79.112-5.39.79.112
 Kad activity on OVH Dedicated Servers:5.39.81.23-5.39.81.23
 Kad activity on OVH Dedicated Servers:5.39.81.56-5.39.81.56
@@ -6495,6 +6495,7 @@ ZENIMAX MEDIA, INC:12.110.105.224-12.110.105.239
 LINGUALISTEK:12.110.110.128-12.110.110.135
 LINGUALISTEK:12.110.110.136-12.110.110.143
 LINGUALISTEK:12.110.110.144-12.110.110.151
+DOC-INTERNATIONAL TRADE ADMIN:12.110.110.176-12.110.110.183
 COMPUTER SCIENCES CORP:12.110.110.184-12.110.110.191
 LINGUALISTEK:12.110.110.192-12.110.110.255
 LINGUALISTEK:12.110.114.64-12.110.114.79
@@ -18129,7 +18130,6 @@ applied films corporation:61.14.55.16-61.14.55.31
 Dolby Laboratories, Inc:61.14.128.8-61.14.128.15
 Gemstar Technology Development Ltd:61.14.128.64-61.14.128.127
 LEGO COMPANY A/S:61.14.128.160-61.14.128.175
-Allen & Overy Hong Kong:61.14.128.192-61.14.128.255
 General Electric Consumer Finance Co. LTD:61.14.130.32-61.14.130.47
 Oracle Corporation:61.14.130.144-61.14.130.159
 Novell, Inc:61.14.130.192-61.14.130.223
@@ -28033,7 +28033,6 @@ CARGO ONLINE Software GmbH:62.159.251.40-62.159.251.47
 FA ME Facilities Management Software GmbH:62.159.251.56-62.159.251.63
 Atos Origin Ratingen:62.159.252.64-62.159.252.127
 Softwaresociety GmbH:62.159.252.192-62.159.252.207
-Arbeitsamt Singen:62.159.253.8-62.159.253.15
 Arbeitsamt Nuertingen:62.159.253.128-62.159.253.135
 Arbeitsamt Mannheim:62.159.253.136-62.159.253.143
 Arbeitsamt Heilbronn:62.159.253.144-62.159.253.151
@@ -29331,7 +29330,6 @@ MessageLabs:62.173.104.64-62.173.104.67
 Kent Jones & Done:62.173.104.132-62.173.104.135
 Production Bureau:62.173.104.160-62.173.104.163
 MessageLabs:62.173.104.224-62.173.104.227
-Zeal Television:62.173.104.236-62.173.104.239
 Police Mutual Assurance Society Ltd:62.173.104.240-62.173.104.255
 Sea Bass Software Limited:62.173.105.68-62.173.105.71
 Tewkesbury Borough Council:62.173.105.140-62.173.105.143
@@ -30611,6 +30609,7 @@ CSC Computer Sciences s.r.o:62.209.201.0-62.209.201.255
 TRW Autoelektronika:62.209.204.0-62.209.204.7
 Nadra.ni 32:62.209.212.0-62.209.212.15
 Trade Studio:62.209.212.40-62.209.212.47
+TietoEnator a.s:62.209.229.192-62.209.229.199
 Detected AP2P on Iliad Entreprises:62.210.69.143-62.210.69.152
 Kad activity on Iliad Hosting:62.210.69.158-62.210.69.158
 Detected AP2P on Iliad Entreprises:62.210.72.184-62.210.72.188
@@ -31775,7 +31774,6 @@ Tribunal de Commerce de Meknes:62.251.184.192-62.251.184.207
 Chambre de Commerce d\\:62.251.216.224-62.251.216.255
 Tribunal de Commerce d\:62.251.219.160-62.251.219.175
 VIDEORAMA SARL à Casa:62.251.235.32-62.251.235.63
-City of Stoke on Trent Council:62.252.24.0-62.252.24.127
 IBM UK Limited:62.252.170.72-62.252.170.79
 Digital Animations:62.253.177.96-62.253.177.127
 Renfrewshire Council:62.253.179.0-62.253.179.255
@@ -34228,7 +34226,6 @@ Checkpoint HR LLC:63.123.250.32-63.123.250.47
 ADP Dealer Services:63.124.26.128-63.124.26.143
 seagatet:63.124.64.184-63.124.64.191
 seagatet:63.124.64.208-63.124.64.215
-seagatet:63.124.64.224-63.124.64.231
 thelegal:63.124.65.96-63.124.65.127
 JK Group:63.124.67.128-63.124.67.255
 SAMSUNG NETWORKS AMERICA INC:63.124.78.0-63.124.79.255
@@ -46447,7 +46444,6 @@ City Of Salina:65.64.182.160-65.64.182.167
 BARBER EMERSON SPRINGER:65.64.183.200-65.64.183.207
 City of St. Francis:65.64.186.128-65.64.186.255
 Quvis Inc:65.64.187.0-65.64.187.127
-Baucum Daniel G Law Off:65.64.192.96-65.64.192.103
 City Of Ft Worth:65.64.192.192-65.64.192.199
 Governmt Rcrds Svc Inc-041006103128:65.64.195.80-65.64.195.87
 Accenture:65.64.196.96-65.64.196.103
@@ -51851,6 +51847,7 @@ FOX SPORTS/3M IDA/IL:65.214.232.184-65.214.232.191
 PARSONS:65.214.249.0-65.214.249.7
 Siemens Building Technologies:65.214.249.80-65.214.249.95
 EDS:65.214.253.0-65.214.253.255
+Epicor Software - Parsippany:65.215.0.0-65.215.0.63
 WEST GROUP(TLEGAL.):65.215.0.80-65.215.0.95
 Opsware:65.215.8.208-65.215.8.223
 ADP DEALER:65.215.13.152-65.215.13.159
@@ -52471,6 +52468,7 @@ Tachyon Networks:65.223.55.192-65.223.55.199
 Tachyon Networks:65.223.55.200-65.223.55.207
 THE VINE ENTERTAINMENT LLC:65.223.55.208-65.223.55.215
 MATTEL:65.223.56.16-65.223.56.31
+SCIENCE APPLICATIONS INT:65.223.56.72-65.223.56.79
 ADP DEALER:65.223.56.216-65.223.56.223
 SALESFORCE.COM:65.223.57.160-65.223.57.191
 CITY OF LAKEWOOD:65.223.58.192-65.223.58.223
@@ -56502,6 +56500,7 @@ Korea National Tourism Orgnztn:66.134.25.32-66.134.25.47
 The Law Office of Stephen P. Horner:66.134.26.16-66.134.26.23
 Possible Macrovision:66.134.26.210-66.134.26.210
 Sony Electronics, Inc:66.134.27.64-66.134.27.71
+Law Offices of Brian W. Pusch:66.134.28.32-66.134.28.47
 DMX Music:66.134.28.136-66.134.28.143
 Township of North Bergen:66.134.31.200-66.134.31.207
 US Army Recruiting Station:66.134.34.112-66.134.34.119
@@ -58708,7 +58707,6 @@ Tabula Rasa:66.185.161.176-66.185.161.183
 Singlefin:66.185.163.0-66.185.163.31
 Verimatrix:66.185.163.160-66.185.163.191
 SYSTRAN:66.185.164.0-66.185.164.255
-Akonix:66.185.165.96-66.185.165.127
 Preventsys:66.185.166.224-66.185.166.239
 Verimatrix:66.185.168.32-66.185.168.47
 Verimatrix:66.185.168.176-66.185.168.191
@@ -65045,7 +65043,6 @@ st of il ntrl resrcs:68.20.232.24-68.20.232.31
 SOLOCK MARK WDGN ATTY:68.20.232.120-68.20.232.127
 Chicago Police Dept Technical Lab Services:68.20.233.56-68.20.233.63
 BUBBAGUMP SHRIMP CO:68.20.236.16-68.20.236.23
-GITLIN LAW FIRM THE:68.20.238.72-68.20.238.79
 ROLLING MEADOWS CITY OF 1 PUBLIC WORKS DEPT OF:68.20.238.80-68.20.238.87
 MKS ATTORNEYS:68.20.239.0-68.20.239.15
 VILLAGE OF MAYWOOD:68.20.240.64-68.20.240.71
@@ -71419,7 +71416,6 @@ LEGAL EASE INC-041119151628:69.214.120.200-69.214.120.207
 LEGAL EASE INC-041120022621:69.214.120.240-69.214.120.247
 U A W LEGAL SERVICE PLAN-041125012015:69.214.122.160-69.214.122.167
 Ind State Ofcs 317 232-041125010357:69.214.123.184-69.214.123.191
-U S DEPARTMENT OF LABOR-041220222728:69.214.124.16-69.214.124.23
 HONEYWELL-041208023352:69.214.125.192-69.214.125.199
 OIC INDIANA STATE COUNCIL-041210150521:69.214.127.8-69.214.127.15
 ROCKVILLE POLICE-041214034420:69.214.127.136-69.214.127.143
@@ -107623,7 +107619,6 @@ Agilent Technologies:82.111.57.48-82.111.57.55
 Agilent Technologies:82.111.57.248-82.111.57.255
 Voicenet Solutions Ltd - Wood Atkins Solicitors:82.111.62.144-82.111.62.159
 Agilent Technologies:82.111.63.40-82.111.63.47
-Woking Borough Council:82.111.80.128-82.111.80.143
 Woking Borough Council:82.111.80.208-82.111.80.223
 TWM Solicitors LLP:82.111.81.156-82.111.81.159
 Accenture:82.111.81.160-82.111.81.175
@@ -118188,7 +118183,6 @@ Intellectual Resources Agency:85.142.216.0-85.142.216.255
 Bittorrent fakes:85.149.8.24-85.149.8.24
 Native Instruments:85.158.2.0-85.158.2.63
 Customer PA Space:85.158.2.192-85.158.2.223
-AITS Network Access to Music:85.158.40.80-85.158.40.87
 Bogons Colo BBC:85.158.41.80-85.158.41.87
 Bogons ADSL Mark Bodenham / Virgin Radio:85.158.44.160-85.158.44.175
 Messagelabs Limited:85.158.136.0-85.158.143.255
@@ -128739,6 +128733,7 @@ MAPA TECHNOLOGY LIMITED:103.1.156.0-103.1.159.255
 Hebei Broadcasting & TV Information Network Corp., Ltd:103.1.168.0-103.1.171.255
 Websense Hosted R&D Limited:103.1.196.0-103.1.199.255
 Cong thong tin Dien tu Chinh Phu:103.1.200.0-103.1.203.255
+Yamanashi Prefectural Government:103.2.0.0-103.2.3.255
 NHN Japan Corporation:103.2.28.0-103.2.31.255
 Fujitsu Systems East Limited:103.2.60.0-103.2.63.255
 Beijing Sheng Hexuan Culture Communication Co., Ltd:103.2.108.0-103.2.111.255
@@ -140093,6 +140088,7 @@ Detected AP2P on Internexa proxy:190.90.20.62-190.90.20.62
 SMSHoax FakeAV Fraud Trojan:190.90.64.71-190.90.64.71
 SMSHoax FakeAV Fraud Trojan:190.90.64.78-190.90.64.78
 Detected AP2P on INTERNEXA S.A. E.S.P:190.90.89.26-190.90.89.26
+Detected AP2P on INTERNEXA S.A. proxy:190.90.100.104-190.90.100.104
 Detected AP2P on INTERNEXA S.A. proxy:190.90.193.43-190.90.193.43
 Detected AP2P on Cablecolor proxy:190.92.87.104-190.92.87.104
 Corporacion Municipal de Cerro Navia:190.96.64.232-190.96.64.239
@@ -141192,6 +141188,7 @@ DoD Network Information Center:192.73.76.0-192.73.76.255
 DoD Network Information Center:192.73.82.0-192.73.204.255
 Sandia National Laboratories:192.73.207.0-192.73.208.255
 Navy Computers and Telecommunications Station NCTSW-NET6 (NET-192-73-209-0-1):192.73.209.0-192.73.209.255
+Navy Computers and Telecommunications Station:192.73.209.0-192.73.212.255
 Navy Computers and Telecommunications Station NCTSW-NET7 (NET-192-73-210-0-1):192.73.210.0-192.73.210.255
 Navy Computers and Telecommunications Station NCTSW-NET8 (NET-192-73-211-0-1):192.73.211.0-192.73.211.255
 Navy Computers and Telecommunications Station NCTSW-NET9 (NET-192-73-212-0-1):192.73.212.0-192.73.212.255
@@ -155598,6 +155595,7 @@ E Clips Productions AS:194.248.203.40-194.248.203.47
 Bureau Veritas Norsk Avdeling:194.248.203.56-194.248.203.63
 Nordisk Film og TV Fond:194.248.206.32-194.248.206.47
 Sogn og Fjordane Fylkeskommune:194.248.213.56-194.248.213.63
+Advokatene Skar, Dyvik, Clemetsen og Jamissen:194.248.213.72-194.248.213.79
 Hordaland Statsadvokatembeter:194.248.219.32-194.248.219.47
 Nordac Rechenzentrumsgesellschaft mbH:194.248.227.104-194.248.227.111
 Universal Computersys Norge AS:194.248.234.32-194.248.234.39
@@ -156390,7 +156388,6 @@ GI - Customer Interconnexion With RAEI Backbone:195.6.16.222-195.6.16.222
 GI - Customer Interconnexion With RAEI Backbone:195.6.16.240-195.6.16.240
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.8-195.6.53.191
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.16-195.6.24.16
-GI - Customer Interconnexion With RAEI Backbone:195.6.24.18-195.6.24.24
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.26-195.6.24.29
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.31-195.6.24.35
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.40-195.6.24.43
@@ -160506,7 +160503,6 @@ GI - Customer Interconnexion With RAEI Backbone:195.101.169.115-195.101.169.117
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.119-195.101.169.122
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.124-195.101.169.125
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.127-195.101.169.151
-GI - Customer Interconnection with RAEI Backbone:195.101.169.152-195.101.169.152
 GI - Customer Interconnection with RAEI Backbone:195.101.169.153-195.101.169.153
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.154-195.101.169.213
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.214-195.101.169.220
@@ -166407,7 +166403,6 @@ Government of PEI:198.167.34.0-198.167.96.255
 CGI Group Inc:198.168.2.0-198.168.2.255
 Ultimate Multimedia Solutions (UMS) Inc:198.168.3.0-198.168.3.255
 CGI Group Inc:198.168.4.0-198.168.4.255
-Metromedia Inc:198.168.5.0-198.168.5.255
 Mux Lab Inc:198.168.6.0-198.168.6.255
 SOFTIMAGE Inc:198.168.8.0-198.168.9.255
 Commission de la Sante et de la Securitie au Trava:198.168.12.0-198.168.15.255
@@ -182395,6 +182390,7 @@ Broward Employment and Training Administration/ State of Florida DMS:205.152.242
 City of Tamarac:205.152.248.128-205.152.248.191
 Broward County Sheriff\\:205.152.254.128-205.152.254.159
 Televisa Internacional,LLC:205.152.254.192-205.152.254.223
+Metro Wastewater Reclamation District:205.153.8.0-205.153.11.255
 Atlantic Records:205.153.24.0-205.153.27.255
 National Public Radio:205.153.36.0-205.153.39.255
 Multnomah County Health Department:205.153.48.0-205.153.51.255
@@ -189862,7 +189858,6 @@ SBC-MSI:208.189.207.176-208.189.207.183
 Michael K Lehr Dba Atty:208.189.237.0-208.189.237.7
 King Aerospace Inc:208.190.3.176-208.190.3.183
 City of Lancaster:208.190.5.144-208.190.5.151
-Nix Patterson Roach:208.190.14.0-208.190.14.31
 The City of The Colony:208.190.15.128-208.190.15.255
 Flying Dog Films - Haley Films:208.190.16.248-208.190.16.255
 Secure Net, Inc:208.190.17.0-208.190.17.255
@@ -190653,7 +190648,6 @@ Intel Corporation:208.238.232.128-208.238.232.255
 Advent transit route:208.239.56.0-208.239.56.255
 CMSI:208.239.75.0-208.239.75.127
 Advent transit route:208.239.80.0-208.239.87.255
-US Dept. of Commerce - ESA:208.239.124.144-208.239.124.159
 WorldCom/Gov't Employees Hospital Association:208.239.144.192-208.239.144.255
 Conservation Law Foundation:208.239.157.24-208.239.157.31
 Northrop Grumman:208.239.171.168-208.239.171.175
@@ -196740,7 +196734,6 @@ ARMED FORCES UNIVERSITY:210.71.44.0-210.71.46.255
 Jia Shang Music:210.71.131.192-210.71.131.223
 Detected kad activity on China Science & Tech:210.72.8.28-210.72.8.28
 Detected kad activity on China Science & Tech:210.72.9.141-210.72.9.141
-Detected kad activity on China Science & Tech:210.72.9.145-210.72.9.145
 Study Dept. of Health Beaure:210.72.15.0-210.72.15.255
 Detected kad activity on China Science & Tech:210.72.23.50-210.72.23.50
 Kad activity on China Science & Tech:210.72.25.240-210.72.25.240
@@ -198433,6 +198426,7 @@ Red Square Productions:210.193.223.176-210.193.223.182
 GE Capital Finance Australasia:210.193.224.0-210.193.224.31
 GE Capital Finance:210.193.225.192-210.193.225.198
 Symantec:210.193.225.224-210.193.225.230
+Symantec:210.193.226.64-210.193.226.95
 High Court of Australia:210.193.226.226-210.193.226.255
 Sun Micro System:210.193.228.24-210.193.228.30
 Sun Micro System:210.193.228.184-210.193.228.190
@@ -212014,7 +212008,6 @@ Eircom Customer Assignment:213.94.211.148-213.94.211.151
 Eircom Customer Assignment:213.94.212.144-213.94.212.147
 Eircom Customer Assignment:213.94.213.32-213.94.213.47
 SIEBEL-IE:213.94.214.224-213.94.214.239
-HEALTHLINK-IE:213.94.215.248-213.94.215.255
 Eircom Customer Assignment:213.94.216.144-213.94.216.151
 FUJITSU LTD:213.94.217.116-213.94.217.119
 LEXISNEXISBUTTERWORTHS:213.94.217.200-213.94.217.207
@@ -224705,6 +224698,7 @@ NEW PARTNERS FILM PROD:217.56.28.200-217.56.28.207
 COMUNE DI RHO IT:217.56.28.216-217.56.28.219
 COMUNE DI RHO Via Marsala 19 IT:217.56.28.220-217.56.28.223
 STUDIO LEGALE INTERNAZIONALE ASSOCIAZIONE PROFESSIONALE:217.56.29.40-217.56.29.47
+COMUNE DI CAPONAGO IT:217.56.29.192-217.56.29.223
 STUDIO LEGALE PISANO:217.56.30.64-217.56.30.95
 NUN ENTERTAINMENT SRL:217.56.30.112-217.56.30.119
 AMMINISTRAZIONEPROVINCIALEDIPA:217.56.31.88-217.56.31.95
