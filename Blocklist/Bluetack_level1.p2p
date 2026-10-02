@@ -851,6 +851,7 @@ Detected AP2P on OVH Dedicated Servers:5.39.76.72-5.39.76.72
 Kad activity on OVH Dedicated Servers:5.39.77.69-5.39.77.69
 Kad activity on OVH Dedicated Servers:5.39.77.171-5.39.77.171
 Kad activity on OVH Dedicated Servers:5.39.78.223-5.39.78.223
+Botnet on OVH Dedicated Servers:5.39.79.28-5.39.79.28
 Kad activity on OVH Dedicated Servers:5.39.79.112-5.39.79.112
 Kad activity on OVH Dedicated Servers:5.39.81.23-5.39.81.23
 Kad activity on OVH Dedicated Servers:5.39.81.56-5.39.81.56
@@ -4685,7 +4686,6 @@ CDI CORPORATION:12.45.175.72-12.45.175.79
 SECURITAS SECURITY SERVICES:12.45.175.176-12.45.175.183
 LEGAL SERVICES OF EASTERN MICHIGAN:12.45.182.48-12.45.182.55
 ATT BCO PMO-NMCI VSSD:12.45.183.184-12.45.183.191
-MAYER, BROWN & PLATT:12.45.184.0-12.45.184.63
 SAS INSTITUTE:12.45.184.240-12.45.184.255
 HILTON HOTEL CORPORATION:12.45.187.64-12.45.187.95
 COMPUTER SCIENCES CORP:12.45.190.224-12.45.190.239
@@ -6189,7 +6189,6 @@ HILTON GARDEN INN CORVALLIS:12.108.24.160-12.108.24.191
 COMPUTER SCIENCES CORP:12.108.25.176-12.108.25.191
 LOGITECH INC:12.108.25.192-12.108.25.207
 WEST GROUP THOMPSON LEGAL:12.108.25.208-12.108.25.223
-HILTON HOTEL CORPORATION:12.108.26.0-12.108.26.127
 BANNER WITCOFF:12.108.26.128-12.108.26.159
 DEPARTMENT OF ENERGY:12.108.26.144-12.108.26.151
 APPLE COMPUTER:12.108.26.160-12.108.26.175
@@ -18087,7 +18086,6 @@ Future Software:61.12.6.0-61.12.6.127
 Danlaw Technologies Limited:61.12.8.64-61.12.8.95
 M/s Prevator Software India Pvt Ltd:61.12.8.160-61.12.8.191
 Computer Graphics Solutions India Pvt.Ltd:61.12.10.112-61.12.10.119
-Game Loft:61.12.11.64-61.12.11.79
 Game Loft:61.12.11.148-61.12.11.151
 Excellence Data Research India Ltd:61.12.11.168-61.12.11.171
 Computer Graphics Solutions India Pvt.Ltd:61.12.11.172-61.12.11.175
@@ -18130,6 +18128,7 @@ applied films corporation:61.14.55.16-61.14.55.31
 Dolby Laboratories, Inc:61.14.128.8-61.14.128.15
 Gemstar Technology Development Ltd:61.14.128.64-61.14.128.127
 LEGO COMPANY A/S:61.14.128.160-61.14.128.175
+Allen & Overy Hong Kong:61.14.128.192-61.14.128.255
 General Electric Consumer Finance Co. LTD:61.14.130.32-61.14.130.47
 Oracle Corporation:61.14.130.144-61.14.130.159
 Novell, Inc:61.14.130.192-61.14.130.223
@@ -27703,7 +27702,6 @@ GE Transportation Systems GmbH:62.157.98.80-62.157.98.95
 Bundesanstalt fuer Arbeit Arbeitsamt Schmoelln:62.157.98.144-62.157.98.151
 TSI fuer Auswaertiges Amt:62.157.100.128-62.157.100.135
 Magistrat der Stadt Hochheim am Main:62.157.107.32-62.157.107.47
-Bundesanstalt fuer Arbeit Arbeitsamt Brandenburg:62.157.107.72-62.157.107.79
 Stadt Dessau:62.157.107.152-62.157.107.159
 Bundesanstalt fuer Arbeit Arbeitsamt Merseburg:62.157.107.168-62.157.107.175
 Bundesanstalt fuer Arbeit Arbeitsamt Halle:62.157.107.176-62.157.107.183
@@ -28033,6 +28031,7 @@ CARGO ONLINE Software GmbH:62.159.251.40-62.159.251.47
 FA ME Facilities Management Software GmbH:62.159.251.56-62.159.251.63
 Atos Origin Ratingen:62.159.252.64-62.159.252.127
 Softwaresociety GmbH:62.159.252.192-62.159.252.207
+Arbeitsamt Singen:62.159.253.8-62.159.253.15
 Arbeitsamt Nuertingen:62.159.253.128-62.159.253.135
 Arbeitsamt Mannheim:62.159.253.136-62.159.253.143
 Arbeitsamt Heilbronn:62.159.253.144-62.159.253.151
@@ -29330,6 +29329,7 @@ MessageLabs:62.173.104.64-62.173.104.67
 Kent Jones & Done:62.173.104.132-62.173.104.135
 Production Bureau:62.173.104.160-62.173.104.163
 MessageLabs:62.173.104.224-62.173.104.227
+Zeal Television:62.173.104.236-62.173.104.239
 Police Mutual Assurance Society Ltd:62.173.104.240-62.173.104.255
 Sea Bass Software Limited:62.173.105.68-62.173.105.71
 Tewkesbury Borough Council:62.173.105.140-62.173.105.143
@@ -31774,6 +31774,7 @@ Tribunal de Commerce de Meknes:62.251.184.192-62.251.184.207
 Chambre de Commerce d\\:62.251.216.224-62.251.216.255
 Tribunal de Commerce d\:62.251.219.160-62.251.219.175
 VIDEORAMA SARL à Casa:62.251.235.32-62.251.235.63
+City of Stoke on Trent Council:62.252.24.0-62.252.24.127
 IBM UK Limited:62.252.170.72-62.252.170.79
 Digital Animations:62.253.177.96-62.253.177.127
 Renfrewshire Council:62.253.179.0-62.253.179.255
@@ -34226,6 +34227,7 @@ Checkpoint HR LLC:63.123.250.32-63.123.250.47
 ADP Dealer Services:63.124.26.128-63.124.26.143
 seagatet:63.124.64.184-63.124.64.191
 seagatet:63.124.64.208-63.124.64.215
+seagatet:63.124.64.224-63.124.64.231
 thelegal:63.124.65.96-63.124.65.127
 JK Group:63.124.67.128-63.124.67.255
 SAMSUNG NETWORKS AMERICA INC:63.124.78.0-63.124.79.255
@@ -35488,7 +35490,6 @@ VERIZON/GTELD/FDC WESTERN UNION:63.174.210.208-63.174.210.215
 DOD/DDESS SPRINTLINK (NET-63-174-210-240-1):63.174.210.240-63.174.210.247
 P-CUBE:63.174.215.32-63.174.215.63
 PUBLIC SAFETY SYSTEMS, INC:63.174.221.192-63.174.221.255
-McGuire Woods:63.174.228.64-63.174.228.71
 Department of Energy:63.174.228.160-63.174.228.175
 City of Des Moines:63.174.231.64-63.174.231.95
 Global Insight (USA), Inc:63.174.231.96-63.174.231.111
@@ -46444,6 +46445,7 @@ City Of Salina:65.64.182.160-65.64.182.167
 BARBER EMERSON SPRINGER:65.64.183.200-65.64.183.207
 City of St. Francis:65.64.186.128-65.64.186.255
 Quvis Inc:65.64.187.0-65.64.187.127
+Baucum Daniel G Law Off:65.64.192.96-65.64.192.103
 City Of Ft Worth:65.64.192.192-65.64.192.199
 Governmt Rcrds Svc Inc-041006103128:65.64.195.80-65.64.195.87
 Accenture:65.64.196.96-65.64.196.103
@@ -48751,7 +48753,6 @@ SAFENET:65.116.50.224-65.116.50.255
 GE SUPPLY:65.116.57.32-65.116.57.63
 CREATIVE ARTISTS AGENCY:65.116.57.64-65.116.57.95
 IBM-500910001-QRWF:65.116.57.128-65.116.57.159
-Twentieth.Century.Mortgag:65.116.70.0-65.116.70.31
 MITSUBISHI ELECTRIC AUTOMATION:65.116.87.192-65.116.87.207
 Irdeto Silicon Valley/BAYTSP:65.116.90.0-65.116.90.255
 BAYTSP:65.116.92.0-65.116.95.255
@@ -58707,6 +58708,7 @@ Tabula Rasa:66.185.161.176-66.185.161.183
 Singlefin:66.185.163.0-66.185.163.31
 Verimatrix:66.185.163.160-66.185.163.191
 SYSTRAN:66.185.164.0-66.185.164.255
+Akonix:66.185.165.96-66.185.165.127
 Preventsys:66.185.166.224-66.185.166.239
 Verimatrix:66.185.168.32-66.185.168.47
 Verimatrix:66.185.168.176-66.185.168.191
@@ -63526,7 +63528,6 @@ Lexmark Internatl Inc:67.123.136.24-67.123.136.31
 American Entertainment:67.123.136.192-67.123.136.199
 Suzanne Rogers Atty:67.123.136.224-67.123.136.231
 Directv Dba:67.123.139.48-67.123.139.55
-Us Marshals:67.123.139.152-67.123.139.159
 St Of Ca Cdfa:67.123.139.224-67.123.139.231
 San Joaquin County:67.123.152.88-67.123.152.95
 City Of Modesto:67.123.152.192-67.123.152.199
@@ -65043,6 +65044,7 @@ st of il ntrl resrcs:68.20.232.24-68.20.232.31
 SOLOCK MARK WDGN ATTY:68.20.232.120-68.20.232.127
 Chicago Police Dept Technical Lab Services:68.20.233.56-68.20.233.63
 BUBBAGUMP SHRIMP CO:68.20.236.16-68.20.236.23
+GITLIN LAW FIRM THE:68.20.238.72-68.20.238.79
 ROLLING MEADOWS CITY OF 1 PUBLIC WORKS DEPT OF:68.20.238.80-68.20.238.87
 MKS ATTORNEYS:68.20.239.0-68.20.239.15
 VILLAGE OF MAYWOOD:68.20.240.64-68.20.240.71
@@ -71416,6 +71418,7 @@ LEGAL EASE INC-041119151628:69.214.120.200-69.214.120.207
 LEGAL EASE INC-041120022621:69.214.120.240-69.214.120.247
 U A W LEGAL SERVICE PLAN-041125012015:69.214.122.160-69.214.122.167
 Ind State Ofcs 317 232-041125010357:69.214.123.184-69.214.123.191
+U S DEPARTMENT OF LABOR-041220222728:69.214.124.16-69.214.124.23
 HONEYWELL-041208023352:69.214.125.192-69.214.125.199
 OIC INDIANA STATE COUNCIL-041210150521:69.214.127.8-69.214.127.15
 ROCKVILLE POLICE-041214034420:69.214.127.136-69.214.127.143
@@ -86879,7 +86882,6 @@ AMERIESTATE LEGAL PLAN 1-070309123516:76.199.63.56-76.199.63.63
 APPLE INC.-070907121657:76.199.69.120-76.199.69.127
 Foundry Networks, Inc:76.199.70.0-76.199.70.255
 NBC UNIVERSAL-070328195435:76.199.77.56-76.199.77.63
-PROMETRIC TESTING 0083 5113-070308091240:76.199.78.192-76.199.78.199
 PROMETRIC TESTING 0083 5113-070308091247:76.199.78.200-76.199.78.207
 WELTIN LAW FIRM-070309113931:76.199.78.240-76.199.78.247
 U S CONGRESSWOMAN SHELIA-070320212233:76.199.79.208-76.199.79.215
@@ -95960,7 +95962,6 @@ Bundesanstalt fuer Arbeit Arbeitsamt Osnabrueck:80.146.217.176-80.146.217.183
 Samsung Hungary Electro-Mechanics LTD:80.146.217.240-80.146.217.247
 Friedrich Ebert Stiftung:80.146.219.72-80.146.219.79
 DESOTRON Dedign-Software-Elektronik GmbH:80.146.219.128-80.146.219.255
-Atos Origin GmbH (Bei Quelle A G):80.146.220.136-80.146.220.143
 Volker Rieger SAP AG:80.146.220.216-80.146.220.223
 Stadt Lingen, Hauptsitz:80.146.223.200-80.146.223.207
 ticket. international Software Trading GmbH & Co:80.146.225.0-80.146.225.15
@@ -107619,6 +107620,7 @@ Agilent Technologies:82.111.57.48-82.111.57.55
 Agilent Technologies:82.111.57.248-82.111.57.255
 Voicenet Solutions Ltd - Wood Atkins Solicitors:82.111.62.144-82.111.62.159
 Agilent Technologies:82.111.63.40-82.111.63.47
+Woking Borough Council:82.111.80.128-82.111.80.143
 Woking Borough Council:82.111.80.208-82.111.80.223
 TWM Solicitors LLP:82.111.81.156-82.111.81.159
 Accenture:82.111.81.160-82.111.81.175
@@ -113332,7 +113334,6 @@ North Yorkshire Police:83.104.187.48-83.104.187.63
 Campbell McKee Solicitors:83.104.187.156-83.104.187.159
 Kirkpatrick Solicitors:83.104.188.132-83.104.188.135
 Goodwins Family Law:83.104.190.64-83.104.190.71
-Lothian & Borders Police:83.104.190.140-83.104.190.143
 Grahame Stowe Bateson:83.104.192.188-83.104.192.191
 Grahame Stowe Bateson:83.104.192.208-83.104.192.211
 Pauline L Butler Solicitor:83.104.192.212-83.104.192.215
@@ -118183,6 +118184,7 @@ Intellectual Resources Agency:85.142.216.0-85.142.216.255
 Bittorrent fakes:85.149.8.24-85.149.8.24
 Native Instruments:85.158.2.0-85.158.2.63
 Customer PA Space:85.158.2.192-85.158.2.223
+AITS Network Access to Music:85.158.40.80-85.158.40.87
 Bogons Colo BBC:85.158.41.80-85.158.41.87
 Bogons ADSL Mark Bodenham / Virgin Radio:85.158.44.160-85.158.44.175
 Messagelabs Limited:85.158.136.0-85.158.143.255
@@ -134969,7 +134971,6 @@ Northrop Gruman:141.156.100.240-141.156.100.255
 Cambridge Consulting:141.156.103.80-141.156.103.87
 NASA:141.156.103.192-141.156.103.223
 Boeing CO:141.156.105.32-141.156.105.47
-Department Of Homeland Security:141.156.105.64-141.156.105.79
 Joel Marc Abramson:141.156.105.96-141.156.105.103
 Northrop Grumman:141.156.105.176-141.156.105.183
 Buonassissi Henning & Lash Pc:141.156.105.184-141.156.105.191
@@ -138605,7 +138606,6 @@ Adultfriendfinder (kwjmehkq.com) trojan distributor on SoftLayer:174.36.163.27-1
 Matt McBride:174.36.164.0-174.36.164.31
 Fake Emule Server - Donkey Kingdom:174.36.164.12-174.36.164.12
 Detected kad activity on ucvhost.com (SoftLayer):174.36.167.76-174.36.167.76
-Detected kad activity on SoftLayer Technologies:174.36.167.99-174.36.167.99
 Detected kad activity on SoftLayer Technologies Inc:174.36.169.171-174.36.169.171
 Dtaps Copenhagen:174.36.190.168-174.36.190.171
 Matt McBride:174.36.195.0-174.36.195.39
@@ -156263,7 +156263,6 @@ INRA Station d'Hydrobiologie:194.254.209.0-194.254.209.255
 Dicentia A/S:194.255.7.96-194.255.7.127
 DanDomain Webhosting:194.255.15.0-194.255.15.15
 DanDomain Aps:194.255.15.16-194.255.15.31
-Laegemiddelstyrelsen:194.255.15.80-194.255.15.87
 DanDomain Aps:194.255.18.88-194.255.18.95
 Epicor Software:194.255.18.96-194.255.18.103
 Trapeze Software Europe:194.255.24.224-194.255.24.239
@@ -156388,6 +156387,7 @@ GI - Customer Interconnexion With RAEI Backbone:195.6.16.222-195.6.16.222
 GI - Customer Interconnexion With RAEI Backbone:195.6.16.240-195.6.16.240
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.8-195.6.53.191
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.16-195.6.24.16
+GI - Customer Interconnexion With RAEI Backbone:195.6.24.18-195.6.24.24
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.26-195.6.24.29
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.31-195.6.24.35
 GI - Customer Interconnexion With RAEI Backbone:195.6.24.40-195.6.24.43
@@ -160503,6 +160503,7 @@ GI - Customer Interconnexion With RAEI Backbone:195.101.169.115-195.101.169.117
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.119-195.101.169.122
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.124-195.101.169.125
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.127-195.101.169.151
+GI - Customer Interconnection with RAEI Backbone:195.101.169.152-195.101.169.152
 GI - Customer Interconnection with RAEI Backbone:195.101.169.153-195.101.169.153
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.154-195.101.169.213
 GI - Customer Interconnexion With RAEI Backbone:195.101.169.214-195.101.169.220
@@ -166403,6 +166404,7 @@ Government of PEI:198.167.34.0-198.167.96.255
 CGI Group Inc:198.168.2.0-198.168.2.255
 Ultimate Multimedia Solutions (UMS) Inc:198.168.3.0-198.168.3.255
 CGI Group Inc:198.168.4.0-198.168.4.255
+Metromedia Inc:198.168.5.0-198.168.5.255
 Mux Lab Inc:198.168.6.0-198.168.6.255
 SOFTIMAGE Inc:198.168.8.0-198.168.9.255
 Commission de la Sante et de la Securitie au Trava:198.168.12.0-198.168.15.255
@@ -174360,7 +174362,6 @@ Sophos KK:202.221.185.96-202.221.185.103
 Kanagawa Prefectural Federation of Societies of Commerce and Industry:202.221.185.104-202.221.185.111
 Ministry of Land, Infrastructure and Transport:202.221.186.64-202.221.186.95
 The Asahi Shimbun Publishing Company:202.221.188.0-202.221.188.255
-NTT Software Corporation:202.221.192.32-202.221.192.39
 IBM Japan Advanced Solution Co., Ltd:202.221.192.56-202.221.192.63
 Matsushita Electric Industrial Co., Ltd:202.221.192.152-202.221.192.175
 NTT Software Corporation:202.221.192.176-202.221.192.183
@@ -185924,7 +185925,6 @@ Zero Knowledge Systems Inc:207.107.241.0-207.107.241.127
 www.garda.ca:207.107.242.212-207.107.242.212
 Polk County:207.108.41.8-207.108.41.15
 Hennepin County Training & Employment Assistance:207.108.85.0-207.108.85.255
-Rider Bennett Law Firm:207.108.86.0-207.108.86.255
 THOMSON LEGAL AND REGULATORY:207.108.95.32-207.108.95.47
 City of Andover:207.108.95.32-207.108.95.47
 ADP DEALER SERVICE:207.108.104.0-207.108.104.63
@@ -189858,6 +189858,7 @@ SBC-MSI:208.189.207.176-208.189.207.183
 Michael K Lehr Dba Atty:208.189.237.0-208.189.237.7
 King Aerospace Inc:208.190.3.176-208.190.3.183
 City of Lancaster:208.190.5.144-208.190.5.151
+Nix Patterson Roach:208.190.14.0-208.190.14.31
 The City of The Colony:208.190.15.128-208.190.15.255
 Flying Dog Films - Haley Films:208.190.16.248-208.190.16.255
 Secure Net, Inc:208.190.17.0-208.190.17.255
@@ -190648,6 +190649,7 @@ Intel Corporation:208.238.232.128-208.238.232.255
 Advent transit route:208.239.56.0-208.239.56.255
 CMSI:208.239.75.0-208.239.75.127
 Advent transit route:208.239.80.0-208.239.87.255
+US Dept. of Commerce - ESA:208.239.124.144-208.239.124.159
 WorldCom/Gov't Employees Hospital Association:208.239.144.192-208.239.144.255
 Conservation Law Foundation:208.239.157.24-208.239.157.31
 Northrop Grumman:208.239.171.168-208.239.171.175
@@ -196734,6 +196736,7 @@ ARMED FORCES UNIVERSITY:210.71.44.0-210.71.46.255
 Jia Shang Music:210.71.131.192-210.71.131.223
 Detected kad activity on China Science & Tech:210.72.8.28-210.72.8.28
 Detected kad activity on China Science & Tech:210.72.9.141-210.72.9.141
+Detected kad activity on China Science & Tech:210.72.9.145-210.72.9.145
 Study Dept. of Health Beaure:210.72.15.0-210.72.15.255
 Detected kad activity on China Science & Tech:210.72.23.50-210.72.23.50
 Kad activity on China Science & Tech:210.72.25.240-210.72.25.240
@@ -212008,6 +212011,7 @@ Eircom Customer Assignment:213.94.211.148-213.94.211.151
 Eircom Customer Assignment:213.94.212.144-213.94.212.147
 Eircom Customer Assignment:213.94.213.32-213.94.213.47
 SIEBEL-IE:213.94.214.224-213.94.214.239
+HEALTHLINK-IE:213.94.215.248-213.94.215.255
 Eircom Customer Assignment:213.94.216.144-213.94.216.151
 FUJITSU LTD:213.94.217.116-213.94.217.119
 LEXISNEXISBUTTERWORTHS:213.94.217.200-213.94.217.207
@@ -217965,7 +217969,6 @@ Chamber of Comerce NKY:216.68.149.96-216.68.149.127
 ZoomTown.Com Hosting - Atomic Dog:216.68.157.80-216.68.157.95
 Housing Authority of Covington Location 1- Fuse Business ADSL:216.68.160.24-216.68.160.31
 Housing Authority of Covington Location 2 - Fuse Business ADSL:216.68.160.32-216.68.160.39
-Housing Authority of Covington Location 3 - Fuse Business ADSL:216.68.160.40-216.68.160.47
 Housing Authority of Covington Location 4 - Fuse Business ADSL:216.68.160.48-216.68.160.55
 Housing Authority of Covington Location 6 - Fuse Business ADSL:216.68.160.64-216.68.160.71
 Housing Authority of Covington Location 7 - Fuse Business ADSL:216.68.160.72-216.68.160.79
@@ -218239,7 +218242,6 @@ Hilton New Orleans Riverside:216.77.48.96-216.77.48.127
 St. Charles Parish Sheriff Department:216.77.50.0-216.77.50.127
 City of Gulfport:216.77.51.128-216.77.51.191
 Gannett Offset Florida:216.77.61.96-216.77.61.111
-Office of Public Defender:216.77.61.144-216.77.61.159
 XM Satellite Radio:216.77.61.192-216.77.61.207
 Santa Rosa County Sheriffs Office:216.77.63.160-216.77.63.175
 US Navy SPAWAR:216.77.63.184-216.77.63.191
@@ -235050,7 +235052,6 @@ Chengyang Police Bureau-QINGDAO:221.215.127.40-221.215.127.43
 Detected AP2P on China Unicom Shandong proxy:221.215.155.38-221.215.155.38
 Detected AP2P on China Unicom Shandong proxy:221.215.162.154-221.215.162.154
 SMSHoax FakeAV Fraud Trojan:221.215.173.78-221.215.173.78
-Shandong Mingfeng Law Office-QINGDAO:221.215.203.64-221.215.203.67
 Shandong Haizhinuo Law Office-QINGDAO:221.215.203.84-221.215.203.87
 QINGDAO MUNICIPAL STATISTICAL BUREAU-QINGDAO:221.215.209.32-221.215.209.47
 QINGDAO RADIO & TV UNIVERSITY-QINGDAO:221.215.210.136-221.215.210.143
