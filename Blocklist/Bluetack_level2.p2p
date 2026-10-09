@@ -109,6 +109,7 @@ Point Mugu Federal Credit Union-VOL END:4.18.40.96-4.18.40.127
 Cancer International Research Group, Inc CIRG-40-23 (NET-4-18-40-136-1):4.18.40.136-4.18.40.143
 Epson America:4.18.40.160-4.18.40.167
 Blood Bank of San Bernardino and Riversi BLOBANK-41-16:4.18.41.32-4.18.41.47
+AltaOne Federal Credit Union ALTA-41-09:4.18.41.64-4.18.41.127
 Mission Oaks National Bank MISSIONOAKSNATIONALB-42-9:4.18.42.72-4.18.42.79
 Medtronics MiniMed:4.18.44.0-4.18.44.31
 Lesson Labs:4.18.44.32-4.18.44.63
@@ -3053,6 +3054,7 @@ SUNGARD TRUST:12.107.33.0-12.107.33.63
 VeriSign Infrastructure & Operations:12.107.34.144-12.107.34.151
 BRANCH BANKING TRUST:12.107.34.192-12.107.34.255
 KewauneeScientific:12.107.37.128-12.107.37.255
+EXXONMOBIL:12.107.39.208-12.107.39.215
 GENERAL MOTORS CORP:12.107.50.56-12.107.50.63
 SUNGARD TRUST:12.107.50.56-12.107.50.63
 SUNGARD TRUST:12.107.50.216-12.107.50.223
@@ -14226,6 +14228,7 @@ research:63.120.249.224-63.120.249.231
 Research Consultants:63.120.253.24-63.120.253.31
 FactSet Research Sys:63.121.1.0-63.121.2.255
 Atlantic Research Corp:63.121.64.0-63.121.64.255
+NOCPulse, Inc:63.121.136.0-63.121.139.255
 Goldman Sachs:63.122.9.152-63.122.9.159
 VeriSign Infrastructure & Operations:63.122.110.0-63.122.110.255
 Preferred Capital Ma:63.122.218.224-63.122.218.255
@@ -14915,6 +14918,7 @@ Altera Corp:63.195.64.224-63.195.64.255
 SBC Tri:63.195.65.120-63.195.65.127
 First Priority Financial Inc:63.195.66.32-63.195.66.63
 First Financial Company:63.195.66.224-63.195.66.231
+Klein Financial Corp:63.195.66.240-63.195.66.247
 Diablo Clinical Research Inc:63.195.67.152-63.195.67.159
 California Public Health Foundation:63.195.69.192-63.195.69.199
 People Federal Credit U:63.195.76.96-63.195.76.111
@@ -20592,7 +20596,6 @@ UCN Inc:65.121.73.112-65.121.73.127
 OPPENHEIMER COMPANIES INC:65.121.75.160-65.121.75.175
 MORGAN STANLEY DEAN WITTER:65.121.76.0-65.121.77.255
 UCN Inc:65.121.78.0-65.121.78.255
-UCN INC:65.121.102.160-65.121.102.191
 UCN, INC:65.121.128.16-65.121.128.23
 DEBT REDUCTION SERVICES IC:65.121.128.184-65.121.128.191
 THERMO SPECTRA PHYSICS:65.121.133.160-65.121.133.191
@@ -23860,7 +23863,6 @@ Acronym Media, Inc:66.246.254.192-66.246.254.255
 Medical Mission for Children:66.247.11.192-66.247.11.199
 USLEC Corp:66.248.0.0-66.248.127.255
 Name Intelligence, Inc:66.249.16.0-66.249.17.255
-Northern California Injection Molding Inc:66.249.169.144-66.249.169.151
 Urban Institute:66.250.3.4-66.250.3.5
 ExxonMobil:66.250.3.42-66.250.3.43
 Megapath Networks:66.250.3.48-66.250.3.49
@@ -24407,7 +24409,6 @@ Excel_Genesis:67.97.190.0-67.97.190.255
 Hay Group:67.97.231.32-67.97.231.63
 RDB:67.98.0.0-67.98.0.255
 GDX_Automotive:67.98.5.192-67.98.5.223
-Hay Group:67.98.63.64-67.98.63.95
 Fujifilm:67.98.71.224-67.98.71.255
 GRS:67.98.76.0-67.98.76.255
 UCN/Network Pharmaceutticals:67.98.232.160-67.98.232.175
@@ -26301,7 +26302,6 @@ S L FINANCIAL GRP-040814015944:68.122.58.248-68.122.58.255
 TRAVIS CREDIT UNION-041106012550:68.122.64.88-68.122.64.95
 Fhhl First Tennessee:68.122.64.128-68.122.64.135
 Axa Rosenberg:68.122.65.224-68.122.65.231
-GENESYS-040731025533:68.122.66.24-68.122.66.31
 Community One Financial:68.122.76.160-68.122.76.167
 Fresenius Medical:68.122.77.56-68.122.77.63
 Phoenix Patrol Inc:68.122.85.144-68.122.85.151
@@ -29736,7 +29736,6 @@ FANNIE MAE CONSECTIONS INC-041104014721:69.213.133.112-69.213.133.119
 International Sources:69.213.157.80-69.213.157.95
 Weston Solutions Inc-041020234654:69.213.166.80-69.213.166.87
 YALE INTERNATIONAL INS-041022002638:69.213.169.8-69.213.169.15
-Prime Digital Media Inc-041111021452:69.213.179.216-69.213.179.223
 NATIONAL BACKGROUND CHECK-041103022416:69.213.186.144-69.213.186.151
 Daewoo International:69.213.203.0-69.213.203.255
 DAEWOO INTERNATIONAL-041112010353:69.213.207.136-69.213.207.143
@@ -34314,6 +34313,7 @@ WYDAWNICTWO SZKOLNE I PEDAGOGICZNE S.A:80.55.62.4-80.55.62.7
 AGENCJA REKLAMOWA PARAKLET SP. Z O.O:80.55.67.16-80.55.67.19
 \\\"SOS\\\" S.C. ADAM SIKORSKI, PIOTR WESOLOWSKI:80.55.67.208-80.55.67.211
 WYDAWNICTWO UNITEX SP. Z O.O:80.55.68.252-80.55.68.255
+TIME&SPACE MEDIA HOUSE SP. Z O.O. FILIA TORUN:80.55.76.112-80.55.76.115
 O.K. MEDICAL SYSTEM:80.55.80.32-80.55.80.35
 ZYSK I S-KA WYDAWNICTWO S.J. TADEUSZ ZYSK, ALDONA:80.55.83.112-80.55.83.119
 AKTUALNOSCI WYDAWNICTWO TARGOWE MACIEJ PRZYBYLSKI:80.55.84.112-80.55.84.119
@@ -42547,6 +42547,7 @@ JND Communication Co., Ltd - VPN:112.72.16.0-112.72.63.255
 Foshan Ruijiang Science and Tech Ltd:112.73.0.0-112.73.255.255
 Aliyun Computing Co Ltd:112.74.0.0-112.74.255.255
 Online Data Services JSC:112.78.0.0-112.78.15.255
+SIMEX Limited:112.78.16.0-112.78.31.255
 Straits Technologies Ltd:112.78.48.0-112.78.63.255
 Equantech Corporation:112.78.104.0-112.78.111.255
 PT Mandarin Hotel:112.78.128.0-112.78.129.255
@@ -42918,7 +42919,6 @@ Beijing Blue I.T Technologies Co., Ltd:118.194.160.0-118.194.163.255
 Guangzhou Tenmark Networks Technology Ltd:118.224.0.0-118.227.255.255
 China Education and Research Network - Beijing:118.228.0.0-118.230.255.255
 Chisa Technologies (Pty) Ltd:118.228.150.0-118.228.150.255
-Shanghai Highway Information Technology Co., Ltd:118.242.0.0-118.242.255.255
 Beijing Weishichuangjie Technical Development Co., Ltd:118.246.0.0-118.247.255.255
 Caspo, Inc. Philippines:119.2.32.0-119.2.39.255
 PT Laxo Global Akses:119.2.40.0-119.2.47.255
@@ -43382,6 +43382,7 @@ Vocus Communications:123.100.64.0-123.100.127.255
 ChinaNetCenter Ltd:123.103.0.0-123.103.127.255
 Nippon Telegraph and Telephone East Corporation:123.104.0.0-123.107.255.255
 PT Jivan Jaya Makmur Telecom:123.108.8.0-123.108.15.255
+Netmagic Solutions:123.108.32.0-123.108.63.255
 AINS Business Communications:123.108.68.0-123.108.71.255
 BG&E Pty Limited:123.108.104.0-123.108.107.255
 OMITECH:123.108.112.0-123.108.127.255
@@ -46126,6 +46127,7 @@ Onesource Technologies, LLC:166.93.0.0-166.93.255.255
 AT&T Global Network Services Japan:166.100.0.0-166.100.255.255
 American Express Tax &amp; Bu:166.102.16.64-166.102.16.71
 Arkansas National Bank:166.102.187.128-166.102.187.159
+Windstream Admin Office:166.102.191.0-166.102.191.7
 First National Bank - Crossett:166.102.215.32-166.102.215.63
 Samsung Techwin Co., Ltd:166.103.0.0-166.103.255.255
 imported inetnum object for DNSL:166.106.0.0-166.106.255.255
@@ -61023,6 +61025,7 @@ Deutsche Bank:203.126.20.96-203.126.20.127
 Tenet Insurance Company Ltd:203.126.20.224-203.126.20.255
 Neom Maritime (S) Pte Ltd:203.126.22.128-203.126.22.159
 PCS Peripherals Pte Ltd:203.126.22.224-203.126.22.255
+Deutsche Bank:203.126.23.96-203.126.23.127
 HL Bank:203.126.25.144-203.126.25.159
 Radianz Access Technologies Pte Ltd:203.126.26.48-203.126.26.63
 The Development Bank Of Singapore:203.126.27.192-203.126.27.207
@@ -73166,6 +73169,7 @@ Mitsubishi Electric BV:212.240.12.88-212.240.12.91
 AGIP (UK) Limited:212.240.15.56-212.240.15.59
 Ace Pre Press:212.240.29.32-212.240.29.47
 Terex Equipment Ltd:212.240.52.96-212.240.52.111
+Scottish Widows Plc:212.240.72.176-212.240.72.191
 Sanders Research Associates:212.240.95.192-212.240.95.207
 (AFS) Automotive Financial Services Ltd:212.240.133.0-212.240.133.31
 Caprock UK Ltd:212.240.134.48-212.240.134.63
@@ -73514,7 +73518,6 @@ Verlag Chmielorz GmbH:213.23.211.232-213.23.211.239
 Verlags- und Werbestudio Busse GmbH:213.23.221.184-213.23.221.191
 Logica GmbH:213.23.226.40-213.23.226.47
 MZV Moderner Zeitschriften Vertrieb GmbH & Co. KG:213.23.252.232-213.23.252.239
-National Bank of Udmurtia:213.24.12.0-213.24.12.255
 Voronezh Communications Research Institute:213.24.95.80-213.24.95.95
 Institute for retraining specialists of the Urals State Technical University:213.24.187.192-213.24.187.223
 Internet Wizards Sp. z o. o:213.25.41.0-213.25.41.255
@@ -74235,6 +74238,7 @@ Verizon Business/Bangash CO Limited:213.71.132.192-213.71.132.207
 Verizon Business:213.71.132.208-213.71.132.223
 Deutsche Bundesbank:213.71.132.224-213.71.132.255
 Infor Global Solutions GmbH:213.71.135.200-213.71.135.207
+Red Hat GmbH:213.71.137.112-213.71.137.127
 Infor Global Solutions:213.71.137.144-213.71.137.159
 Infor Global Solutions:213.71.139.0-213.71.139.7
 Edelman:213.71.140.4-213.71.140.7
@@ -76270,7 +76274,6 @@ Orange Coast Title Co:216.31.247.32-216.31.247.39
 Prudential California Realty:216.31.247.96-216.31.247.111
 Jan Marini Skin Research:216.31.248.168-216.31.248.175
 Cardiff Ventures:216.31.248.192-216.31.248.207
-Socket Comm. Inc:216.31.250.0-216.31.250.255
 Harder & Co Community Research:216.31.251.192-216.31.251.207
 ISN NETWORKS INC:216.32.81.233-216.32.81.240
 vpn21.findnot.com:216.32.90.186-216.32.90.186
@@ -76395,7 +76398,6 @@ Doral Bank 0.824:216.44.189.48-216.44.189.55
 Rostra Vernatherm  0.830:216.44.189.72-216.44.189.79
 Orion Consultants:216.44.216.224-216.44.216.239
 windhamreports.com:216.45.39.171-216.45.39.171
-Comcast Business Communications, LLC:216.45.128.0-216.45.255.255
 Carlson Print Group:216.45.228.8-216.45.228.15
 Virage l\\:216.46.16.96-216.46.16.127
 Fairfield Financial:216.46.38.80-216.46.38.95
@@ -77873,7 +77875,6 @@ Nestlehut Financial Services, Inc:216.181.225.176-216.181.225.191
 Retina Vitreous Consultants:216.181.229.224-216.181.229.255
 DC Medical:216.181.233.32-216.181.233.39
 Anderson Digital Services:216.181.233.136-216.181.233.143
-Alamitos West Convalescent Hospital:216.181.238.64-216.181.238.95
 Dr. Bernard Greenbaum:216.181.244.96-216.181.244.111
 RAD Communications:216.181.244.192-216.181.244.207
 Phoenix Systems, LLC:216.181.244.240-216.181.244.255
@@ -78442,7 +78443,6 @@ Q9 Networks Inc. (Employee Cabinet):216.220.42.128-216.220.42.143
 T4G Limited:216.220.43.112-216.220.43.127
 Indigo Books and Music Inc:216.220.45.32-216.220.45.63
 Truition Inc:216.220.48.96-216.220.48.127
-Fort Nocs Networks Inc:216.220.48.128-216.220.48.159
 Datalog Technology Inc:216.220.49.144-216.220.49.159
 Quick-Draw Inc:216.220.49.160-216.220.49.175
 Q9 Networks Inc. (Employee Cabinet):216.220.50.32-216.220.50.47
@@ -83045,7 +83045,6 @@ China Telecom Group Yellowpages Information Co.,ltd Suzhou Branch:221.224.51.112
 ZHANGJIAGANG DONGLAN MOVIE  NETBAR:221.224.58.228-221.224.58.231
 Suzhou Hongtu-Sanbao Science&Technology Development Co.,Ltd:221.224.60.128-221.224.60.135
 Suzhou Jiaoyu Investment Co Ltd:221.224.132.136-221.224.132.143
-tristone netbar:221.229.122.16-221.229.122.31
 Yizheng Ecnomic Company:221.229.126.0-221.229.126.15
 Zhenjiang Xunirensheng Netbar:221.230.0.128-221.230.0.255
 The subbranch of Danyang City of Agricultural Bank of China:221.230.2.96-221.230.2.111
