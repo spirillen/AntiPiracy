@@ -2553,6 +2553,7 @@ THE WASHINGTON POST- KAPLAN, INC:12.45.206.96-12.45.206.127
 STARWOOD HOTELS:12.45.217.200-12.45.217.207
 MSI MIAMI:12.45.221.64-12.45.221.71
 THE TALBOTS INC:12.45.226.160-12.45.226.191
+STARWOOD HOTELS:12.45.230.64-12.45.230.79
 PITNEY BOWES, INC:12.45.231.192-12.45.231.223
 BANKERS LIFE CASUALTY:12.45.238.32-12.45.238.39
 The Endurance International Group, Inc., AKA Bizland, Inc:12.45.243.128-12.45.243.191
@@ -7540,6 +7541,7 @@ KODAK:60.32.129.88-60.32.129.95
 National Institute of Advanced Industrial Science and Technology:60.32.129.168-60.32.129.175
 INTEROP-TEST:60.32.132.16-60.32.132.23
 NTT COMWARE CORPORATION:60.32.134.32-60.32.134.39
+FUJIFILM SOFTWARE CO.,LTD:60.32.145.72-60.32.145.79
 NTT DoCoMo,Inc:60.32.150.64-60.32.150.71
 VeriSign Japan K.K:60.32.152.168-60.32.152.175
 TOEI Kikaku Inc:60.32.153.136-60.32.153.143
@@ -8267,7 +8269,6 @@ Hitachi System & Service,Ltd:61.120.121.64-61.120.121.71
 FUJI TRADING CO.,LTD:61.120.121.192-61.120.121.199
 Fujicopian Co.,Ltd:61.120.121.240-61.120.121.255
 Hitachi Information Systems.,Ltd:61.120.125.152-61.120.125.159
-tips-lab.Co.,Ltd:61.120.126.32-61.120.126.47
 Mitsubishi heavy industries kinki sales Co.,Ltd:61.120.126.144-61.120.126.151
 Taipei Economic and Cultural Office in Osaka:61.120.126.152-61.120.126.159
 IPVPN:61.120.150.160-61.120.150.191
@@ -8725,6 +8726,7 @@ China People Bank , YiYang city, HuNan Province:61.137.45.48-61.137.45.51
 China Bank Loudi Branch ,HuNan Province:61.137.48.208-61.137.48.215
 China Construction Bank LouDi Branch,HuNan Provin:61.137.48.224-61.137.48.231
 China Agriculture Bank Loudi branch ,HuNan Provin:61.137.48.232-61.137.48.239
+China Agriculture Bank Xinhua County branch, Loud:61.137.48.240-61.137.48.247
 China Construction BANK , YongZhou city, HuNan Pr:61.137.52.0-61.137.52.7
 China People Bank , Yongzhou city, HuNan Province:61.137.52.16-61.137.52.23
 Business bank of zhuzhou city, HuNan Province:61.137.95.64-61.137.95.71
@@ -9008,6 +9010,7 @@ Zhejiang Xuege Fashion Co., Ltd:61.153.15.16-61.153.15.23
 Jodou Garments Enterprise Co. Ltd:61.153.15.24-61.153.15.31
 Bank of Wenzhou:61.153.15.32-61.153.15.35
 Dongtou Telecom Corp. Marketing Dept:61.153.15.40-61.153.15.47
+Dongtou Telecom Corp. Running & Maintenance Dept:61.153.15.48-61.153.15.55
 Wenzhou Xinyuan Internet Bar:61.153.15.56-61.153.15.63
 Wenzhou Life Insurance Corporation:61.153.15.64-61.153.15.71
 Wenzhou JingDeShun Internet Bar:61.153.15.72-61.153.15.79
@@ -24200,7 +24203,6 @@ Private Customer:67.66.89.192-67.66.89.199
 First Horizon Homeloans:67.66.108.112-67.66.108.119
 Private Customer - SBC Internet Services:67.66.113.32-67.66.113.39
 Baptist Health:67.66.126.200-67.66.126.207
-Medical Arts Pharmac:67.66.134.248-67.66.134.255
 SBC DataComm:67.66.147.208-67.66.147.223
 Private Customer - SBC Internet Services:67.66.187.176-67.66.187.183
 Dow Chemical Co:67.66.195.8-67.66.195.15
@@ -30776,7 +30778,6 @@ SquickNet Online:70.91.205.200-70.91.205.207
 Pratt and Whitney Surplus Store:70.91.221.72-70.91.221.79
 Foxconn Electronics Inc:70.91.229.200-70.91.229.207
 Microworld:70.96.185.0-70.96.185.255
-Quality RV:70.98.223.224-70.98.223.231
 Integra Telecom, Inc:70.102.0.0-70.103.255.255
 mail.testout.com:70.102.166.210-70.102.166.210
 UCN Inc:70.103.236.192-70.103.236.255
@@ -38525,7 +38526,6 @@ Volksbank leasing:82.193.217.32-82.193.217.39
 Deloitte & Touche d.o.o:82.193.217.40-82.193.217.47
 Volksbank leasing:82.193.217.112-82.193.217.119
 Debis Leasing Hrvatska d.o.o:82.193.217.144-82.193.217.151
-Volksbank leasing:82.193.217.160-82.193.217.191
 Koncar-inem d.o.o:82.193.222.128-82.193.222.191
 Azerbaijan Research and Educational Networking Association:82.194.8.0-82.194.11.255
 Wochenzeitung Emmendinger Tor Verlags GmbH:82.194.104.8-82.194.104.15
@@ -40088,6 +40088,7 @@ RE/MAX DCI Donaucity-Immoblienfetscher & partner KG:85.125.66.144-85.125.66.151
 Musikinstrumentenhaus Griessl:85.125.101.176-85.125.101.183
 ECOWIN VERLAG GmbH:85.125.108.120-85.125.108.127
 Czernin Entertainment SalzburgGmbH:85.125.111.96-85.125.111.111
+AMADEUS Austria Marketing-gesellschaft m.b.H:85.125.113.0-85.125.113.7
 Fuji Film Ã–sterreichGesellschaft m.b.H.Nfg.KG:85.125.119.64-85.125.119.71
 M&B ZeitschriftenproduktionGmbH:85.125.119.128-85.125.119.135
 KPMG IT Services GmbH:85.125.125.40-85.125.125.47
@@ -40618,7 +40619,6 @@ Record Tuerautomation GmbH:87.193.197.74-87.193.197.74
 Badenia Verlag und Druckerei GmbH:87.193.200.222-87.193.200.222
 IZ Immobilien Zeitung Vertragsgesellschaft:87.193.206.37-87.193.206.37
 TVS Telefonbuch Verlag Suedbaden:87.193.209.24-87.193.209.31
-Luebecker Musik- u. Kongresshallengesellschaft mbH:87.193.209.178-87.193.209.179
 Musikkneipen Betriebsgesellschaft:87.193.211.21-87.193.211.21
 Luebecker Musik- u. Kongresshallengesellschaft mbH:87.193.212.0-87.193.212.127
 zweigwerk @ Publicis Frankfurt:87.193.215.200-87.193.215.200
@@ -48647,6 +48647,7 @@ OeBV & HPT VerlagsgmbH:193.80.181.144-193.80.181.159
 ML Logistik- & Produktions GmbH:193.80.182.240-193.80.182.255
 WideLabs d.o.o:193.80.204.0-193.80.204.255
 Getronics Austria GmbH:193.80.208.0-193.80.215.255
+ECS ELIN Communications:193.80.231.0-193.80.231.255
 Hillstein-Verlag Dr. Wolfgang Steiner:193.81.8.0-193.81.8.255
 Information Technology and Telecommunication GmbH:193.81.35.160-193.81.35.191
 ILAB24 GmbH:193.81.89.48-193.81.89.63
@@ -57299,6 +57300,7 @@ HOT Technology:202.37.204.0-202.37.207.255
 eCOSM Limited:202.37.218.0-202.37.219.255
 IP Security Limited:202.37.220.0-202.37.220.255
 Chisoft Limited:202.37.221.0-202.37.221.255
+Key Information Services Ltd:202.37.233.0-202.37.233.255
 Pearson Davis Ltd Advertising:202.37.234.0-202.37.234.255
 Meadow Fresh Foods:202.37.248.0-202.37.248.255
 23 Raroa Road, Lower Hutt:202.37.251.0-202.37.251.255
@@ -60207,6 +60209,7 @@ Kodak (Australia) P/L:203.63.77.0-203.63.77.255
 N M Rothschild & Son (23776):203.63.79.128-203.63.79.159
 Card & Paper House:203.63.79.224-203.63.79.231
 Major Electronics Pty Ltd:203.63.104.0-203.63.104.255
+NM Rothschild & Sons:203.63.105.0-203.63.105.255
 Expense Reduction Analysts:203.63.108.172-203.63.108.175
 Financial Planning Association of Australia:203.63.129.40-203.63.129.43
 CB Richard Ellis:203.63.133.0-203.63.133.127
@@ -61145,7 +61148,6 @@ VANCO(AP) P/L:203.127.117.0-203.127.117.63
 NYK SYSTEMS RESEARCH INSTITUTE:203.127.117.192-203.127.117.207
 DEVELOPMENT BANK OF SINGAPORE LTD (DBS):203.127.119.144-203.127.119.159
 Merrill Lynch Singapore Pte Ltd:203.127.120.64-203.127.120.127
-Mitsubishi Logistics Singapore Pte Ltd:203.127.130.64-203.127.130.79
 ABN Amro Bank:203.127.138.0-203.127.138.127
 DEVELOPMENT BANK OF SINGAPORE LTD:203.127.140.96-203.127.140.127
 Grand Copthorne Waterfront Hotel Singapore:203.127.140.128-203.127.140.191
@@ -63438,7 +63440,6 @@ Infoseek Corporation:205.226.200.0-205.226.207.255
 Infoseek Corporation:205.226.204.0-205.226.207.255
 The Left Bank Operation:205.227.152.0-205.227.152.255
 Target Marketing Technology:205.227.164.0-205.227.164.255
-Morgan Stanley Group Inc:205.228.0.0-205.228.127.255
 OfficeMax:205.228.253.0-205.228.253.255
 OfficeMax:205.228.255.0-205.228.255.255
 Ernst & Company:205.229.16.0-205.229.17.255
@@ -63703,6 +63704,7 @@ First Data Corporation/FDT:206.19.206.16-206.19.206.31
 AT&T Managed Firewall Services NB2:206.19.209.0-206.19.211.255
 ASML:206.19.218.0-206.19.218.255
 Blue Cross Blue Shield of NJ:206.20.53.96-206.20.53.127
+Blue Cross Blue Shield of NJ:206.20.53.192-206.20.53.255
 Blink Online Publishing:206.20.100.0-206.20.100.255
 Council on Economic Priorities:206.20.222.0-206.20.222.63
 Sterling Bank Corp:206.20.228.0-206.20.228.255
@@ -64345,7 +64347,6 @@ First National Bank of Wynne:207.13.36.80-207.13.36.95
 ROCKWELL AUTOMATION:207.13.75.32-207.13.75.63
 ING Bank, FSB:207.13.113.128-207.13.113.143
 SBCIS VPN:207.13.113.208-207.13.113.215
-Matthews International GSD:207.13.123.128-207.13.123.255
 Majestic Research:207.14.82.64-207.14.82.95
 EMERGENCY HOUSING CONSORTIUM:207.14.82.168-207.14.82.183
 Sprint Multimedia:207.15.73.0-207.15.73.255
@@ -65121,7 +65122,6 @@ Kostech Smallcaps Research:207.228.56.0-207.228.56.255
 Cadvision business services:207.228.80.0-207.228.114.255
 Cadvision business services:207.228.117.0-207.228.127.255
 Nexen Inc.-FTMMAB01:207.229.32.64-207.229.32.127
-Nexen Inc:207.229.32.64-207.229.32.127
 Studio Blue:207.229.138.216-207.229.138.223
 PreSearch Inc:207.229.167.96-207.229.167.127
 Stax Research:207.229.181.64-207.229.181.127
@@ -66884,6 +66884,7 @@ allstateinsurancekellyweaver:208.252.135.192-208.252.135.199
 allstateinsurancecharleswebb:208.252.135.208-208.252.135.215
 ALLSTATE INSURANCE/RON WOODS:208.252.135.240-208.252.135.247
 ALLSTATE INSURANCE/NESTOR CORPUZ:208.252.135.248-208.252.135.255
+allstateinsurancemichaelnakfoor:208.252.136.16-208.252.136.23
 allstateinsurancelonnieallen:208.252.136.24-208.252.136.31
 Intermedia / Grinnell Fire Protection:208.252.136.192-208.252.136.223
 allstateinsurancedonpetsinger:208.252.136.240-208.252.136.247
@@ -67520,6 +67521,7 @@ Thomas F. Lettington:209.75.99.216-209.75.99.223
 College Loan Corporation:209.76.3.0-209.76.3.255
 Daewoo of Sacramento:209.76.42.152-209.76.42.159
 Matthew Russell dba Center for Evaluation and Research:209.76.69.104-209.76.69.111
+Bay View Federal Bank:209.76.125.32-209.76.125.63
 Catholic Healthcare West:209.76.174.0-209.76.174.255
 CSR Quire Financial Corp:209.76.175.128-209.76.175.191
 Impact Transportation Company LLC:209.76.208.0-209.76.208.15
@@ -74711,7 +74713,6 @@ RA Consulting GmbH:213.144.11.0-213.144.11.63
 Horn Druck & Verlag:213.144.20.35-213.144.20.35
 www.start.bringe.net:213.144.21.47-213.144.21.47
 start.de:213.144.21.66-213.144.21.67
-flight.start.bringe.net:213.144.21.71-213.144.21.71
 start.de:213.144.21.76-213.144.21.77
 reisejournal.start.de:213.144.21.82-213.144.21.82
 gewinnspiel.start.de:213.144.21.108-213.144.21.108
@@ -78931,7 +78932,6 @@ Landesklinik Brandenburg:217.5.247.104-217.5.247.111
 Kreiskrankenhaus Dormagen:217.5.247.168-217.5.247.175
 Kurier Verlag Lennestadt GmbH:217.5.250.96-217.5.250.103
 Badische Anzeigen Verlags GmbH:217.5.250.160-217.5.250.167
-Warwick GmbH & Co. Music Equipment KG:217.5.252.88-217.5.252.95
 TSI fuer Wal-Mart Germany GmbH & Co. KG:217.5.253.216-217.5.253.223
 phinware Beratung und Software GmbH:217.5.254.112-217.5.254.119
 Joekel Thomas:217.6.0.80-217.6.0.87
@@ -79511,6 +79511,7 @@ GIA.TRA. GIANESINI TRASPORTI - S.R.L:217.57.213.16-217.57.213.23
 JETRESEARCHSRL:217.57.223.8-217.57.223.15
 QUADRIGA ITALIA SPA:217.57.238.144-217.57.238.151
 PROFILMEC SPA:217.57.244.96-217.57.244.103
+GLAXO WELLCOME SPA:217.57.248.32-217.57.248.39
 GENESYS CONFERENCING SRL:217.57.254.224-217.57.254.239
 DEUTSCHE BANK FONDI SGR SPA:217.57.254.248-217.57.254.255
 PHD DI BRUNO SCONOCCHIA and C:217.58.7.16-217.58.7.19
@@ -80945,7 +80946,6 @@ Quadriga Worldwide Ltd:217.207.81.168-217.207.81.175
 Quadriga Worldwide Ltd:217.207.81.192-217.207.81.223
 Factset Research Systems:217.207.93.152-217.207.93.159
 Nortel:217.207.98.96-217.207.98.103
-Rainbow Cyber Services:217.207.98.144-217.207.98.159
 NURMT  National Union of Rail Maritime and Transp:217.207.102.224-217.207.102.239
 Mott Macdonald Ltd - John Proctor Travel:217.207.104.96-217.207.104.111
 Factset Research Systems:217.207.109.40-217.207.109.47
@@ -82374,6 +82374,7 @@ Daewoo Information System Co., Ltd:218.158.211.49-218.158.211.49
 Daewoo Information System Co., Ltd:218.158.211.73-218.158.211.73
 LogicaCMG Pty Ltd:218.185.0.128-218.185.0.159
 Omnilab:218.185.70.144-218.185.70.159
+Asset Equities Research:218.185.94.65-218.185.94.127
 Australian Medical Association:218.185.104.0-218.185.104.7
 General Motors Holden:218.185.127.64-218.185.127.95
 Six one zero Research Institute:218.200.142.8-218.200.142.15
@@ -83159,7 +83160,6 @@ FUJIFILM (CHINA) INVESTMENT CO.,LTD:222.66.169.84-222.66.169.87
 Fudan University Innovation Base:222.66.169.188-222.66.169.191
 Shanghai Jiaotong University Ruijin Hospital:222.66.169.220-222.66.169.223
 KPMG HUAZHEN SHANGHAI BRANCH:222.66.195.224-222.66.195.239
-Gibson China Musical Instrumen Trade Co., Lltd:222.66.229.116-222.66.229.119
 Zhejiang Xinhua Futures Jinji Co., Ltd., Shanghai Branch:222.66.230.156-222.66.230.159
 Federal Express Co. Shanghai Office:222.68.180.108-222.68.180.111
 Outdoor Telephone Booth Video Ad:222.68.180.136-222.68.180.139
